@@ -73,8 +73,6 @@ flutter:
   assets:
     - assets/upload.png
     - assets/LeafModel.onnx
-    - assets/FruitModel.onnx
-    - assets/CoAtNet.onnx
     - assets/MobileNetV3.onnx
   #   - images/a_dot_ham.jpeg
 

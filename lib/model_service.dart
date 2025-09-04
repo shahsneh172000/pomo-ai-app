@@ -7,7 +7,8 @@ class ModelService {
   ort.OrtSessionOptions? _sessionOptions;
   ort.OrtRunOptions? _runOptions;
 
-  // sessions keyed by lowercase model key: 'fruit','mobilenetv3','coatnet','leaf'
+
+  // sessions keyed by lowercase model key: 'mobilenetv3','leaf'
   final Map<String, ort.OrtSession?> _sessions = {};
 
   final List<String> fruitLabels = [
@@ -23,9 +24,7 @@ class ModelService {
 
   // Map of asset paths (must match pubspec.yaml)
   final Map<String, String> _assetMap = {
-    'fruit': 'assets/FruitModel.onnx',
     'mobilenetv3': 'assets/MobileNetV3.onnx',
-    'coatnet': 'assets/CoAtNet.onnx',
     'leaf': 'assets/LeafModel.onnx',
   };
 
@@ -112,7 +111,7 @@ class ModelService {
     if (key == 'leaf') {
       return leafLabels[classIndex];
     }
-    // fruit, mobilenetv3 and coatnet map to same fruitLabels (adjust if different)
+    // mobilenetv3 maps to fruitLabels (adjust if different)
     return fruitLabels[classIndex];
   }
 

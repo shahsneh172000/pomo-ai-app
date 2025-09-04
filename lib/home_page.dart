@@ -17,7 +17,7 @@ class _MyHomePageState extends State<MyHomePage> {
   String label = "Label";
   late ModelService _modelService;
   late ImageProcessor _imageProcessor;
-  String _selectedModel = 'fruit'; // default model key
+  String _selectedModel = 'mobilenetv3'; // default model key
   bool _isLoadingModels = true;
   bool _isProcessingImage = false;
 
@@ -195,19 +195,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         ElevatedButton(
                           onPressed: () {
                             setState(() {
-                              _selectedModel = 'fruit';
-                              label = "Label";
-                            });
-                          },
-                          style: ElevatedButton.styleFrom(
-                            backgroundColor: _selectedModel == 'fruit' ? Colors.deepPurple : null,
-                          ),
-                          child: const Text('Fruit'),
-                        ),
-                        const SizedBox(width: 12),
-                        ElevatedButton(
-                          onPressed: () {
-                            setState(() {
+
                               _selectedModel = 'mobilenetv3';
                               label = "Label";
                             });
@@ -217,19 +205,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           ),
                           child: const Text('MobileNetV3'),
                         ),
-                        const SizedBox(width: 12),
-                        ElevatedButton(
-                          onPressed: () {
-                            setState(() {
-                              _selectedModel = 'coatnet';
-                              label = "Label";
-                            });
-                          },
-                          style: ElevatedButton.styleFrom(
-                            backgroundColor: _selectedModel == 'coatnet' ? Colors.deepPurple : null,
-                          ),
-                          child: const Text('CoAtNet'),
-                        ),
+
                       ],
                     ),
 

@@ -34,189 +34,218 @@ class _MyHomePageState extends State<MyHomePage> {
     });
   }
 
-  Future<void> pickImageGallery() async {
+  Future<void> _pickAndProcessImage(ImageSource source) async {
     if (_isLoadingModels) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(content: Text("Please wait, models are loading...")),
       );
       return;
     }
-
     final ImagePicker picker = ImagePicker();
-    final XFile? image = await picker.pickImage(source: ImageSource.gallery);
+    final XFile? image = await picker.pickImage(source: source);
     if (image == null) return;
+
+    setState(() {
+      label = "Processing...";
+    });
 
     File? croppedImage = await _imageProcessor.cropImage(File(image.path));
     if (croppedImage != null) {
       setState(() {
         filePath = croppedImage;
       });
-      await _imageProcessor.runInference(croppedImage, _selectedModel, (
-        newLabel,
-      ) {
+      await _imageProcessor.runInference(
+          croppedImage, _selectedModel, (newLabel) {
         setState(() {
           label = newLabel;
         });
+      });
+    } else {
+      setState(() {
+        label = "Could not process image.";
       });
     }
   }
 
-  Future<void> pickImageCamera() async {
-    if (_isLoadingModels) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text("Please wait, models are loading...")),
-      );
-      return;
-    }
+  @override
+  Widget build(BuildContext context) {
+    final isDarkMode =
+        MediaQuery.of(context).platformBrightness == Brightness.dark;
 
-    final ImagePicker picker = ImagePicker();
-    final XFile? image = await picker.pickImage(source: ImageSource.camera);
-    if (image == null) return;
+    // Futuristic Color Palette with Light/Dark Mode support
+    final Color primaryAccent =
+        isDarkMode ? const Color(0xFF00BFFF) : const Color(0xFF007BFF); // DeepSkyBlue vs. Strong Blue
+    final Color backgroundColor =
+        isDarkMode ? const Color(0xFF121212) : const Color(0xFFF8F9FA);
+    final Color surfaceColor =
+        isDarkMode ? const Color(0xFF1E1E1E) : Colors.white;
+    final Color headingColor = isDarkMode ? Colors.white : Colors.grey.shade800;
 
-    File? croppedImage = await _imageProcessor.cropImage(File(image.path));
-    if (croppedImage != null) {
-      setState(() {
-        filePath = croppedImage;
-      });
-      await _imageProcessor.runInference(croppedImage, _selectedModel, (
-        newLabel,
-      ) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text(
+          "Pomo AI",
+          style: TextStyle(
+            fontWeight: FontWeight.bold,
+            color: headingColor,
+            letterSpacing: 1.2, // Add a futuristic touch
+          ),
+        ),
+        backgroundColor: Colors.transparent,
+        elevation: 0,
+        centerTitle: true,
+      ),
+      backgroundColor: backgroundColor,
+      body: _isLoadingModels
+          ? Center(
+              child: CircularProgressIndicator(
+              color: primaryAccent,
+            ))
+          : SafeArea(
+              child: SingleChildScrollView(
+                padding: const EdgeInsets.all(24.0),
+                child: Center(
+                  child: Column(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      _buildImageDisplay(
+                          headingColor, surfaceColor, primaryAccent),
+                      const SizedBox(height: 24),
+                      _buildModelSelector(primaryAccent, surfaceColor),
+                      const SizedBox(height: 24),
+                      _buildActionButtons(primaryAccent, surfaceColor),
+                    ],
+                  ),
+                ),
+              ),
+            ),
+    );
+  }
+
+  Widget _buildImageDisplay(
+      Color headingColor, Color surfaceColor, Color primaryAccent) {
+    return Column(
+      children: [
+        AnimatedSwitcher(
+          duration: const Duration(milliseconds: 500),
+          transitionBuilder: (child, animation) {
+            return FadeTransition(opacity: animation, child: child);
+          },
+          child: filePath == null
+              ? const SizedBox(
+                  key: ValueKey('placeholder'),
+                  height: 300,
+                  width: 300,
+                ) // Maintain space to avoid layout jumps
+              : Container(
+                  key: ValueKey(filePath), // Essential for AnimatedSwitcher
+                  height: 300,
+                  width: 300,
+                  decoration: BoxDecoration(
+                    color: surfaceColor,
+                    borderRadius: BorderRadius.circular(20),
+                    boxShadow: [
+                      BoxShadow(
+                        color: primaryAccent.withOpacity(0.4),
+                        blurRadius: 20,
+                        spreadRadius: 2,
+                      ),
+                    ],
+                  ),
+                  child: ClipRRect(
+                    borderRadius: BorderRadius.circular(20),
+                    child: Image.file(filePath!, fit: BoxFit.cover),
+                  ),
+                ),
+        ),
+        const SizedBox(height: 16),
+        AnimatedSwitcher(
+          duration: const Duration(milliseconds: 300),
+          transitionBuilder: (child, animation) {
+            return FadeTransition(opacity: animation, child: child);
+          },
+          child: Text(
+            label,
+            key: ValueKey(label), // Essential for AnimatedSwitcher
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              fontSize: 22,
+              fontWeight: FontWeight.bold,
+              color: headingColor,
+            ),
+          ),
+        ),
+      ],
+    );
+  }
+
+  Widget _buildModelSelector(Color primaryAccent, Color surfaceColor) {
+    return ToggleButtons(
+      isSelected: [_selectedModel == 'Fruit', _selectedModel == 'Leaf'],
+      onPressed: (int index) {
         setState(() {
-          label = newLabel;
+          _selectedModel = index == 0 ? 'Fruit' : 'Leaf';
+          label = "Label"; // Reset label
+          filePath = null; // Reset image
         });
-      });
-    }
+      },
+      borderRadius: BorderRadius.circular(30.0),
+      selectedBorderColor: primaryAccent,
+      selectedColor: surfaceColor,
+      fillColor: primaryAccent,
+      color: primaryAccent,
+      constraints: const BoxConstraints(minHeight: 40.0, minWidth: 120.0),
+      children: const <Widget>[
+        Padding(
+          padding: EdgeInsets.symmetric(horizontal: 16.0),
+          child: Text('Fruit Model'),
+        ),
+        Padding(
+          padding: EdgeInsets.symmetric(horizontal: 16.0),
+          child: Text('Leaf Model'),
+        ),
+      ],
+    );
+  }
+
+  Widget _buildActionButtons(Color primaryAccent, Color surfaceColor) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.stretch,
+      children: [
+        ElevatedButton.icon(
+          onPressed: () => _pickAndProcessImage(ImageSource.gallery),
+          icon: const Icon(Icons.image_outlined),
+          label: const Text("Gallery"),
+          style: ElevatedButton.styleFrom(
+            backgroundColor: primaryAccent,
+            foregroundColor: surfaceColor,
+            padding: const EdgeInsets.symmetric(vertical: 16),
+            textStyle:
+                const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+            shape: const StadiumBorder(),
+          ),
+        ),
+        const SizedBox(height: 12),
+        ElevatedButton.icon(
+          onPressed: () => _pickAndProcessImage(ImageSource.camera),
+          icon: const Icon(Icons.photo_camera_outlined),
+          label: const Text("Camera"),
+          style: ElevatedButton.styleFrom(
+            backgroundColor: primaryAccent,
+            foregroundColor: surfaceColor,
+            padding: const EdgeInsets.symmetric(vertical: 16),
+            textStyle:
+                const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+            shape: const StadiumBorder(),
+          ),
+        ),
+      ],
+    );
   }
 
   @override
   void dispose() {
     _modelService.dispose(); // Release models when the page is closed
     super.dispose();
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(title: const Text("Pomo AI")),
-      body:
-          _isLoadingModels
-              ? const Center(
-                child: CircularProgressIndicator(),
-              ) // Show loading indicator
-              : SingleChildScrollView(
-                child: Center(
-                  child: Column(
-                    children: [
-                      const SizedBox(height: 12),
-                      Card(
-                        elevation: 20,
-                        clipBehavior: Clip.hardEdge,
-                        child: SizedBox(
-                          width: 300,
-                          child: Column(
-                            children: [
-                              const SizedBox(height: 18),
-                              Container(
-                                height: 280,
-                                width: 280,
-                                decoration: BoxDecoration(
-                                  color: Colors.white,
-                                  borderRadius: BorderRadius.circular(12),
-                                  image:
-                                      filePath == null
-                                          ? const DecorationImage(
-                                            image: AssetImage(
-                                              'assets/upload.png',
-                                            ),
-                                            fit: BoxFit.cover,
-                                          )
-                                          : null,
-                                ),
-                                child:
-                                    filePath == null
-                                        ? null
-                                        : ClipRRect(
-                                          borderRadius: BorderRadius.circular(
-                                            12,
-                                          ),
-                                          child: Image.file(
-                                            filePath!,
-                                            fit: BoxFit.cover,
-                                          ),
-                                        ),
-                              ),
-                              const SizedBox(height: 12),
-                              Padding(
-                                padding: const EdgeInsets.all(8.0),
-                                child: Text(
-                                  label,
-                                  style: const TextStyle(
-                                    fontSize: 18,
-                                    fontWeight: FontWeight.bold,
-                                  ),
-                                ),
-                              ),
-                            ],
-                          ),
-                        ),
-                      ),
-                      const SizedBox(height: 12),
-                      // Model selection buttons
-                      Row(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: [
-                          ElevatedButton(
-                            onPressed: () {
-                              setState(() {
-                                _selectedModel = 'Fruit';
-                                label = "Label"; // Reset label when switching
-                              });
-                            },
-                            style: ElevatedButton.styleFrom(
-                              backgroundColor:
-                                  _selectedModel == 'Fruit'
-                                      ? Colors.deepPurple
-                                      : null,
-                            ),
-                            child: const Text("Fruit Model"),
-                          ),
-                          const SizedBox(width: 12),
-                          ElevatedButton(
-                            onPressed: () {
-                              setState(() {
-                                _selectedModel = 'Leaf';
-                                label = "Label"; // Reset label when switching
-                              });
-                            },
-                            style: ElevatedButton.styleFrom(
-                              backgroundColor:
-                                  _selectedModel == 'Leaf'
-                                      ? Colors.deepPurple
-                                      : null,
-                            ),
-                            child: const Text("Leaf Model"),
-                          ),
-                        ],
-                      ),
-                      const SizedBox(height: 12),
-                      Row(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: [
-                          ElevatedButton(
-                            onPressed: pickImageGallery,
-                            child: const Text("Gallery"),
-                          ),
-                          const SizedBox(width: 12),
-                          ElevatedButton(
-                            onPressed: pickImageCamera,
-                            child: const Text("Camera"),
-                          ),
-                        ],
-                      ),
-                    ],
-                  ),
-                ),
-              ),
-    );
   }
 }

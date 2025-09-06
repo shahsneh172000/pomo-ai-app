@@ -5,32 +5,20 @@
 *.swp
 .DS_Store
 .atom/
-.build/
 .buildlog/
 .history
 .svn/
-.swiftpm/
-migrate_working_dir/
 
-# IntelliJ related
 # IntelliJ
 .idea/
 *.iml
 *.ipr
 *.iws
-.idea/
 out/
 
-# The .vscode folder contains launch configuration and tasks you configure in
-# VS Code which you may wish to be included in version control, so this line
-# is commented out by default.
-#.vscode/
 # Visual Studio Code
 .vscode/
 
-# Flutter/Dart/Pub related
-**/doc/api/
-**/ios/Flutter/.last_build_id
 # Flutter/Dart
 .dart_tool/
 .flutter-plugins
@@ -38,19 +26,14 @@ out/
 .packages
 .pub-cache/
 .pub/
-/build/
 build/
 
-# Symbolication related
-app.*.symbols
 # Android
 android/key.properties
 android/local.properties
 android/.gradle/
 android/app/build/
 
-# Obfuscation related
-app.*.map.json
 # iOS
 ios/Pods/
 ios/Flutter/App.framework
@@ -60,10 +43,6 @@ ios/Flutter/Generated.xcconfig
 ios/Runner/GeneratedPluginRegistrant.*
 ios/ServiceDefinitions.json
 
-# Android Studio will place build artifacts here
-/android/app/debug
-/android/app/profile
-/android/app/release
 # Windows
 windows/flutter/ephemeral/
 windows/flutter/generated_plugins.cmake
@@ -83,3 +62,7 @@ macos/Flutter/ephemeral/
 macos/Pods/
 macos/Runner/build/
 macos/Runner.xcworkspace/
+
+# Custom Ignores
+# Ignore test images to keep the repository size small.
+assets/test_images/

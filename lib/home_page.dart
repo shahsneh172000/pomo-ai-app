@@ -401,29 +401,304 @@ class _MyHomePageState extends State<MyHomePage> {
     }
   }
 
+<<<<<<< HEAD
   Future<void> pickImageGallery() async {
     await _pickAndProcessImage(ImageSource.gallery);
+=======
+  Future<void> _pickAndProcessImage(ImageSource source) async {
+    if (_isLoadingModels) {
+      ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text("Please wait, models are loading...")));
+      return;
+    }
+<<<<<<< HEAD
+=======
+    if (_isProcessingImage) return;
+
+>>>>>>> 8af1154d6e460739b5c4133173996910028e209a
+    final ImagePicker picker = ImagePicker();
+    final XFile? image = await picker.pickImage(source: source);
+    if (image == null) return;
+
+<<<<<<< HEAD
+    setState(() {
+      label = "Processing...";
+    });
+
+    File? croppedImage = await _imageProcessor.cropImage(File(image.path));
+    if (croppedImage != null) {
+      setState(() {
+        filePath = croppedImage;
+      });
+      await _imageProcessor.runInference(
+          croppedImage, _selectedModel, (newLabel) {
+=======
+    File croppedImage;
+    try {
+      final File? maybe = await _imageProcessor.cropImage(File(image.path));
+      croppedImage = maybe ?? File(image.path);
+    } catch (e) {
+      print('⚠️ cropImage failed, using original image: $e');
+      croppedImage = File(image.path);
+    }
+
+    setState(() {
+      filePath = croppedImage;
+      _isProcessingImage = true;
+    });
+    ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text("Running inference...")));
+
+    try {
+      await _imageProcessor.runInference(croppedImage, _selectedModel, (newLabel) {
+>>>>>>> 8af1154d6e460739b5c4133173996910028e209a
+        setState(() {
+          label = newLabel;
+        });
+      });
+<<<<<<< HEAD
+    } else {
+      setState(() {
+        label = "Could not process image.";
+=======
+    } catch (e) {
+      print('❌ Inference error: $e');
+      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('Inference failed: $e')));
+    } finally {
+      setState(() {
+        _isProcessingImage = false;
+>>>>>>> 8af1154d6e460739b5c4133173996910028e209a
+      });
+    }
+>>>>>>> 4cdf5830b7a57d2dead4880d2848052a3eeddfe8
   }
 
+<<<<<<< HEAD
+  @override
+  Widget build(BuildContext context) {
+    final isDarkMode =
+        MediaQuery.of(context).platformBrightness == Brightness.dark;
+=======
   Future<void> pickImageCamera() async {
+<<<<<<< HEAD
     await _pickAndProcessImage(ImageSource.camera);
   }
 
   void _onModelSelected(String modelKey) {
     if (_selectedModel == modelKey || _isProcessingImage) return;
+=======
+    if (_isLoadingModels) {
+      ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text("Please wait, models are loading...")));
+      return;
+    }
+    if (_isProcessingImage) return;
+>>>>>>> 8af1154d6e460739b5c4133173996910028e209a
+
+    // Futuristic Color Palette with Light/Dark Mode support
+    final Color primaryAccent =
+        isDarkMode ? const Color(0xFF00BFFF) : const Color(0xFF007BFF); // DeepSkyBlue vs. Strong Blue
+    final Color backgroundColor =
+        isDarkMode ? const Color(0xFF121212) : const Color(0xFFF8F9FA);
+    final Color surfaceColor =
+        isDarkMode ? const Color(0xFF1E1E1E) : Colors.white;
+    final Color headingColor = isDarkMode ? Colors.white : Colors.grey.shade800;
+
+<<<<<<< HEAD
+    return Scaffold(
+      appBar: AppBar(
+        title: Text(
+          "Pomo AI",
+          style: TextStyle(
+            fontWeight: FontWeight.bold,
+            color: headingColor,
+            letterSpacing: 1.2, // Add a futuristic touch
+          ),
+        ),
+        backgroundColor: Colors.transparent,
+        elevation: 0,
+        centerTitle: true,
+      ),
+      backgroundColor: backgroundColor,
+      body: _isLoadingModels
+          ? Center(
+              child: CircularProgressIndicator(
+              color: primaryAccent,
+            ))
+          : SafeArea(
+              child: SingleChildScrollView(
+                padding: const EdgeInsets.all(24.0),
+                child: Center(
+                  child: Column(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      _buildImageDisplay(
+                          headingColor, surfaceColor, primaryAccent),
+                      const SizedBox(height: 24),
+                      _buildModelSelector(primaryAccent, surfaceColor),
+                      const SizedBox(height: 24),
+                      _buildActionButtons(primaryAccent, surfaceColor),
+                    ],
+                  ),
+                ),
+              ),
+            ),
+    );
+  }
+
+  Widget _buildImageDisplay(
+      Color headingColor, Color surfaceColor, Color primaryAccent) {
+    return Column(
+      children: [
+        AnimatedSwitcher(
+          duration: const Duration(milliseconds: 500),
+          transitionBuilder: (child, animation) {
+            return FadeTransition(opacity: animation, child: child);
+          },
+          child: filePath == null
+              ? const SizedBox(
+                  key: ValueKey('placeholder'),
+                  height: 300,
+                  width: 300,
+                ) // Maintain space to avoid layout jumps
+              : Container(
+                  key: ValueKey(filePath), // Essential for AnimatedSwitcher
+                  height: 300,
+                  width: 300,
+                  decoration: BoxDecoration(
+                    color: surfaceColor,
+                    borderRadius: BorderRadius.circular(20),
+                    boxShadow: [
+                      BoxShadow(
+                        color: primaryAccent.withOpacity(0.4),
+                        blurRadius: 20,
+                        spreadRadius: 2,
+                      ),
+                    ],
+                  ),
+                  child: ClipRRect(
+                    borderRadius: BorderRadius.circular(20),
+                    child: Image.file(filePath!, fit: BoxFit.cover),
+                  ),
+                ),
+        ),
+        const SizedBox(height: 16),
+        AnimatedSwitcher(
+          duration: const Duration(milliseconds: 300),
+          transitionBuilder: (child, animation) {
+            return FadeTransition(opacity: animation, child: child);
+          },
+          child: Text(
+            label,
+            key: ValueKey(label), // Essential for AnimatedSwitcher
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              fontSize: 22,
+              fontWeight: FontWeight.bold,
+              color: headingColor,
+            ),
+          ),
+        ),
+      ],
+    );
+  }
+
+  Widget _buildModelSelector(Color primaryAccent, Color surfaceColor) {
+    return ToggleButtons(
+      isSelected: [_selectedModel == 'Fruit', _selectedModel == 'Leaf'],
+      onPressed: (int index) {
+=======
+    File croppedImage;
+    try {
+      final File? maybe = await _imageProcessor.cropImage(File(image.path));
+      croppedImage = maybe ?? File(image.path);
+    } catch (e) {
+      print('⚠️ cropImage failed, using original image: $e');
+      croppedImage = File(image.path);
+    }
+>>>>>>> 4cdf5830b7a57d2dead4880d2848052a3eeddfe8
 
     setState(() {
       _selectedModel = modelKey;
     });
 
+<<<<<<< HEAD
     if (filePath != null) {
       _processImage(filePath!);
     } else {
+=======
+    try {
+      await _imageProcessor.runInference(croppedImage, _selectedModel, (newLabel) {
+>>>>>>> 8af1154d6e460739b5c4133173996910028e209a
+        setState(() {
+          _selectedModel = index == 0 ? 'Fruit' : 'Leaf';
+          label = "Label"; // Reset label
+          filePath = null; // Reset image
+        });
+<<<<<<< HEAD
+      },
+      borderRadius: BorderRadius.circular(30.0),
+      selectedBorderColor: primaryAccent,
+      selectedColor: surfaceColor,
+      fillColor: primaryAccent,
+      color: primaryAccent,
+      constraints: const BoxConstraints(minHeight: 40.0, minWidth: 120.0),
+      children: const <Widget>[
+        Padding(
+          padding: EdgeInsets.symmetric(horizontal: 16.0),
+          child: Text('Fruit Model'),
+        ),
+        Padding(
+          padding: EdgeInsets.symmetric(horizontal: 16.0),
+          child: Text('Leaf Model'),
+        ),
+      ],
+    );
+  }
+
+  Widget _buildActionButtons(Color primaryAccent, Color surfaceColor) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.stretch,
+      children: [
+        ElevatedButton.icon(
+          onPressed: () => _pickAndProcessImage(ImageSource.gallery),
+          icon: const Icon(Icons.image_outlined),
+          label: const Text("Gallery"),
+          style: ElevatedButton.styleFrom(
+            backgroundColor: primaryAccent,
+            foregroundColor: surfaceColor,
+            padding: const EdgeInsets.symmetric(vertical: 16),
+            textStyle:
+                const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+            shape: const StadiumBorder(),
+          ),
+        ),
+        const SizedBox(height: 12),
+        ElevatedButton.icon(
+          onPressed: () => _pickAndProcessImage(ImageSource.camera),
+          icon: const Icon(Icons.photo_camera_outlined),
+          label: const Text("Camera"),
+          style: ElevatedButton.styleFrom(
+            backgroundColor: primaryAccent,
+            foregroundColor: surfaceColor,
+            padding: const EdgeInsets.symmetric(vertical: 16),
+            textStyle:
+                const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+            shape: const StadiumBorder(),
+          ),
+        ),
+      ],
+    );
+=======
+      });
+    } catch (e) {
+      print('❌ Inference error: $e');
+      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('Inference failed: $e')));
+    } finally {
+>>>>>>> 4cdf5830b7a57d2dead4880d2848052a3eeddfe8
       setState(() {
         _englishLabel = null;
         label = _localizations.get('selectModelAndImage');
       });
     }
+>>>>>>> 8af1154d6e460739b5c4133173996910028e209a
   }
 
   @override
@@ -431,6 +706,9 @@ class _MyHomePageState extends State<MyHomePage> {
     _modelService.dispose();
     super.dispose();
   }
+<<<<<<< HEAD
+}
+=======
 
   @override
   Widget build(BuildContext context) {
@@ -636,3 +914,7 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+<<<<<<< HEAD
+=======
+>>>>>>> 8af1154d6e460739b5c4133173996910028e209a
+>>>>>>> 4cdf5830b7a57d2dead4880d2848052a3eeddfe8

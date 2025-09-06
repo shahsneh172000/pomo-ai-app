@@ -13,6 +13,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
+
   ThemeMode _themeMode = ThemeMode.light;
   String _languageCode = 'en';
 
@@ -25,6 +26,7 @@ class _MyAppState extends State<MyApp> {
   void _changeLanguage(String languageCode) {
     setState(() {
       _languageCode = languageCode;
+
     });
   }
 
@@ -37,16 +39,20 @@ class _MyAppState extends State<MyApp> {
         brightness: Brightness.light,
       ),
       darkTheme: ThemeData(
+
         colorScheme: ColorScheme.fromSeed(
             seedColor: Colors.deepPurple, brightness: Brightness.dark),
+
         brightness: Brightness.dark,
       ),
       themeMode: _themeMode,
       home: MyHomePage(
+
         currentThemeMode: _themeMode,
         onThemeModeChanged: _changeTheme,
         languageCode: _languageCode,
         onLanguageChanged: _changeLanguage,
+
       ),
     );
   }

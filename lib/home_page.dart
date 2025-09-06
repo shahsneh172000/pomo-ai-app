@@ -269,6 +269,7 @@ import 'model_service.dart';
 import 'app_localizations.dart';
 
 class MyHomePage extends StatefulWidget {
+
   final ThemeMode currentThemeMode;
   final Function(ThemeMode) onThemeModeChanged;
   final String languageCode;
@@ -282,14 +283,17 @@ class MyHomePage extends StatefulWidget {
     required this.onLanguageChanged,
   });
 
+
   @override
   State<MyHomePage> createState() => _MyHomePageState();
 }
 
 class _MyHomePageState extends State<MyHomePage> {
   File? filePath;
+
   late String label;
   String? _englishLabel; // To store the original English label from the model
+
   late ModelService _modelService;
   late ImageProcessor _imageProcessor;
   late AppLocalizations _localizations;
@@ -436,6 +440,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+
         title: Text(_localizations.get('appTitle')),
         actions: [
           IconButton(
@@ -455,10 +460,12 @@ class _MyHomePageState extends State<MyHomePage> {
               const PopupMenuItem<String>(value: 'en', child: Text('English')),
               const PopupMenuItem<String>(value: 'hi', child: Text('हिन्दी')),
             ],
+
           ),
         ],
       ),
       body: _isLoadingModels
+
           ? const Center(child: CircularProgressIndicator())
           : Container(
               decoration: BoxDecoration(
@@ -562,10 +569,12 @@ class _MyHomePageState extends State<MyHomePage> {
                                     foregroundColor: _selectedModel == 'leaf' ? Colors.white : Colors.black87,
                                     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
                                     padding: const EdgeInsets.symmetric(vertical: 16),
+
                                   ),
                                   label: Text(_localizations.get('leafModel')),
                                 ),
                               ),
+
                             ],
 ),
 
@@ -630,6 +639,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         ),
                     ],
                   ),
+
                 ),
               ),
             ),

@@ -57,13 +57,10 @@ class ImageProcessor {
       // Resize to model size (use computed size, not hardcoded 224)
       image = img.copyResize(image, width: size, height: size);
 
-      final List<double> mean = [0.485, 0.456, 0.406];
-      final List<double> std = [0.229, 0.224, 0.225];
-
       final int hw = size * size;
       final inputData = Float32List(1 * 3 * hw); // NCHW
 
-      // Fill NCHW: channel-major with normalization (RGB order)
+      // Fill NCHW: channel-major (RGB order)
       for (int y = 0; y < size; y++) {
         for (int x = 0; x < size; x++) {
           final dynamic px = image.getPixel(x, y);
@@ -87,14 +84,10 @@ class ImageProcessor {
             bInt = v & 0xFF;
           }
 
-          final double r = rInt / 255.0;
-          final double g = gInt / 255.0;
-          final double b = bInt / 255.0;
-
           final int base = y * size + x;
-          inputData[0 * hw + base] = ((r - mean[0]) / std[0]);
-          inputData[1 * hw + base] = ((g - mean[1]) / std[1]);
-          inputData[2 * hw + base] = ((b - mean[2]) / std[2]);
+          inputData[0 * hw + base] = rInt.toDouble();
+          inputData[1 * hw + base] = gInt.toDouble();
+          inputData[2 * hw + base] = bInt.toDouble();
         }
       }
 

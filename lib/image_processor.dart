@@ -48,9 +48,7 @@ class ImageProcessor {
       }
 
       final Map<String, int> modelInputSize = {
-        'fruit': 224,
-        'mobilenetv3': 224,
-        'coatnet': 224,
+        'fruitnet': 224,
         'leaf': 224,
       };
       final int size = modelInputSize[modelType.toLowerCase()] ?? 224;

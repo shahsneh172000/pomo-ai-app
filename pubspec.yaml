@@ -74,7 +74,7 @@ flutter:
   assets:
     - assets/upload.png
     - assets/LeafModel.onnx
-    - assets/MobileNetV3.onnx
+    - assets/App_ResNet.onnx
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

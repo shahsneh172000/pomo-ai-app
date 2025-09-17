@@ -24,7 +24,7 @@ class ModelService {
 
   // Map of asset paths (must match pubspec.yaml)
   final Map<String, String> _assetMap = {
-    'mobilenetv3': 'assets/MobileNetV3.onnx',
+    'fruitnet': 'assets/App_ResNet.onnx',
     'leaf': 'assets/LeafModel.onnx',
   };
 
@@ -111,7 +111,7 @@ class ModelService {
     if (key == 'leaf') {
       return leafLabels[classIndex];
     }
-    // mobilenetv3 maps to fruitLabels (adjust if different)
+    // default to fruit model labels
     return fruitLabels[classIndex];
   }
 

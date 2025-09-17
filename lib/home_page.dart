@@ -297,7 +297,7 @@ class _MyHomePageState extends State<MyHomePage> {
   late ModelService _modelService;
   late ImageProcessor _imageProcessor;
   late AppLocalizations _localizations;
-  String _selectedModel = 'mobilenetv3'; // default model key
+  String _selectedModel = 'fruitnet'; // default model key
   bool _isLoadingModels = true;
   bool _isProcessingImage = false;
 
@@ -548,11 +548,11 @@ class _MyHomePageState extends State<MyHomePage> {
                     children: [
                               Expanded(
                                 child: ElevatedButton.icon(
-                                  icon: const Icon(Icons.local_florist, size: 28),
-                                  onPressed: _isProcessingImage ? null : () => _onModelSelected('mobilenetv3'),
+                                  icon: const Icon(Icons.apple, size: 28),
+                                  onPressed: _isProcessingImage ? null : () => _onModelSelected('fruitnet'),
                                   style: ElevatedButton.styleFrom(
-                                    backgroundColor: _selectedModel == 'mobilenetv3' ? Colors.deepPurple : Colors.grey.shade300,
-                                    foregroundColor: _selectedModel == 'mobilenetv3' ? Colors.white : Colors.black87,
+                                    backgroundColor: _selectedModel == 'fruitnet' ? Colors.deepPurple : Colors.grey.shade300,
+                                    foregroundColor: _selectedModel == 'fruitnet' ? Colors.white : Colors.black87,
                                     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
                                     padding: const EdgeInsets.symmetric(vertical: 16),
                                   ),

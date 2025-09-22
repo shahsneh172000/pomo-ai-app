@@ -2,13 +2,14 @@
 import 'package:onnxruntime/onnxruntime.dart' as ort;
 import 'package:flutter/services.dart' show rootBundle;
 import 'dart:typed_data';
+import 'dart:math';
 
 class ModelService {
   ort.OrtSessionOptions? _sessionOptions;
   ort.OrtRunOptions? _runOptions;
 
 
-  // sessions keyed by lowercase model key: 'mobilenetv3','leaf'
+  // sessions keyed by lowercase model key: 'fruitnet','leaf'
   final Map<String, ort.OrtSession?> _sessions = {};
 
   final List<String> fruitLabels = [
@@ -24,7 +25,7 @@ class ModelService {
 
   // Map of asset paths (must match pubspec.yaml)
   final Map<String, String> _assetMap = {
-    'fruitnet': 'assets/App_ResNet.onnx',
+    'fruitnet': 'assets/CoAtNet_18Sept.onnx',
     'leaf': 'assets/LeafModel.onnx',
   };
 
@@ -57,7 +58,7 @@ class ModelService {
   }
 
   // inputData is Float32List in NCHW order (1,3,224,224)
-  Future<Map<String, dynamic>> runInference(
+  Future<List<double>> runInference(
     Float32List inputData,
     String modelType,
   ) async {
@@ -96,14 +97,40 @@ class ModelService {
       throw Exception("Unexpected output format: $outputTensor");
     }
 
-    final predictedClass = probabilities.indexOf(
-      probabilities.reduce((a, b) => a > b ? a : b),
-    );
-
     // cleanup
     inputOrt.release();
 
-    return {'class': predictedClass};
+    return _softmax(probabilities);
+  }
+
+  /// Applies the Softmax function to the logits to get probabilities.
+  /// Subtracting the max logit is for numerical stability.
+  List<double> _softmax(List<double> logits) {
+    if (logits.isEmpty) {
+      return [];
+    }
+
+    // Find the maximum logit value for numerical stability.
+    double maxLogit = logits.reduce(max);
+
+    // Create a list of exponentiated values.
+    final exps = List<double>.filled(logits.length, 0);
+    double sumExps = 0.0;
+
+    for (int i = 0; i < logits.length; i++) {
+      final e = exp(logits[i] - maxLogit);
+      exps[i] = e;
+      sumExps += e;
+    }
+
+    // Normalize to get probabilities.
+    if (sumExps > 0) {
+      for (int i = 0; i < exps.length; i++) {
+        exps[i] /= sumExps;
+      }
+    }
+
+    return exps;
   }
 
   String getLabel(int classIndex, String modelType) {

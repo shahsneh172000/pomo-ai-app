@@ -83,20 +83,22 @@ class ImageProcessor {
           }
 
           final int base = y * size + x;
-          inputData[0 * hw + base] = rInt.toDouble();
-          inputData[1 * hw + base] = gInt.toDouble();
-          inputData[2 * hw + base] = bInt.toDouble();
+          // Normalize pixel values to [0, 1] range for the model
+          inputData[0 * hw + base] = rInt / 255.0;
+          inputData[1 * hw + base] = gInt / 255.0;
+          inputData[2 * hw + base] = bInt / 255.0;
         }
       }
 
       // Run inference and get results
-      final result = await _modelService.runInference(inputData, modelType);
-
-      callback(_modelService.getLabel(result['class'], modelType));
-
-      print(
-        "✅ Prediction: ${_modelService.getLabel(result['class'], modelType)}",
+      final probabilities = await _modelService.runInference(inputData, modelType);
+      final predictedClass = probabilities.indexOf(
+        probabilities.reduce((a, b) => a > b ? a : b),
       );
+
+      callback(_modelService.getLabel(predictedClass, modelType));
+
+      print("✅ Prediction: ${_modelService.getLabel(predictedClass, modelType)}");
     } catch (e) {
       print("❌ Error running inference: $e");
     }

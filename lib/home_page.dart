@@ -265,8 +265,7 @@ import 'package:image_picker/image_picker.dart';
 import 'dart:io';
 import 'dart:convert';
 import 'image_processor.dart';
-import 'model_service.dart';
-import 'app_localizations.dart';
+import 'model_service.dart';import 'app_localizations.dart';
 
 class MyHomePage extends StatefulWidget {
 
@@ -632,6 +631,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           ),
                         ),
                       ),
+                      const SizedBox(height: 16),
                       if (_isProcessingImage)
                         const Padding(
                           padding: EdgeInsets.only(top: 20),

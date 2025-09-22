@@ -19,7 +19,7 @@ class ImageProcessor {
         uiSettings: [
           AndroidUiSettings(
             toolbarTitle: 'Crop Image',
-            toolbarColor: Colors.deepPurple,
+            toolbarColor: const Color(0xFF1B5E20), // Forest Green
             toolbarWidgetColor: Colors.white,
             lockAspectRatio: false,
           ),
@@ -37,7 +37,7 @@ class ImageProcessor {
   Future<void> runInference(
     File imageFile,
     String modelType, // "Fruit" or "Leaf"
-    Function(String) callback,
+    Function(String, double) callback,
   ) async {
     try {
       // Decode image
@@ -92,15 +92,16 @@ class ImageProcessor {
 
       // Run inference and get results
       final probabilities = await _modelService.runInference(inputData, modelType);
-      final predictedClass = probabilities.indexOf(
-        probabilities.reduce((a, b) => a > b ? a : b),
-      );
+      final maxProbability = probabilities.reduce((a, b) => a > b ? a : b);
+      final predictedClass = probabilities.indexOf(maxProbability);
 
-      callback(_modelService.getLabel(predictedClass, modelType));
+      callback(_modelService.getLabel(predictedClass, modelType), maxProbability);
 
-      print("✅ Prediction: ${_modelService.getLabel(predictedClass, modelType)}");
+      print(
+          "✅ Prediction: ${_modelService.getLabel(predictedClass, modelType)} with confidence $maxProbability");
     } catch (e) {
       print("❌ Error running inference: $e");
+      rethrow;
     }
   }
 }

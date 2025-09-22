@@ -66,3 +66,4 @@ macos/Runner.xcworkspace/
 # Custom Ignores
 # Ignore test images to keep the repository size small.
 assets/test_images/
+assets/CoAtNet_18Sept.onnx

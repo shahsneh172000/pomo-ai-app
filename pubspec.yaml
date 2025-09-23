@@ -69,6 +69,11 @@ flutter:
   assets:
     - assets/upload.png
     - assets/app_icon.png
+    - assets/app_icon_toolbar.png
+    - assets/fruit_icon.png
+    - assets/fruit_icon1.png
+    - assets/root_icon.png
+    - assets/root_icon1.png
     - assets/LeafModel.onnx
     - assets/CoAtNet_18Sept.onnx
     - assets/management_techniques.json
@@ -106,6 +111,6 @@ flutter:
 flutter_launcher_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "assets/app_icon.png" # Path to your high-resolution icon
+  image_path: "assets/app_icon_toolbar.png" # Path to your high-resolution icon
   min_sdk_android: 21 # optional
   adaptive_icon_background: "#1B5E20" # The dark green background color

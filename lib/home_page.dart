@@ -484,31 +484,52 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   Widget _buildFeatureButton({
-    required IconData icon,
+    required Widget iconWidget,
     required String label,
+    String? description, // Added optional description parameter
     required String modelKey,
   }) {
     return Expanded(
-      child: ElevatedButton(
-        onPressed: _isProcessingImage ? null : () => _selectModelAndPickImage(modelKey),
-        style: ElevatedButton.styleFrom(
-          backgroundColor: Colors.black.withOpacity(0.2),
-          foregroundColor: Colors.white,
-          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
-          padding: const EdgeInsets.symmetric(vertical: 20),
-          minimumSize: const Size(0, 100), // Ensure consistent height
+      child: Container(
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            colors: [
+              Colors.green.shade800.withOpacity(0.7),
+              Colors.green.shade600.withOpacity(0.7),
+            ],
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+          ),
+          borderRadius: BorderRadius.circular(16),
         ),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Icon(icon, size: 36),
-            const SizedBox(height: 8),
-            Text(
-              label,
-              textAlign: TextAlign.center,
-              style: const TextStyle(fontSize: 15),
-            ),
-          ],
+        child: ElevatedButton(
+          onPressed: _isProcessingImage ? null : () => _selectModelAndPickImage(modelKey),
+          style: ElevatedButton.styleFrom(
+            backgroundColor: Colors.transparent,
+            shadowColor: Colors.transparent,
+            foregroundColor: Colors.white,
+            shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+            padding: const EdgeInsets.symmetric(vertical: 20),
+            minimumSize: const Size(0, 100), // Ensure consistent height
+          ),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              iconWidget,
+              const SizedBox(height: 8),
+              Text(
+                label,
+                textAlign: TextAlign.center,
+                style: const TextStyle(fontSize: 15),
+              ),
+              const SizedBox(height: 4), // Small spacing between label and description
+              Text(
+                description ?? '', // Use description or empty string to maintain height
+                textAlign: TextAlign.center,
+                style: const TextStyle(fontSize: 12, color: Colors.white70), // Smaller, slightly faded text
+              ),
+            ],
+          ),
         ),
       ),
     );
@@ -526,10 +547,10 @@ class _MyHomePageState extends State<MyHomePage> {
       context,
       MaterialPageRoute(
         builder: (context) => ManagementPage(
-          initialManagementData: _currentManagementTechniques!,
-          initialLocalizations: _localizations,
-          managementService: _managementService,
           diseaseKey: _englishLabel!,
+          managementService: _managementService,
+          languageCode: widget.languageCode,
+          onLanguageChanged: widget.onLanguageChanged,
         ),
       ),
     );
@@ -579,6 +600,10 @@ class _MyHomePageState extends State<MyHomePage> {
             itemBuilder: (BuildContext context) => <PopupMenuEntry<String>>[
               const PopupMenuItem<String>(value: 'en', child: Text('English')),
               const PopupMenuItem<String>(value: 'hi', child: Text('हिन्दी')),
+              const PopupMenuItem<String>(value: 'gu', child: Text('ગુજરાતી')),
+              const PopupMenuItem<String>(value: 'mr', child: Text('मराठी')),
+              const PopupMenuItem<String>(value: 'kn', child: Text('ಕನ್ನಡ')),
+              const PopupMenuItem<String>(value: 'te', child: Text('తెలుగు')),
             ],
 
           ),
@@ -666,19 +691,33 @@ class _MyHomePageState extends State<MyHomePage> {
                           _currentManagementTechniques!['description'] != _localizations.get('noManagementInfo'))
                         Padding(
                           padding: const EdgeInsets.only(top: 16.0),
-                          child: ElevatedButton.icon(
-                            icon: const Icon(Icons.info_outline),
-                            label: Text(
-                              _localizations.get('showManagementTechniques'),
-                              textAlign: TextAlign.center,
-                              style: const TextStyle(fontSize: 15),
+                          child: Container(
+                            decoration: BoxDecoration(
+                              gradient: LinearGradient(
+                                colors: [
+                                  Colors.green.shade800.withOpacity(0.7),
+                                  Colors.green.shade600.withOpacity(0.7),
+                                ],
+                                begin: Alignment.topLeft,
+                                end: Alignment.bottomRight,
+                              ),
+                              borderRadius: BorderRadius.circular(20),
                             ),
-                            onPressed: _navigateToManagementPage,
-                            style: ElevatedButton.styleFrom(
-                              backgroundColor: Colors.black.withOpacity(0.2),
-                              foregroundColor: Colors.white,
-                              padding: const EdgeInsets.symmetric(vertical: 14, horizontal: 24),
-                              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+                            child: ElevatedButton.icon(
+                              icon: const Icon(Icons.info_outline),
+                              label: Text(
+                                _localizations.get('showManagementTechniques'),
+                                textAlign: TextAlign.center,
+                                style: const TextStyle(fontSize: 15),
+                              ),
+                              onPressed: _navigateToManagementPage,
+                              style: ElevatedButton.styleFrom(
+                                backgroundColor: Colors.transparent,
+                                shadowColor: Colors.transparent,
+                                foregroundColor: Colors.white,
+                                padding: const EdgeInsets.symmetric(vertical: 14, horizontal: 24),
+                                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+                              ),
                             ),
                           ),
                         ),
@@ -694,19 +733,33 @@ class _MyHomePageState extends State<MyHomePage> {
                         child: Row(
                           children: [
                             _buildFeatureButton(
-                              icon: Icons.apple_outlined,
+                              iconWidget: Container(
+                                padding: const EdgeInsets.all(4),
+                                decoration: BoxDecoration(
+                                  color: Colors.green.shade900,
+                                  shape: BoxShape.circle,
+                                ),
+                                child: Image.asset('assets/fruit_icon.png', width: 28, height: 28),
+                              ),
                               label: _localizations.get('fruit'),
                               modelKey: 'fruitnet',
                             ),
                             const SizedBox(width: 12),
                             _buildFeatureButton(
-                              icon: Icons.eco_outlined,
+                              iconWidget: const Icon(Icons.eco_outlined, size: 36),
                               label: _localizations.get('leaf'),
                               modelKey: 'leaf',
                             ),
                             const SizedBox(width: 12),
                             _buildFeatureButton(
-                              icon: Icons.spa_outlined,
+                              iconWidget: Container(
+                                padding: const EdgeInsets.all(4),
+                                decoration: BoxDecoration(
+                                  color: Colors.green.shade900,
+                                  shape: BoxShape.circle,
+                                ),
+                                child: Image.asset('assets/root_icon1.png', width: 28, height: 28),
+                              ),
                               label: _localizations.get('root'),
                               modelKey: 'root_model',
                             ),
@@ -723,13 +776,14 @@ class _MyHomePageState extends State<MyHomePage> {
                         child: Row(
                           children: [
                             _buildFeatureButton(
-                              icon: Icons.bug_report_outlined,
+                              iconWidget: const Icon(Icons.bug_report_outlined, size: 36),
                               label: _localizations.get('insects'),
+                              description: _localizations.get('insectsDescription'),
                               modelKey: 'insects_model',
                             ),
                             const SizedBox(width: 12),
                             _buildFeatureButton(
-                              icon: Icons.local_florist_outlined,
+                              iconWidget: const Icon(Icons.local_florist_outlined, size: 36),
                               label: _localizations.get('flowers'),
                               modelKey: 'flowers_model',
                             ),

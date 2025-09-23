@@ -4,17 +4,17 @@ import 'app_localizations.dart';
 import 'management_service.dart';
 
 class ManagementPage extends StatefulWidget {
-  final Map<String, dynamic> initialManagementData;
-  final AppLocalizations initialLocalizations;
-  final ManagementService managementService;
   final String diseaseKey;
+  final ManagementService managementService;
+  final String languageCode;
+  final Function(String) onLanguageChanged;
 
   const ManagementPage({
     super.key,
-    required this.initialManagementData,
-    required this.initialLocalizations,
-    required this.managementService,
     required this.diseaseKey,
+    required this.managementService,
+    required this.languageCode,
+    required this.onLanguageChanged,
   });
 
   @override
@@ -28,16 +28,32 @@ class _ManagementPageState extends State<ManagementPage> {
   @override
   void initState() {
     super.initState();
-    _managementData = widget.initialManagementData;
-    _localizations = widget.initialLocalizations;
+    _updateLocalData(widget.languageCode);
+  }
+
+  void _updateLocalData(String languageCode) {
+    _localizations = AppLocalizations(languageCode);
+    _managementData = widget.managementService.getTechnique(widget.diseaseKey, languageCode);
+  }
+
+  @override
+  void didUpdateWidget(covariant ManagementPage oldWidget) {
+    super.didUpdateWidget(oldWidget);
+    if (oldWidget.languageCode != widget.languageCode) {
+      setState(() {
+        _updateLocalData(widget.languageCode);
+      });
+    }
   }
 
   void _changeLanguage(String newLanguageCode) {
+    widget.onLanguageChanged(newLanguageCode);
+    // Also update the state of the current page to reflect the change immediately
     setState(() {
-      _localizations = AppLocalizations(newLanguageCode);
-      _managementData = widget.managementService.getTechnique(widget.diseaseKey, newLanguageCode);
+      _updateLocalData(newLanguageCode);
     });
   }
+
   Future<void> _launchUrl(String urlString) async {
     final Uri url = Uri.parse(urlString);
     if (!await launchUrl(url, mode: LaunchMode.externalApplication)) {
@@ -187,6 +203,10 @@ class _ManagementPageState extends State<ManagementPage> {
             itemBuilder: (BuildContext context) => <PopupMenuEntry<String>>[
               const PopupMenuItem<String>(value: 'en', child: Text('English')),
               const PopupMenuItem<String>(value: 'hi', child: Text('हिन्दी')),
+              const PopupMenuItem<String>(value: 'gu', child: Text('ગુજરાતી')),
+              const PopupMenuItem<String>(value: 'mr', child: Text('मराठी')),
+              const PopupMenuItem<String>(value: 'kn', child: Text('ಕನ್ನಡ')),
+              const PopupMenuItem<String>(value: 'te', child: Text('తెలుగు')),
             ],
           ),
         ],

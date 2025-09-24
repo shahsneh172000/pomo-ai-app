@@ -263,11 +263,12 @@
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'dart:io';
-import 'dart:convert';
 import 'image_processor.dart';
 import 'management_page.dart';
 import 'management_service.dart';
-import 'model_service.dart';import 'app_localizations.dart';
+import 'model_service.dart';
+import 'app_localizations.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 
 class MyHomePage extends StatefulWidget {
 
@@ -483,51 +484,42 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 
-  Widget _buildFeatureButton({
-    required Widget iconWidget,
+  Widget _buildCategoryButton({
+    required String svgPath,
     required String label,
-    String? description, // Added optional description parameter
+    String? description,
     required String modelKey,
   }) {
     return Expanded(
       child: Container(
         decoration: BoxDecoration(
           gradient: LinearGradient(
-            colors: [
-              Colors.green.shade800.withOpacity(0.7),
-              Colors.green.shade600.withOpacity(0.7),
-            ],
+            colors: [Colors.green.shade800.withOpacity(0.7), Colors.green.shade600.withOpacity(0.7)],
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
           ),
           borderRadius: BorderRadius.circular(16),
         ),
         child: ElevatedButton(
-          onPressed: _isProcessingImage ? null : () => _selectModelAndPickImage(modelKey),
+          onPressed: _isProcessingImage ? null : () => _selectModelAndPickImage(modelKey), // Use the passed modelKey
           style: ElevatedButton.styleFrom(
             backgroundColor: Colors.transparent,
             shadowColor: Colors.transparent,
             foregroundColor: Colors.white,
             shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
             padding: const EdgeInsets.symmetric(vertical: 20),
-            minimumSize: const Size(0, 100), // Ensure consistent height
+            minimumSize: const Size(0, 100),
           ),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              iconWidget,
+              SvgPicture.asset(svgPath, width: 36, height: 36, colorFilter: const ColorFilter.mode(Colors.white, BlendMode.srcIn)),
               const SizedBox(height: 8),
-              Text(
-                label,
-                textAlign: TextAlign.center,
-                style: const TextStyle(fontSize: 15),
-              ),
-              const SizedBox(height: 4), // Small spacing between label and description
-              Text(
-                description ?? '', // Use description or empty string to maintain height
-                textAlign: TextAlign.center,
-                style: const TextStyle(fontSize: 12, color: Colors.white70), // Smaller, slightly faded text
-              ),
+              Text(label, textAlign: TextAlign.center, style: const TextStyle(fontSize: 15)),
+              if (description != null && description.isNotEmpty) ...[
+                const SizedBox(height: 4),
+                Text(description, textAlign: TextAlign.center, style: const TextStyle(fontSize: 12, color: Colors.white70)),
+              ],
             ],
           ),
         ),
@@ -732,34 +724,20 @@ class _MyHomePageState extends State<MyHomePage> {
                         padding: const EdgeInsets.symmetric(horizontal: 16.0),
                         child: Row(
                           children: [
-                            _buildFeatureButton(
-                              iconWidget: Container(
-                                padding: const EdgeInsets.all(4),
-                                decoration: BoxDecoration(
-                                  color: Colors.green.shade900,
-                                  shape: BoxShape.circle,
-                                ),
-                                child: Image.asset('assets/fruit_icon.png', width: 28, height: 28),
-                              ),
+                            _buildCategoryButton(
+                              svgPath: 'assets/icons/fruit.svg',
                               label: _localizations.get('fruit'),
                               modelKey: 'fruitnet',
                             ),
                             const SizedBox(width: 12),
-                            _buildFeatureButton(
-                              iconWidget: const Icon(Icons.eco_outlined, size: 36),
+                            _buildCategoryButton(
+                              svgPath: 'assets/icons/leaf.svg',
                               label: _localizations.get('leaf'),
                               modelKey: 'leaf',
                             ),
                             const SizedBox(width: 12),
-                            _buildFeatureButton(
-                              iconWidget: Container(
-                                padding: const EdgeInsets.all(4),
-                                decoration: BoxDecoration(
-                                  color: Colors.green.shade900,
-                                  shape: BoxShape.circle,
-                                ),
-                                child: Image.asset('assets/root_icon1.png', width: 28, height: 28),
-                              ),
+                            _buildCategoryButton(
+                              svgPath: 'assets/icons/root.svg',
                               label: _localizations.get('root'),
                               modelKey: 'root_model',
                             ),
@@ -775,16 +753,16 @@ class _MyHomePageState extends State<MyHomePage> {
                         padding: const EdgeInsets.symmetric(horizontal: 16.0),
                         child: Row(
                           children: [
-                            _buildFeatureButton(
-                              iconWidget: const Icon(Icons.bug_report_outlined, size: 36),
+                            _buildCategoryButton(
+                              svgPath: 'assets/icons/insects.svg',
                               label: _localizations.get('insects'),
                               description: _localizations.get('insectsDescription'),
                               modelKey: 'insects_model',
                             ),
                             const SizedBox(width: 12),
-                            _buildFeatureButton(
-                              iconWidget: const Icon(Icons.local_florist_outlined, size: 36),
-                              label: _localizations.get('flowers'),
+                            _buildCategoryButton(
+                              svgPath: 'assets/icons/mix.svg',
+                              label: _localizations.get('flowers'), // Assuming 'flowers' is a valid key
                               modelKey: 'flowers_model',
                             ),
                           ],

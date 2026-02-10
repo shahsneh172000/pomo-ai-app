@@ -1,0 +1,1382 @@
+{
+  "en": {
+    "Bacterial Blight": {
+      "diseaseName": "Disease: Bacterial Blight",
+      "description": "Bacterial blight causes economic yield losses (60-100 %) in pomegranate under favourable conditions. It is more severe and prevalent during the rainy season (Mrig Bahar) in June-July and less in Rabi season (Hasta bahar).",
+      "causalOrganism": "Xanthomonas axonopodis pv. Punicae (Syn: Xanthomonas citri pv. punicae)",
+      "symptoms": "• Disease symptoms are observed on all plant parts viz., leaves, stems, flowers and fruits.\n• Initially, small irregular greyish black water soaked lesions are observed on leaves which enlarge with progress of the disease. Diseased leaves gradually turn yellow and fall down (Plate1a).\n• On twigs and stems blackish lesions are mainly observed at the nodes, which result in canker formation with depressed growth (Plate1b).\n• Disease symptoms are prominent on developed fruits. Greyish black lesions enlarge and coalesce, thereby covering the entire fruit surface. Infected fruits often reveal cracking. The bacterial ooze comes out after rains/spray/dew, which feels sticky to hands and after drying gives white shiny encrustation on the surface. (Plate1c).",
+      "predisposingFactors": "Temperature (25 – 30o C), Relative humidity (>50%) rainfall, application of higher nitrogen doses than recommended, micronutrient deficiencies.",
+      "pruningManagementTitle": "Management practices during pruning",
+      "pruningManagement": [
+        "If stem infections are severe, practice heavy pruning immediately after harvest and remove all stems with blight infection. Prune about 2 - 3 inch below the infected area.",
+        "Apply Bordeaux paste (10 %) to the cut ends after pruning. Oil based pastes [COC paint made by mixing 500 g COC + 1 L linseed oil are preferred for pasting during rainy seasons or mix oil @ 50 ml/L paste."
+      ],
+      "cropSeasonManagementTitle": "Management practices during Crop season",
+      "cropSeasonManagement": [
+        "Prophylactic sprays should be taken after harvest during rest period and also after planting a new orchard till fruiting is taken.",
+        "Spray with Bordeaux mixture (1 %) altered with Bronopol @ 0.5 g/L mixed with copper based formulations like copper oxychloride or copper hydroxide @ 2 -2.5 g/L at 15 - 20 days interval depending on disease present in the orchard/neighboring orchards and weather conditions.",
+        "If orchards in rest period and have leaf blight infection, one spray of Streptocycline @ 0.5 g/L may be taken in alteration with Bordeaux mixture and Bronopol."
+      ],
+      "cropSeasonManagementNote": "Note: If it is a bacterial blight free area then sprays of streptocycline or Bronopol are not required.",
+      "emergencySpraysTitle": "Emergency sprays",
+      "emergencySpraysIntro": "1 - 2 sprays at 4 days interval soon after 5 – 10 % blight infection observed on fruits restricts further blight spread.",
+      "emergencySprays": [
+        "Streptocycline @ 0.5 g/L + 2-bromo-nitropropane-1, 3-diol (Bronopol 95%) @ 0.5 g/L + Copper hydroxide 53.8 % WP @ 2.0 g/L + spreader sticker @ 0.5 ml/L solution.",
+        "Streptocycline @ 0.5 g/L + 2-bromo-nitropropane-1, 3-diol (Bronopol 95%) @ 0.5 g/L + Carbendazim 50 % WP @ 1.0 g/L + spreader sticker @ 0.5 ml/L solution."
+      ],
+      "emergencySpraysNote": "Note:\n• Remove and destroy blight affected fruits before every spray. Maintain proper orchard sanitation and take preventive sprays in rest period.",
+      "recommendations": [
+        "Prune and remove all stems with blight infection.",
+        "Apply Bordeaux paste to cut ends after pruning.",
+        "Use prophylactic sprays like Bordeaux mixture or Bronopol.",
+        "Remove and destroy blight-affected fruits before every spray."
+      ]
+    },
+    "Calyx Rot": {
+      "diseaseName": "Disease: Anthracnose/ fruit rot/Calyx rot",
+      "description": "Anthracnose/fruit rot is becoming a major problem in semi- arid conditions. The disease is common in tropical and subtropical regions.",
+      "causalOrganism": "Colletotrichum spp.",
+      "symptoms": "Colletotrichum symptoms develop on flowers, fruits, leaves or twigs, but fruits are most susceptible.\n• On leaves, small circular spots develop with yellowish halos; later infected leaves turn yellow leading to premature defoliation.\n• On fruits, the first symptoms are observed as discolouration of fruit rind from calyx end or numerous isolated spots that later coalesce together forming irregular blotches on the fruit surface (Colletotrichum spp.)\n• The discoloured areas become reddish/ dark brown to black. The rot extends beyond the rind into the arils, which disintegrate and are dark grey/brown- black coloured but not watery. The affected fruits may drop at a later stage.\n• The fruits are most vulnerable to this disease at all stages from setting.",
+      "predisposingFactors": "Temperatures of 25 - 30°C and high humidity (>60 %) favour disease development. High humidity, rain fall and warm temperatures during the summer months increase disease severity",
+      "chemicalManagementTitle": "Chemical management of colletotrichum rots",
+      "chemicalManagementIntro": "Take below mentioned sprays alternately at 7-10 days intervals depending on weather conditions and follow the important instructions given at the end.",
+      "sprays": [
+        "Zineb 68%+ Hexaconazole 4% WP @ 2.5g/ litre",
+        "Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.5 g/litre",
+        "Propineb 70 % WP @ 3 g/litre",
+        "Copper Oxychloride 45%+ Kasuamycin 5% WP @ 2.5g/ litre",
+        "Azoxystrobin 8.3 % + Mancozeb 66.7 % WG @ 1.5 g/litre",
+        "Fluopyram 21.4 % + Trifloxystrobin 21.4 % SC @ 0.7 ml/litre",
+        "Fluopicolide 5.56% + Propamocarb Hydrochloride 55.6% SC @ 1.25 ml/litre"
+      ],
+      "importantInstructionsTitle": "Important instructions",
+      "instructions": [
+        "Sprays of Mandipropamid 23.4%@1ml/l (2-3 sprays at 10-15 days) at flowering act as preventive for many fungal diseases including. Hence take this at flowering.",
+        "Avoid spray if rain is expected on the day; Spray after a few hours of rain is better and very important",
+        "Spray pH should be checked after final solution preparation. It should be adjusted from 6.5-7.0 pH/ or as instructed on the fungicide pack. This will avoid chemical injuries and give better results",
+        "Always use spreader sticker with sprays except Bordeaux mixture",
+        "No pesticide should be used more than 2-3 times in a season except copper fungicides",
+        "Sprays can be taken in rotation as per pre-harvest interval for residue-free production"
+      ],
+      "recommendations": [
+        "Remove and destroy affected fruit and leaves.",
+        "Apply a suitable fungicide (e.g., Zineb, Tebuconazole).",
+        "Improve air circulation through pruning."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Fungal Cercospora": {
+      "diseaseName": "Disease: Cercospora fruit spot",
+      "description": "Pomegranate is susceptible to fruit spot of fungi especially Cercospora punicae (Psuedocercospora punicae) causing pathogens which may reduce fruit yield and quality.",
+      "causalOrganism": "Cercospora punicae (Psuedocercospora punicae)",
+      "symptoms": "The pathogen produces characteristic spot symptoms particularly on fruits. Small, irregular spots that are initially circular but become larger and darker.",
+      "predisposingFactors": "Temperatures between 20 - 30°C and humidity above 60% for long duration’s favours disease development. Leaf and fruit spots are often more prevalent during rainy season.",
+      "chemicalManagementTitle": "Chemical management of fungal leaf and fruit spots",
+      "chemicalManagementIntro": "Take below mentioned sprays alternately at 7-10 days intervals depending on weather conditions and disease pressure and follow the important instructions given at the end.",
+      "sprays": [
+        "Zineb 75% WP @ 2g/litre",
+        "Zineb 68%+ Hexaconazole 4% WP @ 2.5g/ l",
+        "Metiram 55% WG+ Pyraclostrobin 5% @ 3 g/litre",
+        "Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.5 g/litre",
+        "Propineb 70 % WP @ 3 g/litre",
+        "Tricyclazole 18%+Mancozeb 62% WP 2.5 to3.0 g/litre",
+        "Copper Sulphate 47.15% + Mancozeb 30% WDG @ 2.5 g/litre",
+        "Azoxystrobin 8.3 % + Mancozeb 66.7 % WG @ 1.5 g/litre"
+      ],
+      "importantInstructionsTitle": "Important instructions",
+      "instructions": [
+        "Sprays of Mandipropamid 23.4%@1ml/l (2-3 sprays at 10-15 days) at flowering act as preventive for many fungal diseases including Cercospora Fruit and leaf spot and Scab. Hence take this at flowering.",
+        "Avoid spray if rain is expected on the day; Spray after a few hours of rain is better and very important",
+        "Spray pH should be checked after final solution preparation. It should be adjusted from 6.5-7.0 pH/ or as instructed on the fungicide pack. This will avoid chemical injuries and give better results",
+        "Always use spreader sticker with sprays except Bordeaux mixture",
+        "No pesticide should be used more than 2-3 times in a season except copper fungicides",
+        "Sprays can be taken in rotation as per pre-harvest interval for residue-free production"
+      ],
+      "recommendations": [
+        "Remove and burn infected leaves.",
+        "Apply fungicides preventively.",
+        "Ensure good air circulation."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Fruit Rot": {
+      "diseaseName": "Disease: Anthracnose/ fruit rot/Calyx rot",
+      "description": "Anthracnose/fruit rot is becoming a major problem in semi- arid conditions. The disease is common in tropical and subtropical regions.",
+      "causalOrganism": "Colletotrichum spp.",
+      "symptoms": "Colletotrichum symptoms develop on flowers, fruits, leaves or twigs, but fruits are most susceptible.\n• On leaves, small circular spots develop with yellowish halos; later infected leaves turn yellow leading to premature defoliation.\n• On fruits, the first symptoms are observed as discolouration of fruit rind from calyx end or numerous isolated spots that later coalesce together forming irregular blotches on the fruit surface (Colletotrichum spp.)\n• The discoloured areas become reddish/ dark brown to black. The rot extends beyond the rind into the arils, which disintegrate and are dark grey/brown- black coloured but not watery. The affected fruits may drop at a later stage.\n• The fruits are most vulnerable to this disease at all stages from setting.",
+      "predisposingFactors": "Temperatures of 25 - 30°C and high humidity (>60 %) favour disease development. High humidity, rain fall and warm temperatures during the summer months increase disease severity",
+      "chemicalManagementTitle": "Chemical management of colletotrichum rots",
+      "chemicalManagementIntro": "Take below mentioned sprays alternately at 7-10 days intervals depending on weather conditions and follow the important instructions given at the end.",
+      "sprays": [
+        "Zineb 68%+ Hexaconazole 4% WP @ 2.5g/ litre",
+        "Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.5 g/litre",
+        "Propineb 70 % WP @ 3 g/litre",
+        "Copper Oxychloride 45%+ Kasuamycin 5% WP @ 2.5g/ litre",
+        "Azoxystrobin 8.3 % + Mancozeb 66.7 % WG @ 1.5 g/litre",
+        "Fluopyram 21.4 % + Trifloxystrobin 21.4 % SC @ 0.7 ml/litre",
+        "Fluopicolide 5.56% + Propamocarb Hydrochloride 55.6% SC @ 1.25 ml/litre"
+      ],
+      "importantInstructionsTitle": "Important instructions",
+      "instructions": [
+        "Sprays of Mandipropamid 23.4%@1ml/l (2-3 sprays at 10-15 days) at flowering act as preventive for many fungal diseases including. Hence take this at flowering.",
+        "Avoid spray if rain is expected on the day; Spray after a few hours of rain is better and very important",
+        "Spray pH should be checked after final solution preparation. It should be adjusted from 6.5-7.0 pH/ or as instructed on the fungicide pack. This will avoid chemical injuries and give better results",
+        "Always use spreader sticker with sprays except Bordeaux mixture",
+        "No pesticide should be used more than 2-3 times in a season except copper fungicides",
+        "Sprays can be taken in rotation as per pre-harvest interval for residue-free production"
+      ],
+      "recommendations": [
+        "Remove and destroy affected fruit and leaves.",
+        "Apply a suitable fungicide (e.g., Zineb, Tebuconazole).",
+        "Improve air circulation through pruning."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Healthy": {
+      "description": "No specific management is required. Continue to monitor the plant for any signs of stress or disease and maintain good agricultural practices."
+    },
+    "Fungal Scab": {
+      "diseaseName": "Disease: Fruit scab",
+      "description": "Since 2016, scab has become a limiting factor in pomegranate production in arid and semi-arid regions of India. In areas where the disease is prevalent, it is not uncommon to find orchards where 90–100% of fruits are affected.",
+      "causalOrganism": "Sphaceloma (syn. Elsinoe) punicae",
+      "symptoms": "The pathogen attacks at any stage from flowering through fruit maturity. Infections of flower buds or small fruits lead to deformation and consequently yield losses. Infection of mature fruits affects the appearance and exterior quality of fruits. The lesions affect only the outer rind surface, without affecting aril or juice quality.\n• The lesions on fruits may be small or large, brown, rough, raised, covering small areas to entire fruit surface, giving a russet scab appearance to the rind.\n• The spots at times may enlarge to form larger spots with a light centre and darker edge and are rough to the touch.\n• It produces spots of various shape and size from small rough, raised spots to large brown spots covering entire fruit surface with russet appearance.",
+      "predisposingFactors": "Temperatures of 22 - 28°C, humidity around 45 - 65% with rain and wind favours disease development.",
+      "chemicalManagementTitle": "Chemical management of fruit scab",
+      "chemicalManagementIntro": "The disease is commonly observed on fruits after the rains. On leaves are generally observed when fruits are not there. If you had a scab in last season also do not wait for disease symptoms take preventive sprays after rains. Take below mentioned sprays alternately at 7-10 days intervals depending on weather conditions and following the important instructions given at the end,",
+      "sprays": [
+        "Metiram 55% WG+ Pyraclostrobin 5% @ 3 g/litre",
+        "Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.5 g/litre",
+        "Azoxystrobin 18.2 % + Difenoconazole 11.4 % SC @ 1ml/ litre",
+        "Zineb 68%+ Hexaconazole 4% WP @ 2.5g/ l",
+        "Fluopicolide 5.56% + Propamocarb Hydrochloride 55.6% SC @"
+      ],
+      "chemicalManagementNote": "Note: Best results if given soon after rain",
+      "importantInstructionsTitle": "Important Instructions",
+      "instructions": [
+        "Sprays of Mandipropamid 23.4%@1ml/l (2-3 sprays at 10-15 days) at flowering acts as preventive for many fungal diseases including Cercospora Fruit and leaf spot and Scab. Hence take this at flowering.",
+        "Infected distorted fruits at the setting can be removed and destroyed. do not dump or not throws anywhere.",
+        "Avoid spray if rain is expected on the day; Spraying after few hours of rain is better and very important for avoiding scab infection.",
+        "Spray pH should be checked after final solution preparation. It should be adjusted from 6.5-7.0 pH/ or as instructed on the fungicide pack. This will avoid chemical injuries and give better results",
+        "Always use spreader sticker with sprays except Bordeaux mixture",
+        "No pesticide should be used more than 2-3 times in a season except copper fungicides",
+        "Sprays can be taken in rotation as per pre-harvest interval for residue-free production"
+      ],
+      "recommendations": [
+        "Remove and destroy infected or distorted fruits.",
+        "Apply preventive sprays after rains (e.g., Metiram, Tebuconazole).",
+        "Prune trees to improve air circulation."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Bacterial": {
+      "diseaseName": "Disease: Bacterial leaf spot/oily spot",
+      "description": "Bacterial blight causes economic yield losses (60-100 %) in pomegranate under favourable conditions. It is more severe and prevalent during the rainy season (Mrig Bahar) in June-July and less in Rabi season (Hasta bahar).",
+      "causalOrganism": "Xanthomonas axonopodis pv. Punicae (Syn: Xanthomonas citri pv. punicae)",
+      "symptoms": "• Disease symptoms are observed on all plant parts viz., leaves, stems, flowers and fruits.\n• Initially, small irregular greyish black water soaked lesions are observed on leaves which enlarge with progress of the disease. Diseased leaves gradually turn yellow and fall down (Plate1a).\n• The bacterial ooze comes out after rains/spray/dew, which feels sticky to hands and after drying gives white shiny encrustation on the surface. (Plate1c).",
+      "predisposingFactors": "Temperature (25 – 30o C), Relative humidity (>50%) rainfall, application of higher nitrogen doses than recommended, micronutrient deficiencies.",
+      "cropSeasonManagementTitle": "Management practices during Crop season",
+      "cropSeasonManagement": [
+        "Prophylactic sprays should be taken after harvest during rest period and also after planting a new orchard till fruiting is taken.",
+        "Spray with Bordeaux mixture (1 %) altered with Bronopol @ 0.5 g/L mixed with copper based formulations like copper oxychloride or copper hydroxide @ 2 -2.5 g/L at 15 - 20 days interval depending on disease present in the orchard/neighboring orchards and weather conditions.",
+        "If orchards in rest period and have leaf blight infection, one spray of Streptocycline @ 0.5 g/L may be taken in alteration with Bordeaux mixture and Bronopol."
+      ],
+      "cropSeasonManagementNote": "Note: If it is a bacterial blight free area then sprays of streptocycline or Bronopol are not required.",
+      "emergencySpraysTitle": "Emergency sprays",
+      "emergencySpraysIntro": "1 - 2 sprays at 4 days interval soon after 5 – 10 % blight infection observed on leaves restricts further blight spread.",
+      "emergencySprays": [
+        "Streptocycline @ 0.5 g/L + 2-bromo-nitropropane-1, 3-diol (Bronopol 95%) @ 0.5 g/L + Copper hydroxide 53.8 % WP @ 2.0 g/L + spreader sticker @ 0.5 ml/L solution.",
+        "Streptocycline @ 0.5 g/L + 2-bromo-nitropropane-1, 3-diol (Bronopol 95%) @ 0.5 g/L + Carbendazim 50 % WP @ 1.0 g/L + spreader sticker @ 0.5 ml/L solution."
+      ],
+      "emergencySpraysNote": "Note:\n• Remove and destroy blight affected fruits before every spray. Maintain proper orchard sanitation and take preventive sprays in rest period.",
+      "recommendations": [
+        "Avoid overhead irrigation to keep foliage dry.",
+        "Apply copper-based sprays as a preventive measure.",
+        "Remove and destroy infected leaves promptly."
+      ]
+    },
+    "Fungal": {
+      "diseaseName": "Disease: fungal Leaf spots",
+      "description": "Pomegranate is susceptible to several leaf spots causing pathogens which may reduce fruit yield and quality",
+      "causalOrganism": "leaf spots are caused by many of fungal pathogens viz., Alternaria alternata, Cercospora punicae (Psuedocercospora punicae), Colletotrichum sp. Drechsclera rostrata. Besides leaf spots have been reported to be caused by many other fungal species namely Botryodiplodia theobromae, Curvularia sp., Pestalotiopsis sp.",
+      "symptoms": "various pathogens produce characteristic spot symptoms particularly on leaves, stems. The exact identification of which is only be made through microscopic and pure culture studies as most of the times overlapping disease symptoms are observed under natural conditions. Among leaf and fruit spots, cercospora spots are most prominent on pomegranate.",
+      "predisposingFactors": "Temperatures between 20 - 30°C and humidity above 60% for long duration’s favours disease development. Leaf and fruit spots are often more prevalent during rainy season",
+      "chemicalManagementTitle": "Chemical management of fungal leaf spots",
+      "chemicalManagementIntro": "Take below mentioned sprays alternately at 7-10 days intervals depending on weather conditions and follow the important instructions given at the end.",
+      "sprays": [
+        "Zineb 75% WP @ 2g/litre",
+        "Zineb 68%+ Hexaconazole 4% WP @ 2.5g/ l",
+        "Metiram 55% WG+ Pyraclostrobin 5% @ 3 g/litre",
+        "Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.5 g/litre",
+        "Propineb 70 % WP @ 3 g/litre",
+        "Tricyclazole 18%+Mancozeb 62% WP 2.5 to3.0 g/litre",
+        "Copper Sulphate 47.15% + Mancozeb 30% WDG @ 2.5 g/litre",
+        "Azoxystrobin 8.3 % + Mancozeb 66.7 % WG @ 1.5 g/litre"
+      ],
+      "importantInstructionsTitle": "Important instructions",
+      "instructions": [
+        "Sprays of Mandipropamid 23.4%@1ml/l (2-3 sprays at 10-15 days) at flowering act as preventive for many fungal diseases including Cercospora Fruit and leaf spot and Scab. Hence take this at flowering.",
+        "Avoid spray if rain is expected on the day; Spray after a few hours of rain is better and very important",
+        "Spray pH should be checked after final solution preparation. It should be adjusted from 6.5-7.0 pH/ or as instructed on the fungicide pack. This will avoid chemical injuries and give better results",
+        "Always use spreader sticker with sprays except Bordeaux mixture",
+        "No pesticide should be used more than 2-3 times in a season except copper fungicides",
+        "Sprays can be taken in rotation as per pre-harvest interval for residue-free production"
+      ],
+      "recommendations": [
+        "Apply appropriate fungicides, rotating between different chemical groups.",
+        "Improve air circulation through pruning.",
+        "Water at the base of the plant to keep leaves dry."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    }
+  },
+  "hi": {
+    "Bacterial Blight": {
+      "diseaseName": "रोग: बैक्टीरियल ब्लाइट",
+      "description": "अनार में बैक्टीरियल ब्लाइट अनुकूल परिस्थितियों में आर्थिक उपज हानि (60-100%) का कारण बनता है। यह जून-जुलाई में बरसात के मौसम (मृग बहार) में अधिक गंभीर और प्रचलित है और रबी मौसम (हस्ता बहार) में कम होता है।",
+      "causalOrganism": "जैन्थोमोनास एक्सोनोपोडिस pv. प्युनिका (Syn: जैन्थोमोनास सिट्री pv. प्युनिका)",
+      "symptoms": "• रोग के लक्षण पौधे के सभी भागों यानी पत्तियों, तनों, फूलों और फलों पर देखे जाते हैं।\n• प्रारंभ में, पत्तियों पर छोटे अनियमित भूरे-काले पानी से लथपथ घाव देखे जाते हैं जो रोग की प्रगति के साथ बड़े हो जाते हैं। रोगग्रस्त पत्तियां धीरे-धीरे पीली हो जाती हैं और गिर जाती हैं (प्लेट 1 ए)।\n• टहनियों और तनों पर काले घाव मुख्य रूप से नोड्स पर देखे जाते हैं, जिसके परिणामस्वरूप दबे हुए विकास के साथ कैंकर का निर्माण होता है (प्लेट 1 बी)।\n• विकसित फलों पर रोग के लक्षण प्रमुख होते हैं। भूरे-काले घाव बड़े हो जाते हैं और मिल जाते हैं, जिससे पूरे फल की सतह ढक जाती है। संक्रमित फलों में अक्सर दरारें दिखाई देती हैं। बारिश/स्प्रे/ओस के बाद जीवाणु का रिसाव होता है, जो हाथों को चिपचिपा लगता है और सूखने के बाद सतह पर सफेद चमकदार पपड़ी देता है। (प्लेट 1 सी)।",
+      "predisposingFactors": "तापमान (25 – 30o C), सापेक्ष आर्द्रता (>50%), वर्षा, अनुशंसित से अधिक नाइट्रोजन की खुराक का अनुप्रयोग, सूक्ष्म पोषक तत्वों की कमी।",
+      "pruningManagementTitle": "छंटाई के दौरान प्रबंधन प्रथाएं",
+      "pruningManagement": [
+        "यदि तने का संक्रमण गंभीर है, तो कटाई के तुरंत बाद भारी छंटाई करें और ब्लाइट संक्रमण वाले सभी तनों को हटा दें। संक्रमित क्षेत्र से लगभग 2 - 3 इंच नीचे छंटाई करें।",
+        "छंटाई के बाद कटे हुए सिरों पर बोर्डो पेस्ट (10%) लगाएं। बरसात के मौसम में चिपकाने के लिए तेल आधारित पेस्ट [500 ग्राम सीओसी + 1 लीटर अलसी का तेल मिलाकर बनाया गया सीओसी पेंट] बेहतर होता है या पेस्ट में 50 मिली/लीटर तेल मिलाएं।"
+      ],
+      "cropSeasonManagementTitle": "फसल के मौसम के दौरान प्रबंधन प्रथाएं",
+      "cropSeasonManagement": [
+        "कटाई के बाद आराम की अवधि के दौरान और फल लगने तक नए बाग लगाने के बाद भी प्रोफिलैक्टिक स्प्रे लेना चाहिए।",
+        "बाग/पड़ोसी बागों में मौजूद बीमारी और मौसम की स्थिति के आधार पर 15 - 20 दिनों के अंतराल पर ब्रोनोपोल @ 0.5 ग्राम/लीटर के साथ कॉपर ऑक्सीक्लोराइड या कॉपर हाइड्रॉक्साइड @ 2 -2.5 ग्राम/लीटर जैसे तांबे आधारित फॉर्मूलेशन के साथ बोर्डो मिश्रण (1%) का स्प्रे करें।",
+        "यदि बाग आराम की अवधि में हैं और उनमें पत्ती ब्लाइट संक्रमण है, तो बोर्डो मिश्रण और ब्रोनोपोल के साथ स्ट्रेप्टोसाइक्लिन @ 0.5 ग्राम/लीटर का एक स्प्रे लिया जा सकता है।"
+      ],
+      "cropSeasonManagementNote": "नोट: यदि यह एक बैक्टीरियल ब्लाइट मुक्त क्षेत्र है तो स्ट्रेप्टोसाइक्लिन या ब्रोनोपोल के स्प्रे की आवश्यकता नहीं है।",
+      "emergencySpraysTitle": "आपातकालीन स्प्रे",
+      "emergencySpraysIntro": "फलों पर 5-10% ब्लाइट संक्रमण देखे जाने के तुरंत बाद 4 दिनों के अंतराल पर 1-2 स्प्रे आगे ब्लाइट के प्रसार को रोकते हैं।",
+      "emergencySprays": [
+        "स्ट्रेप्टोसाइक्लिन @ 0.5 ग्राम/लीटर + 2-ब्रोमो-नाइट्रोप्रोपेन-1, 3-डायोल (ब्रोनोपोल 95%) @ 0.5 ग्राम/लीटर + कॉपर हाइड्रॉक्साइड 53.8% WP @ 2.0 ग्राम/लीटर + स्प्रेडर स्टिकर @ 0.5 मिली/लीटर घोल।",
+        "स्ट्रेप्टोसाइक्लिन @ 0.5 ग्राम/लीटर + 2-ब्रोमो-नाइट्रोप्रोपेन-1, 3-डायोल (ब्रोनोपोल 95%) @ 0.5 ग्राम/लीटर + कार्बेन्डाजिम 50% WP @ 1.0 ग्राम/लीटर + स्प्रेडर स्टिकर @ 0.5 मिली/लीटर घोल।"
+      ],
+      "emergencySpraysNote": "नोट:\n• प्रत्येक स्प्रे से पहले ब्लाइट प्रभावित फलों को हटाकर नष्ट कर दें। बाग की उचित स्वच्छता बनाए रखें और आराम की अवधि में निवारक स्प्रे लें।",
+      "recommendations": [
+        "ब्लाइट संक्रमण वाले सभी तनों को छाँटें और हटा दें।",
+        "छंटाई के बाद कटे हुए सिरों पर बोर्डो पेस्ट लगाएं।",
+        "बोर्डो मिश्रण या ब्रोनोपोल जैसे प्रोफिलैक्टिक स्प्रे का उपयोग करें।",
+        "प्रत्येक स्प्रे से पहले ब्लाइट प्रभावित फलों को हटाकर नष्ट कर दें।"
+      ]
+    },
+    "Calyx Rot": {
+      "diseaseName": "रोग: एन्थ्रेक्नोज/ फल सड़न/कैलिक्स रॉट",
+      "description": "एन्थ्रेक्नोज/फल सड़न अर्ध-शुष्क परिस्थितियों में एक बड़ी समस्या बन रही है। यह रोग उष्णकटिबंधीय और उपोष्णकटिबंधीय क्षेत्रों में आम है।",
+      "causalOrganism": "कोलेटोट्रिचम एसपीपी।",
+      "symptoms": "कोलेटोट्रिचम के लक्षण फूल, फल, पत्तियों या टहनियों पर विकसित होते हैं, लेकिन फल सबसे अधिक संवेदनशील होते हैं।\n• पत्तियों पर, पीले प्रभामंडल के साथ छोटे गोलाकार धब्बे विकसित होते हैं; बाद में संक्रमित पत्तियां पीली हो जाती हैं जिससे समय से पहले पत्तियां झड़ जाती हैं।\n• फलों पर, पहले लक्षण कैलिक्स सिरे से फल के छिलके के मलिनकिरण या कई अलग-अलग धब्बों के रूप में देखे जाते हैं जो बाद में मिलकर फल की सतह पर अनियमित धब्बे बनाते हैं (कोलेटोट्रिचम एसपीपी।)\n• फीके पड़े क्षेत्र लाल/गहरे भूरे से काले हो जाते हैं। सड़न छिलके से आगे बढ़कर एरिल्स में फैल जाती है, जो विघटित हो जाते हैं और गहरे भूरे/भूरे-काले रंग के होते हैं लेकिन पानीदार नहीं होते हैं। प्रभावित फल बाद के चरण में गिर सकते हैं।\n• फल सेटिंग से लेकर सभी चरणों में इस बीमारी के प्रति सबसे अधिक संवेदनशील होते हैं।",
+      "predisposingFactors": "25 - 30 डिग्री सेल्सियस का तापमान और उच्च आर्द्रता (>60%) रोग के विकास के पक्ष में है। गर्मियों के महीनों के दौरान उच्च आर्द्रता, वर्षा और गर्म तापमान रोग की गंभीरता को बढ़ाते हैं",
+      "chemicalManagementTitle": "कोलेटोट्रिचम सड़न का रासायनिक प्रबंधन",
+      "chemicalManagementIntro": "मौसम की स्थिति के आधार पर 7-10 दिनों के अंतराल पर नीचे दिए गए स्प्रे को वैकल्पिक रूप से लें और अंत में दिए गए महत्वपूर्ण निर्देशों का पालन करें।",
+      "sprays": [
+        "ज़िनेब 68% + हेक्साकोनाज़ोल 4% WP @ 2.5 ग्राम/लीटर",
+        "टेबुकोनाज़ोल 50% + ट्राइफ्लॉक्सीस्ट्रोबिन 25% WG @ 0.5 ग्राम/लीटर",
+        "प्रोपीनेब 70% WP @ 3 ग्राम/लीटर",
+        "कॉपर ऑक्सीक्लोराइड 45% + कासुगामाइसिन 5% WP @ 2.5 ग्राम/लीटर",
+        "एज़ोक्सिस्ट्रोबिन 8.3% + मैनकोज़ेब 66.7% WG @ 1.5 ग्राम/लीटर",
+        "फ्लुओपाइरम 21.4% + ट्राइफ्लॉक्सीस्ट्रोबिन 21.4% SC @ 0.7 मिली/लीटर",
+        "फ्लुओपिकोलाइड 5.56% + प्रोपामोकार्ब हाइड्रोक्लोराइड 55.6% SC @ 1.25 मिली/लीटर"
+      ],
+      "importantInstructionsTitle": "महत्वपूर्ण निर्देश",
+      "instructions": [
+        "फूल आने पर मैंडिप्रोपामाइड 23.4% @ 1 मिली/लीटर (10-15 दिनों में 2-3 स्प्रे) का स्प्रे कई फंगल रोगों के लिए निवारक के रूप में कार्य करता है। इसलिए इसे फूल आने पर लें।",
+        "यदि उस दिन बारिश की उम्मीद है तो स्प्रे से बचें; बारिश के कुछ घंटों बाद स्प्रे करना बेहतर और बहुत महत्वपूर्ण है",
+        "अंतिम घोल तैयार करने के बाद स्प्रे का पीएच जांचना चाहिए। इसे 6.5-7.0 पीएच/ या कवकनाशी पैक पर दिए गए निर्देशानुसार समायोजित किया जाना चाहिए। इससे रासायनिक चोटों से बचा जा सकेगा और बेहतर परिणाम मिलेंगे",
+        "बोर्डो मिश्रण को छोड़कर स्प्रे के साथ हमेशा स्प्रेडर स्टिकर का उपयोग करें",
+        "कॉपर कवकनाशी को छोड़कर किसी भी कीटनाशक का उपयोग एक मौसम में 2-3 बार से अधिक नहीं किया जाना चाहिए",
+        "अवशेष मुक्त उत्पादन के लिए कटाई पूर्व अंतराल के अनुसार स्प्रे को रोटेशन में लिया जा सकता है"
+      ],
+      "recommendations": [
+        "प्रभावित फल और पत्तियों को हटाकर नष्ट कर दें।",
+        "एक उपयुक्त कवकनाशी (जैसे, ज़िनेब, टेबुकोनाज़ोल) लागू करें।",
+        "छंटाई के माध्यम से वायु परिसंचरण में सुधार करें।"
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Fungal Cercospora": {
+      "diseaseName": "रोग: सर्कोस्पोरा फ्रूट स्पॉट",
+      "description": "अनार कवक के फलों के धब्बे के प्रति संवेदनशील है, विशेष रूप से सर्कोस्पोरा प्यूनिका (स्यूडोसेरकोस्पोरा प्यूनिका) रोगजनकों के कारण जो फलों की उपज और गुणवत्ता को कम कर सकते हैं।",
+      "causalOrganism": "सर्कोस्पोरा प्यूनिका (स्यूडोसेरकोस्पोरा प्यूनिका)",
+      "symptoms": "रोगज़नक़ विशेष रूप से फलों पर विशिष्ट धब्बे के लक्षण पैदा करता है। छोटे, अनियमित धब्बे जो शुरू में गोलाकार होते हैं लेकिन बड़े और गहरे हो जाते हैं।",
+      "predisposingFactors": "20 - 30 डिग्री सेल्सियस के बीच तापमान और लंबी अवधि के लिए 60% से ऊपर की आर्द्रता रोग के विकास के पक्ष में है। बरसात के मौसम में पत्ती और फलों के धब्बे अक्सर अधिक प्रचलित होते हैं।",
+      "chemicalManagementTitle": "फंगल पत्ती और फलों के धब्बों का रासायनिक प्रबंधन",
+      "chemicalManagementIntro": "मौसम की स्थिति और रोग के दबाव के आधार पर 7-10 दिनों के अंतराल पर नीचे दिए गए स्प्रे को वैकल्पिक रूप से लें और अंत में दिए गए महत्वपूर्ण निर्देशों का पालन करें।",
+      "sprays": [
+        "ज़िनेब 75% WP @ 2 ग्राम/लीटर",
+        "ज़िनेब 68% + हेक्साकोनाज़ोल 4% WP @ 2.5 ग्राम/लीटर",
+        "मेटिरम 55% WG + पाइराक्लोस्ट्रोबिन 5% @ 3 ग्राम/लीटर",
+        "टेबुकोनाज़ोल 50% + ट्राइफ्लॉक्सीस्ट्रोबिन 25% WG @ 0.5 ग्राम/लीटर",
+        "प्रोपीनेब 70% WP @ 3 ग्राम/लीटर",
+        "ट्राइसाइक्लाज़ोल 18% + मैनकोज़ेब 62% WP 2.5 से 3.0 ग्राम/लीटर",
+        "कॉपर सल्फेट 47.15% + मैनकोज़ेब 30% WDG @ 2.5 ग्राम/लीटर",
+        "एज़ोक्सिस्ट्रोबिन 8.3% + मैनकोज़ेब 66.7% WG @ 1.5 ग्राम/लीटर"
+      ],
+      "importantInstructionsTitle": "महत्वपूर्ण निर्देश",
+      "instructions": [
+        "फूल आने पर मैंडिप्रोपामाइड 23.4% @ 1 मिली/लीटर (10-15 दिनों में 2-3 स्प्रे) का स्प्रे सर्कोस्पोरा फ्रूट और लीफ स्पॉट और स्कैब सहित कई फंगल रोगों के लिए निवारक के रूप में कार्य करता है। इसलिए इसे फूल आने पर लें।",
+        "यदि उस दिन बारिश की उम्मीद है तो स्प्रे से बचें; बारिश के कुछ घंटों बाद स्प्रे करना बेहतर और बहुत महत्वपूर्ण है",
+        "अंतिम घोल तैयार करने के बाद स्प्रे का पीएच जांचना चाहिए। इसे 6.5-7.0 पीएच/ या कवकनाशी पैक पर दिए गए निर्देशानुसार समायोजित किया जाना चाहिए। इससे रासायनिक चोटों से बचा जा सकेगा और बेहतर परिणाम मिलेंगे",
+        "बोर्डो मिश्रण को छोड़कर स्प्रे के साथ हमेशा स्प्रेडर स्टिकर का उपयोग करें",
+        "कॉपर कवकनाशी को छोड़कर किसी भी कीटनाशक का उपयोग एक मौसम में 2-3 बार से अधिक नहीं किया जाना चाहिए",
+        "अवशेष मुक्त उत्पादन के लिए कटाई पूर्व अंतराल के अनुसार स्प्रे को रोटेशन में लिया जा सकता है"
+      ],
+      "recommendations": [
+        "संक्रमित पत्तियों को हटाकर जला दें।",
+        "निवारक रूप से कवकनाशी लागू करें।",
+        "अच्छा वायु परिसंचरण सुनिश्चित करें।"
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Fruit Rot": {
+      "diseaseName": "रोग: एन्थ्रेक्नोज/ फल सड़न/कैलिक्स रॉट",
+      "description": "एन्थ्रेक्नोज/फल सड़न अर्ध-शुष्क परिस्थितियों में एक बड़ी समस्या बन रही है। यह रोग उष्णकटिबंधीय और उपोष्णकटिबंधीय क्षेत्रों में आम है।",
+      "causalOrganism": "कोलेटोट्रिचम एसपीपी।",
+      "symptoms": "कोलेटोट्रिचम के लक्षण फूल, फल, पत्तियों या टहनियों पर विकसित होते हैं, लेकिन फल सबसे अधिक संवेदनशील होते हैं।\n• पत्तियों पर, पीले प्रभामंडल के साथ छोटे गोलाकार धब्बे विकसित होते हैं; बाद में संक्रमित पत्तियां पीली हो जाती हैं जिससे समय से पहले पत्तियां झड़ जाती हैं।\n• फलों पर, पहले लक्षण कैलिक्स सिरे से फल के छिलके के मलिनकिरण या कई अलग-अलग धब्बों के रूप में देखे जाते हैं जो बाद में मिलकर फल की सतह पर अनियमित धब्बे बनाते हैं (कोलेटोट्रिचम एसपीपी।)\n• फीके पड़े क्षेत्र लाल/गहरे भूरे से काले हो जाते हैं। सड़न छिलके से आगे बढ़कर एरिल्स में फैल जाती है, जो विघटित हो जाते हैं और गहरे भूरे/भूरे-काले रंग के होते हैं लेकिन पानीदार नहीं होते हैं। प्रभावित फल बाद के चरण में गिर सकते हैं।\n• फल सेटिंग से लेकर सभी चरणों में इस बीमारी के प्रति सबसे अधिक संवेदनशील होते हैं।",
+      "predisposingFactors": "25 - 30 डिग्री सेल्सियस का तापमान और उच्च आर्द्रता (>60%) रोग के विकास के पक्ष में है। गर्मियों के महीनों के दौरान उच्च आर्द्रता, वर्षा और गर्म तापमान रोग की गंभीरता को बढ़ाते हैं",
+      "chemicalManagementTitle": "कोलेटोट्रिचम सड़न का रासायनिक प्रबंधन",
+      "chemicalManagementIntro": "मौसम की स्थिति के आधार पर 7-10 दिनों के अंतराल पर नीचे दिए गए स्प्रे को वैकल्पिक रूप से लें और अंत में दिए गए महत्वपूर्ण निर्देशों का पालन करें।",
+      "sprays": [
+        "ज़िनेब 68% + हेक्साकोनाज़ोल 4% WP @ 2.5 ग्राम/लीटर",
+        "टेबुकोनाज़ोल 50% + ट्राइफ्लॉक्सीस्ट्रोबिन 25% WG @ 0.5 ग्राम/लीटर",
+        "प्रोपीनेब 70% WP @ 3 ग्राम/लीटर",
+        "कॉपर ऑक्सीक्लोराइड 45% + कासुगामाइसिन 5% WP @ 2.5 ग्राम/लीटर",
+        "एज़ोक्सिस्ट्रोबिन 8.3% + मैनकोज़ेब 66.7% WG @ 1.5 ग्राम/लीटर",
+        "फ्लुओपाइरम 21.4% + ट्राइफ्लॉक्सीस्ट्रोबिन 21.4% SC @ 0.7 मिली/लीटर",
+        "फ्लुओपिकोलाइड 5.56% + प्रोपामोकार्ब हाइड्रोक्लोराइड 55.6% SC @ 1.25 मिली/लीटर"
+      ],
+      "importantInstructionsTitle": "महत्वपूर्ण निर्देश",
+      "instructions": [
+        "फूल आने पर मैंडिप्रोपामाइड 23.4% @ 1 मिली/लीटर (10-15 दिनों में 2-3 स्प्रे) का स्प्रे कई फंगल रोगों के लिए निवारक के रूप में कार्य करता है। इसलिए इसे फूल आने पर लें।",
+        "यदि उस दिन बारिश की उम्मीद है तो स्प्रे से बचें; बारिश के कुछ घंटों बाद स्प्रे करना बेहतर और बहुत महत्वपूर्ण है",
+        "अंतिम घोल तैयार करने के बाद स्प्रे का पीएच जांचना चाहिए। इसे 6.5-7.0 पीएच/ या कवकनाशी पैक पर दिए गए निर्देशानुसार समायोजित किया जाना चाहिए। इससे रासायनिक चोटों से बचा जा सकेगा और बेहतर परिणाम मिलेंगे",
+        "बोर्डो मिश्रण को छोड़कर स्प्रे के साथ हमेशा स्प्रेडर स्टिकर का उपयोग करें",
+        "कॉपर कवकनाशी को छोड़कर किसी भी कीटनाशक का उपयोग एक मौसम में 2-3 बार से अधिक नहीं किया जाना चाहिए",
+        "अवशेष मुक्त उत्पादन के लिए कटाई पूर्व अंतराल के अनुसार स्प्रे को रोटेशन में लिया जा सकता है"
+      ],
+      "recommendations": [
+        "प्रभावित फल और पत्तियों को हटाकर नष्ट कर दें।",
+        "एक उपयुक्त कवकनाशी (जैसे, ज़िनेब, टेबुकोनाज़ोल) लागू करें।",
+        "छंटाई के माध्यम से वायु परिसंचरण में सुधार करें।"
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Healthy": {
+      "description": "किसी विशिष्ट प्रबंधन की आवश्यकता नहीं है। तनाव या बीमारी के किसी भी लक्षण के लिए पौधे की निगरानी करना जारी रखें और अच्छी कृषि पद्धतियों को बनाए रखें।"
+    },
+    "Fungal Scab": {
+      "diseaseName": "रोग: फल पपड़ी",
+      "description": "2016 से, भारत के शुष्क और अर्ध-शुष्क क्षेत्रों में अनार उत्पादन में पपड़ी एक सीमित कारक बन गई है। जिन क्षेत्रों में यह बीमारी प्रचलित है, वहां ऐसे बाग मिलना असामान्य नहीं है जहां 90-100% फल प्रभावित होते हैं।",
+      "causalOrganism": "स्फासेलोमा (syn. एल्सिनो) प्युनिका",
+      "symptoms": "रोगज़नक़ फूल आने से लेकर फल पकने तक किसी भी अवस्था में हमला करता है। फूल की कलियों या छोटे फलों के संक्रमण से विकृति होती है और परिणामस्वरूप उपज का नुकसान होता है। पके फलों का संक्रमण फलों की उपस्थिति और बाहरी गुणवत्ता को प्रभावित करता है। घाव केवल बाहरी छिलके की सतह को प्रभावित करते हैं, बिना एरिल या रस की गुणवत्ता को प्रभावित किए।\n• फलों पर घाव छोटे या बड़े, भूरे, खुरदरे, उभरे हुए हो सकते हैं, जो छोटे क्षेत्रों से लेकर पूरे फल की सतह को कवर करते हैं, जिससे छिलके को एक रूसेट स्कैब जैसा रूप मिलता है।\n• धब्बे कभी-कभी बड़े होकर हल्के केंद्र और गहरे किनारे वाले बड़े धब्बे बना सकते हैं और छूने में खुरदरे होते हैं।\n• यह छोटे खुरदरे, उभरे हुए धब्बों से लेकर पूरे फल की सतह को कवर करने वाले बड़े भूरे धब्बों तक विभिन्न आकार और आकार के धब्बे पैदा करता है, जिसमें रूसेट जैसा रूप होता है।",
+      "predisposingFactors": "22 - 28 डिग्री सेल्सियस का तापमान, बारिश और हवा के साथ 45 - 65% के आसपास की आर्द्रता रोग के विकास के पक्ष में है।",
+      "chemicalManagementTitle": "फल पपड़ी का रासायनिक प्रबंधन",
+      "chemicalManagementIntro": "यह रोग आमतौर पर बारिश के बाद फलों पर देखा जाता है। पत्तियों पर आम तौर पर तब देखा जाता है जब फल नहीं होते हैं। यदि आपके पास पिछले सीजन में भी पपड़ी थी तो रोग के लक्षणों की प्रतीक्षा न करें, बारिश के बाद निवारक स्प्रे लें। मौसम की स्थिति के आधार पर 7-10 दिनों के अंतराल पर नीचे दिए गए स्प्रे को वैकल्पिक रूप से लें और अंत में दिए गए महत्वपूर्ण निर्देशों का पालन करें,",
+      "sprays": [
+        "मेटिरम 55% WG + पाइराक्लोस्ट्रोबिन 5% @ 3 ग्राम/लीटर",
+        "टेबुकोनाज़ोल 50% + ट्राइफ्लॉक्सीस्ट्रोबिन 25% WG @ 0.5 ग्राम/लीटर",
+        "एज़ोक्सिस्ट्रोबिन 18.2% + डाइफेनोकोनाज़ोल 11.4% SC @ 1 मिली/लीटर",
+        "ज़िनेब 68% + हेक्साकोनाज़ोल 4% WP @ 2.5 ग्राम/लीटर",
+        "फ्लुओपिकोलाइड 5.56% + प्रोपामोकार्ब हाइड्रोक्लोराइड 55.6% SC @"
+      ],
+      "chemicalManagementNote": "नोट: बारिश के तुरंत बाद दिए जाने पर सर्वोत्तम परिणाम मिलते हैं",
+      "importantInstructionsTitle": "महत्वपूर्ण निर्देश",
+      "instructions": [
+        "फूल आने पर मैंडिप्रोपामाइड 23.4% @ 1 मिली/लीटर (10-15 दिनों में 2-3 स्प्रे) का स्प्रे सर्कोस्पोरा फ्रूट और लीफ स्पॉट और स्कैब सहित कई फंगल रोगों के लिए निवारक के रूप में कार्य करता है। इसलिए इसे फूल आने पर लें।",
+        "सेटिंग पर संक्रमित विकृत फलों को हटाया और नष्ट किया जा सकता है। कहीं भी डंप या फेंके नहीं।",
+        "यदि उस दिन बारिश की उम्मीद है तो स्प्रे से बचें; पपड़ी के संक्रमण से बचने के लिए बारिश के कुछ घंटों बाद स्प्रे करना बेहतर और बहुत महत्वपूर्ण है।",
+        "अंतिम घोल तैयार करने के बाद स्प्रे का पीएच जांचना चाहिए। इसे 6.5-7.0 पीएच/ या कवकनाशी पैक पर दिए गए निर्देशानुसार समायोजित किया जाना चाहिए। इससे रासायनिक चोटों से बचा जा सकेगा और बेहतर परिणाम मिलेंगे",
+        "बोर्डो मिश्रण को छोड़कर स्प्रे के साथ हमेशा स्प्रेडर स्टिकर का उपयोग करें",
+        "कॉपर कवकनाशी को छोड़कर किसी भी कीटनाशक का उपयोग एक मौसम में 2-3 बार से अधिक नहीं किया जाना चाहिए",
+        "अवशेष मुक्त उत्पादन के लिए कटाई पूर्व अंतराल के अनुसार स्प्रे को रोटेशन में लिया जा सकता है"
+      ],
+      "recommendations": [
+        "संक्रमित या विकृत फलों को हटाकर नष्ट कर दें।",
+        "बारिश के बाद निवारक स्प्रे (जैसे, मेटिरम, टेबुकोनाज़ोल) लागू करें।",
+        "वायु परिसंचरण में सुधार के लिए पेड़ों की छंटाई करें।"
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Bacterial": {
+      "diseaseName": "रोग: बैक्टीरियल लीफ स्पॉट/ऑयली स्पॉट",
+      "description": "अनार में बैक्टीरियल ब्लाइट अनुकूल परिस्थितियों में आर्थिक उपज हानि (60-100%) का कारण बनता है। यह जून-जुलाई में बरसात के मौसम (मृग बहार) में अधिक गंभीर और प्रचलित है और रबी मौसम (हस्ता बहार) में कम होता है।",
+      "causalOrganism": "जैन्थोमोनास एक्सोनोपोडिस pv. प्युनिका (Syn: जैन्थोमोनास सिट्री pv. प्युनिका)",
+      "symptoms": "• रोग के लक्षण पौधे के सभी भागों यानी पत्तियों, तनों, फूलों और फलों पर देखे जाते हैं।\n• प्रारंभ में, पत्तियों पर छोटे अनियमित भूरे-काले पानी से लथपथ घाव देखे जाते हैं जो रोग की प्रगति के साथ बड़े हो जाते हैं। रोगग्रस्त पत्तियां धीरे-धीरे पीली हो जाती हैं और गिर जाती हैं (प्लेट 1 ए)।\n• बारिश/स्प्रे/ओस के बाद जीवाणु का रिसाव होता है, जो हाथों को चिपचिपा लगता है और सूखने के बाद सतह पर सफेद चमकदार पपड़ी देता है। (प्लेट 1 सी)।",
+      "predisposingFactors": "तापमान (25 – 30o C), सापेक्ष आर्द्रता (>50%), वर्षा, अनुशंसित से अधिक नाइट्रोजन की खुराक का अनुप्रयोग, सूक्ष्म पोषक तत्वों की कमी।",
+      "cropSeasonManagementTitle": "फसल के मौसम के दौरान प्रबंधन प्रथाएं",
+      "cropSeasonManagement": [
+        "कटाई के बाद आराम की अवधि के दौरान और फल लगने तक नए बाग लगाने के बाद भी प्रोफिलैक्टिक स्प्रे लेना चाहिए।",
+        "बाग/पड़ोसी बागों में मौजूद बीमारी और मौसम की स्थिति के आधार पर 15 - 20 दिनों के अंतराल पर ब्रोनोपोल @ 0.5 ग्राम/लीटर के साथ कॉपर ऑक्सीक्लोराइड या कॉपर हाइड्रॉक्साइड @ 2 -2.5 ग्राम/लीटर जैसे तांबे आधारित फॉर्मूलेशन के साथ बोर्डो मिश्रण (1%) का स्प्रे करें।",
+        "यदि बाग आराम की अवधि में हैं और उनमें पत्ती ब्लाइट संक्रमण है, तो बोर्डो मिश्रण और ब्रोनोपोल के साथ स्ट्रेप्टोसाइक्लिन @ 0.5 ग्राम/लीटर का एक स्प्रे लिया जा सकता है।"
+      ],
+      "cropSeasonManagementNote": "नोट: यदि यह एक बैक्टीरियल ब्लाइट मुक्त क्षेत्र है तो स्ट्रेप्टोसाइक्लिन या ब्रोनोपोल के स्प्रे की आवश्यकता नहीं है।",
+      "emergencySpraysTitle": "आपातकालीन स्प्रे",
+      "emergencySpraysIntro": "पत्तियों पर 5-10% ब्लाइट संक्रमण देखे जाने के तुरंत बाद 4 दिनों के अंतराल पर 1-2 स्प्रे आगे ब्लाइट के प्रसार को रोकते हैं।",
+      "emergencySprays": [
+        "स्ट्रेप्टोसाइक्लिन @ 0.5 ग्राम/लीटर + 2-ब्रोमो-नाइट्रोप्रोपेन-1, 3-डायोल (ब्रोनोपोल 95%) @ 0.5 ग्राम/लीटर + कॉपर हाइड्रॉक्साइड 53.8% WP @ 2.0 ग्राम/लीटर + स्प्रेडर स्टिकर @ 0.5 मिली/लीटर घोल।",
+        "स्ट्रेप्टोसाइक्लिन @ 0.5 ग्राम/लीटर + 2-ब्रोमो-नाइट्रोप्रोपेन-1, 3-डायोल (ब्रोनोपोल 95%) @ 0.5 ग्राम/लीटर + कार्बेन्डाजिम 50% WP @ 1.0 ग्राम/लीटर + स्प्रेडर स्टिकर @ 0.5 मिली/लीटर घोल।"
+      ],
+      "emergencySpraysNote": "नोट:\n• प्रत्येक स्प्रे से पहले ब्लाइट प्रभावित फलों को हटाकर नष्ट कर दें। बाग की उचित स्वच्छता बनाए रखें और आराम की अवधि में निवारक स्प्रे लें।",
+      "recommendations": [
+        "पत्तियों को सूखा रखने के लिए ओवरहेड सिंचाई से बचें।",
+        "निवारक उपाय के रूप में तांबे पर आधारित स्प्रे लागू करें।",
+        "संक्रमित पत्तियों को तुरंत हटा दें और नष्ट कर दें।"
+      ]
+    },
+    "Fungal": {
+      "diseaseName": "रोग: फंगल पत्ती धब्बे",
+      "description": "अनार कई पत्ती धब्बे पैदा करने वाले रोगजनकों के प्रति संवेदनशील है जो फलों की उपज और गुणवत्ता को कम कर सकते हैं",
+      "causalOrganism": "पत्ती के धब्बे कई फंगल रोगजनकों जैसे अल्टरनेरिया अल्टरनेटा, सर्कोस्पोरा प्यूनिका (स्यूडोसेरकोस्पोरा प्यूनिका), कोलेटोट्रिचम एसपी, ड्रेक्स्क्लेरा रोस्ट्रेटा के कारण होते हैं। इसके अलावा पत्ती के धब्बे कई अन्य फंगल प्रजातियों जैसे बोट्रीडिप्लोडिया थियोब्रोमी, कर्वुलरिया एसपी, पेस्टलोटिओप्सिस एसपी के कारण भी बताए गए हैं।",
+      "symptoms": "विभिन्न रोगजनक विशेष रूप से पत्तियों, तनों पर विशिष्ट धब्बे के लक्षण पैदा करते हैं। जिसकी सटीक पहचान केवल सूक्ष्म और शुद्ध संस्कृति अध्ययन के माध्यम से की जा सकती है क्योंकि अधिकांश समय प्राकृतिक परिस्थितियों में अतिव्यापी रोग लक्षण देखे जाते हैं। पत्ती और फलों के धब्बों में, सर्कोस्पोरा धब्बे अनार पर सबसे प्रमुख होते हैं।",
+      "predisposingFactors": "20 - 30 डिग्री सेल्सियस के बीच तापमान और लंबी अवधि के लिए 60% से ऊपर की आर्द्रता रोग के विकास के पक्ष में है। बरसात के मौसम में पत्ती और फलों के धब्बे अक्सर अधिक प्रचलित होते हैं",
+      "chemicalManagementTitle": "फंगल पत्ती धब्बों का रासायनिक प्रबंधन",
+      "chemicalManagementIntro": "मौसम की स्थिति के आधार पर 7-10 दिनों के अंतराल पर नीचे दिए गए स्प्रे को वैकल्पिक रूप से लें और अंत में दिए गए महत्वपूर्ण निर्देशों का पालन करें।",
+      "sprays": [
+        "ज़िनेब 75% WP @ 2 ग्राम/लीटर",
+        "ज़िनेब 68% + हेक्साकोनाज़ोल 4% WP @ 2.5 ग्राम/लीटर",
+        "मेटिरम 55% WG + पाइराक्लोस्ट्रोबिन 5% @ 3 ग्राम/लीटर",
+        "टेबुकोनाज़ोल 50% + ट्राइफ्लॉक्सीस्ट्रोबिन 25% WG @ 0.5 ग्राम/लीटर",
+        "प्रोपीनेब 70% WP @ 3 ग्राम/लीटर",
+        "ट्राइसाइक्लाज़ोल 18% + मैनकोज़ेब 62% WP 2.5 से 3.0 ग्राम/लीटर",
+        "कॉपर सल्फेट 47.15% + मैनकोज़ेब 30% WDG @ 2.5 ग्राम/लीटर",
+        "एज़ोक्सिस्ट्रोबिन 8.3% + मैनकोज़ेब 66.7% WG @ 1.5 ग्राम/लीटर"
+      ],
+      "importantInstructionsTitle": "महत्वपूर्ण निर्देश",
+      "instructions": [
+        "फूल आने पर मैंडिप्रोपामाइड 23.4% @ 1 मिली/लीटर (10-15 दिनों में 2-3 स्प्रे) का स्प्रे सर्कोस्पोरा फ्रूट और लीफ स्पॉट और स्कैब सहित कई फंगल रोगों के लिए निवारक के रूप में कार्य करता है। इसलिए इसे फूल आने पर लें।",
+        "यदि उस दिन बारिश की उम्मीद है तो स्प्रे से बचें; बारिश के कुछ घंटों बाद स्प्रे करना बेहतर और बहुत महत्वपूर्ण है",
+        "अंतिम घोल तैयार करने के बाद स्प्रे का पीएच जांचना चाहिए। इसे 6.5-7.0 पीएच/ या कवकनाशी पैक पर दिए गए निर्देशानुसार समायोजित किया जाना चाहिए। इससे रासायनिक चोटों से बचा जा सकेगा और बेहतर परिणाम मिलेंगे",
+        "बोर्डो मिश्रण को छोड़कर स्प्रे के साथ हमेशा स्प्रेडर स्टिकर का उपयोग करें",
+        "कॉपर कवकनाशी को छोड़कर किसी भी कीटनाशक का उपयोग एक मौसम में 2-3 बार से अधिक नहीं किया जाना चाहिए",
+        "अवशेष मुक्त उत्पादन के लिए कटाई पूर्व अंतराल के अनुसार स्प्रे को रोटेशन में लिया जा सकता है"
+      ],
+      "recommendations": [
+        "उपयुक्त कवकनाशी लागू करें, विभिन्न रासायनिक समूहों के बीच बारी-बारी से।",
+        "छंटाई के माध्यम से वायु परिसंचरण में सुधार करें।",
+        "पत्तियों को सूखा रखने के लिए पौधे के आधार पर पानी दें।"
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    }
+  },
+  "gu": {
+    "Bacterial Blight": {
+      "diseaseName": "રોગ: બેક્ટેરિયલ બ્લાઇટ",
+      "description": "બેક્ટેરિયલ બ્લાઇટ અનુકૂળ પરિસ્થિતિઓમાં દાડમમાં આર્થિક ઉપજનું નુકસાન (60-100%) કરે છે. તે જૂન-જુલાઈમાં વરસાદની મોસમ (મૃગ બહાર) દરમિયાન વધુ ગંભીર અને પ્રચલિત છે અને રવિ મોસમ (હસ્તા બહાર) માં ઓછું હોય છે.",
+      "causalOrganism": "ઝેન્થોમોનાસ એક્સોનોપોડિસ પીવી. પુનિકા (સમાનાર્થી: ઝેન્થોમોનાસ સિટ્રી પીવી. પુનિકા)",
+      "symptoms": "• રોગના લક્ષણો છોડના તમામ ભાગો જેવા કે પાંદડા, દાંડી, ફૂલો અને ફળો પર જોવા મળે છે.\n• શરૂઆતમાં, પાંદડા પર નાના અનિયમિત ભૂખરા-કાળા પાણીથી લથબથ ડાઘ જોવા મળે છે જે રોગની પ્રગતિ સાથે મોટા થાય છે. રોગગ્રસ્ત પાંદડા ધીમે ધીમે પીળા થઈ જાય છે અને ખરી પડે છે (પ્લેટ 1a).\n• ડાળીઓ અને દાંડી પર કાળા ડાઘ મુખ્યત્વે ગાંઠો પર જોવા મળે છે, જેના પરિણામે દબાયેલી વૃદ્ધિ સાથે કેન્કર બને છે (પ્લેટ 1b).\n• વિકસિત ફળો પર રોગના લક્ષણો સ્પષ્ટ દેખાય છે. ભૂખરા-કાળા ડાઘ મોટા થાય છે અને એકબીજા સાથે ભળી જાય છે, જેનાથી આખા ફળની સપાટી ઢંકાઈ જાય છે. ચેપગ્રસ્ત ફળોમાં ઘણીવાર તિરાડો જોવા મળે છે. વરસાદ/સ્પ્રે/ઝાકળ પછી બેક્ટેરિયલ સ્રાવ બહાર આવે છે, જે હાથને ચીકણું લાગે છે અને સુકાઈ ગયા પછી સપાટી પર સફેદ ચળકતી પોપડી બનાવે છે. (પ્લેટ 1c).",
+      "predisposingFactors": "તાપમાન (25 – 30° સે), સાપેક્ષ ભેજ (>50%), વરસાદ, ભલામણ કરતાં વધુ નાઇટ્રોજન ડોઝનો ઉપયોગ, સૂક્ષ્મ પોષકતત્વોની ઉણપ.",
+      "pruningManagementTitle": "કાપણી દરમિયાન વ્યવસ્થાપન પદ્ધતિઓ",
+      "pruningManagement": [
+        "જો દાંડીનો ચેપ ગંભીર હોય, તો લણણી પછી તરત જ ભારે કાપણી કરો અને બ્લાઇટ ચેપવાળી બધી દાંડી દૂર કરો. ચેપગ્રસ્ત વિસ્તારથી લગભગ 2 - 3 ઇંચ નીચે કાપણી કરો.",
+        "કાપણી પછી કાપેલા છેડા પર બોર્ડેક્સ પેસ્ટ (10%) લગાવો. વરસાદની મોસમમાં પેસ્ટિંગ માટે તેલ આધારિત પેસ્ટ [500 ગ્રામ સીઓસી + 1 લિટર અળસીનું તેલ મિક્સ કરીને બનાવેલ સીઓસી પેઇન્ટ] પસંદ કરવામાં આવે છે અથવા 50 મિલી/લિટર પેસ્ટના દરે તેલ મિક્સ કરો."
+      ],
+      "cropSeasonManagementTitle": "પાકની મોસમ દરમિયાન વ્યવસ્થાપન પદ્ધતિઓ",
+      "cropSeasonManagement": [
+        "લણણી પછી આરામના સમયગાળા દરમિયાન અને ફળ આવે ત્યાં સુધી નવો બગીચો વાવ્યા પછી પણ પ્રોફીલેક્ટિક સ્પ્રે લેવા જોઈએ.",
+        "બગીચા/પડોશી બગીચાઓમાં રોગની હાજરી અને હવામાનની પરિસ્થિતિઓના આધારે 15 - 20 દિવસના અંતરે બ્રોનોપોલ @ 0.5 ગ્રામ/લિટર સાથે કોપર ઓક્સીક્લોરાઇડ અથવા કોપર હાઇડ્રોક્સાઇડ @ 2 -2.5 ગ્રામ/લિટર જેવા કોપર આધારિત ફોર્મ્યુલેશન સાથે મિશ્રિત બોર્ડેક્સ મિશ્રણ (1%) નો સ્પ્રે કરો.",
+        "જો બગીચાઓ આરામના સમયગાળામાં હોય અને પાંદડા પર બ્લાઇટનો ચેપ હોય, તો બોર્ડેક્સ મિશ્રણ અને બ્રોનોપોલ સાથે ફેરફાર કરીને સ્ટ્રેપ્ટોસાયક્લિન @ 0.5 ગ્રામ/લિટરનો એક સ્પ્રે લઈ શકાય છે."
+      ],
+      "cropSeasonManagementNote": "નોંધ: જો તે બેક્ટેરિયલ બ્લાઇટ મુક્ત વિસ્તાર હોય તો સ્ટ્રેપ્ટોસાયક્લિન અથવા બ્રોનોપોલના સ્પ્રેની જરૂર નથી.",
+      "emergencySpraysTitle": "ઇમરજન્સી સ્પ્રે",
+      "emergencySpraysIntro": "ફળો પર 5-10% બ્લાઇટ ચેપ જોવા મળ્યા પછી તરત જ 4 દિવસના અંતરે 1-2 સ્પ્રે કરવાથી બ્લાઇટનો વધુ ફેલાવો અટકે છે.",
+      "emergencySprays": [
+        "સ્ટ્રેપ્ટોસાયક્લિન @ 0.5 ગ્રામ/લિટર + 2-બ્રોમો-નાઇટ્રોપ્રોપેન-1, 3-ડાયોલ (બ્રોનોપોલ 95%) @ 0.5 ગ્રામ/લિટર + કોપર હાઇડ્રોક્સાઇડ 53.8% WP @ 2.0 ગ્રામ/લિટર + સ્પ્રેડર સ્ટીકર @ 0.5 મિલી/લિટર સોલ્યુશન.",
+        "સ્ટ્રેપ્ટોસાયક્લિન @ 0.5 ગ્રામ/લિટર + 2-બ્રોમો-નાઇટ્રોપ્રોપેન-1, 3-ડાયોલ (બ્રોનોપોલ 95%) @ 0.5 ગ્રામ/લિટર + કાર્બેન્ડાઝીમ 50% WP @ 1.0 ગ્રામ/લિટર + સ્પ્રેડર સ્ટીકર @ 0.5 મિલી/લિટર સોલ્યુશન."
+      ],
+      "emergencySpraysNote": "નોંધ:\n• દરેક સ્પ્રે પહેલાં બ્લાઇટથી અસરગ્રસ્ત ફળોને દૂર કરો અને નાશ કરો. બગીચાની યોગ્ય સ્વચ્છતા જાળવો અને આરામના સમયગાળામાં નિવારક સ્પ્રે લો.",
+      "recommendations": [
+        "બ્લાઇટ ચેપવાળી બધી દાંડી કાપીને દૂર કરો.",
+        "કાપણી પછી કાપેલા છેડા પર બોર્ડેક્સ પેસ્ટ લગાવો.",
+        "બોર્ડેક્સ મિશ્રણ અથવા બ્રોનોપોલ જેવા પ્રોફીલેક્ટિક સ્પ્રેનો ઉપયોગ કરો.",
+        "દરેક સ્પ્રે પહેલાં બ્લાઇટથી અસરગ્રસ્ત ફળોને દૂર કરો અને નાશ કરો."
+      ]
+    },
+    "Calyx Rot": {
+      "diseaseName": "રોગ: એન્થ્રેકનોઝ/ફળનો સડો/કેલિક્સ રોટ",
+      "description": "અર્ધ-શુષ્ક પરિસ્થિતિઓમાં એન્થ્રેકનોઝ/ફળનો સડો એક મોટી સમસ્યા બની રહી છે. આ રોગ ઉષ્ણકટિબંધીય અને ઉપઉષ્ણકટિબંધીય પ્રદેશોમાં સામાન્ય છે.",
+      "causalOrganism": "કોલેટોટ્રિકમ એસપીપી.",
+      "symptoms": "કોલેટોટ્રિકમના લક્ષણો ફૂલો, ફળો, પાંદડા અથવા ડાળીઓ પર વિકસે છે, પરંતુ ફળો સૌથી વધુ સંવેદનશીલ હોય છે.\n• પાંદડા પર, પીળા પ્રભામંડળ સાથે નાના ગોળાકાર ડાઘ વિકસે છે; પાછળથી ચેપગ્રસ્ત પાંદડા પીળા થઈ જાય છે જેના કારણે અકાળે પાન ખરી જાય છે.\n• ફળો પર, પ્રથમ લક્ષણો કેલિક્સના છેડાથી ફળની છાલના રંગમાં ફેરફાર અથવા અસંખ્ય અલગ ડાઘ તરીકે જોવા મળે છે જે પાછળથી એકસાથે ભળીને ફળની સપાટી પર અનિયમિત ડાઘ બનાવે છે (કોલેટોટ્રિકમ એસપીપી.)\n• રંગીન વિસ્તારો લાલ/ઘેરા બદામીથી કાળા થઈ જાય છે. સડો છાલની બહાર એરિલ્સમાં વિસ્તરે છે, જે વિઘટિત થાય છે અને ઘેરા રાખોડી/બદામી-કાળા રંગના હોય છે પરંતુ પાણીવાળા નથી. અસરગ્રસ્ત ફળો પાછળથી ખરી શકે છે.\n• ફળો સેટિંગથી લઈને તમામ તબક્કે આ રોગ માટે સૌથી વધુ સંવેદનશીલ હોય છે.",
+      "predisposingFactors": "25 - 30°C તાપમાન અને ઉચ્ચ ભેજ (>60%) રોગના વિકાસ માટે અનુકૂળ છે. ઉનાળાના મહિનાઓમાં ઉચ્ચ ભેજ, વરસાદ અને ગરમ તાપમાન રોગની ગંભીરતામાં વધારો કરે છે.",
+      "chemicalManagementTitle": "કોલેટોટ્રિકમ સડાનું રાસાયણિક વ્યવસ્થાપન",
+      "chemicalManagementIntro": "હવામાનની પરિસ્થિતિઓના આધારે 7-10 દિવસના અંતરે નીચે જણાવેલ સ્પ્રે વૈકલ્પિક રીતે લો અને અંતે આપેલ મહત્વપૂર્ણ સૂચનાઓનું પાલન કરો.",
+      "sprays": [
+        "ઝિનેબ 68% + હેક્સાકોનાઝોલ 4% WP @ 2.5 ગ્રામ/લિટર",
+        "ટેબુકોનાઝોલ 50% + ટ્રાઇફ્લોક્સિસ્ટ્રોબિન 25% WG @ 0.5 ગ્રામ/લિટર",
+        "પ્રોપીનેબ 70% WP @ 3 ગ્રામ/લિટર",
+        "કોપર ઓક્સીક્લોરાઇડ 45% + કાસુગામાયસીન 5% WP @ 2.5 ગ્રામ/લિટર",
+        "એઝોક્સિસ્ટ્રોબિન 8.3% + મેન્કોઝેબ 66.7% WG @ 1.5 ગ્રામ/લિટર",
+        "ફ્લુઓપાયરમ 21.4% + ટ્રાઇફ્લોક્સિસ્ટ્રોબિન 21.4% SC @ 0.7 મિલી/લિટર",
+        "ફ્લુઓપીકોલાઇડ 5.56% + પ્રોપેમોકાર્બ હાઇડ્રોક્લોરાઇડ 55.6% SC @ 1.25 મિલી/લિટર"
+      ],
+      "importantInstructionsTitle": "મહત્વપૂર્ણ સૂચનાઓ",
+      "instructions": [
+        "ફૂલોના સમયે મેન્ડીપ્રોપેમિડ 23.4% @ 1 મિલી/લિટર (10-15 દિવસે 2-3 સ્પ્રે) નો સ્પ્રે ઘણા ફૂગના રોગો માટે નિવારક તરીકે કામ કરે છે. તેથી આ ફૂલોના સમયે લો.",
+        "જો તે દિવસે વરસાદની અપેક્ષા હોય તો સ્પ્રે ટાળો; વરસાદના થોડા કલાકો પછી સ્પ્રે કરવો વધુ સારો અને ખૂબ જ મહત્વપૂર્ણ છે.",
+        "અંતિમ સોલ્યુશન તૈયાર કર્યા પછી સ્પ્રેનું pH તપાસવું જોઈએ. તેને 6.5-7.0 pH/ અથવા ફૂગનાશક પેક પર સૂચવ્યા મુજબ ગોઠવવું જોઈએ. આ રાસાયણિક ઇજાઓને ટાળશે અને વધુ સારા પરિણામો આપશે.",
+        "બોર્ડેક્સ મિશ્રણ સિવાય સ્પ્રે સાથે હંમેશા સ્પ્રેડર સ્ટીકરનો ઉપયોગ કરો.",
+        "કોપર ફૂગનાશકો સિવાય કોઈપણ જંતુનાશકનો ઉપયોગ એક સિઝનમાં 2-3 વખતથી વધુ ન કરવો જોઈએ.",
+        "અવશેષ-મુક્ત ઉત્પાદન માટે પ્રી-હાર્વેસ્ટ અંતરાલ મુજબ સ્પ્રે રોટેશનમાં લઈ શકાય છે."
+      ],
+      "recommendations": [
+        "અસરગ્રસ્ત ફળો અને પાંદડા દૂર કરો અને નાશ કરો.",
+        "યોગ્ય ફૂગનાશક (દા.ત., ઝિનેબ, ટેબુકોનાઝોલ) લગાવો.",
+        "કાપણી દ્વારા હવાના પરિભ્રમણમાં સુધારો કરો."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Fungal Cercospora": {
+      "diseaseName": "રોગ: સર્કોસ્પોરા ફ્રુટ સ્પોટ",
+      "description": "દાડમ ફૂગના ફળના ડાઘ માટે સંવેદનશીલ છે, ખાસ કરીને સર્કોસ્પોરા પુનિકા (સ્યુડોસર્કોસ્પોરા પુનિકા) રોગકારક જીવાણુઓ જે ફળની ઉપજ અને ગુણવત્તા ઘટાડી શકે છે.",
+      "causalOrganism": "સર્કોસ્પોરા પુનિકા (સ્યુડોસર્કોસ્પોરા પુનિકા)",
+      "symptoms": "રોગકારક જીવાણુ ખાસ કરીને ફળો પર લાક્ષણિક ડાઘના લક્ષણો ઉત્પન્ન કરે છે. નાના, અનિયમિત ડાઘ જે શરૂઆતમાં ગોળાકાર હોય છે પરંતુ મોટા અને ઘાટા બને છે.",
+      "predisposingFactors": "20 - 30°C વચ્ચેનું તાપમાન અને લાંબા સમય સુધી 60% થી વધુ ભેજ રોગના વિકાસ માટે અનુકૂળ છે. વરસાદની મોસમમાં પાંદડા અને ફળના ડાઘ વધુ પ્રચલિત હોય છે.",
+      "chemicalManagementTitle": "ફૂગના પાંદડા અને ફળના ડાઘનું રાસાયણિક વ્યવસ્થાપન",
+      "chemicalManagementIntro": "હવામાનની પરિસ્થિતિઓ અને રોગના દબાણના આધારે 7-10 દિવસના અંતરે નીચે જણાવેલ સ્પ્રે વૈકલ્પિક રીતે લો અને અંતે આપેલ મહત્વપૂર્ણ સૂચનાઓનું પાલન કરો.",
+      "sprays": [
+        "ઝિનેબ 75% WP @ 2 ગ્રામ/લિટર",
+        "ઝિનેબ 68% + હેક્સાકોનાઝોલ 4% WP @ 2.5 ગ્રામ/લિટર",
+        "મેટિરામ 55% WG + પાયરાક્લોસ્ટ્રોબિન 5% @ 3 ગ્રામ/લિટર",
+        "ટેબુકોનાઝોલ 50% + ટ્રાઇફ્લોક્સિસ્ટ્રોબિન 25% WG @ 0.5 ગ્રામ/લિટર",
+        "પ્રોપીનેબ 70% WP @ 3 ગ્રામ/લિટર",
+        "ટ્રાઇસાયક્લાઝોલ 18% + મેન્કોઝેબ 62% WP 2.5 થી 3.0 ગ્રામ/લિટર",
+        "કોપર સલ્ફેટ 47.15% + મેન્કોઝેબ 30% WDG @ 2.5 ગ્રામ/લિટર",
+        "એઝોક્સિસ્ટ્રોબિન 8.3% + મેન્કોઝેબ 66.7% WG @ 1.5 ગ્રામ/લિટર"
+      ],
+      "importantInstructionsTitle": "મહત્વપૂર્ણ સૂચનાઓ",
+      "instructions": [
+        "ફૂલોના સમયે મેન્ડીપ્રોપેમિડ 23.4% @ 1 મિલી/લિટર (10-15 દિવસે 2-3 સ્પ્રે) નો સ્પ્રે સર્કોસ્પોરા ફ્રુટ અને લીફ સ્પોટ અને સ્કેબ સહિત ઘણા ફૂગના રોગો માટે નિવારક તરીકે કામ કરે છે. તેથી આ ફૂલોના સમયે લો.",
+        "જો તે દિવસે વરસાદની અપેક્ષા હોય તો સ્પ્રે ટાળો; વરસાદના થોડા કલાકો પછી સ્પ્રે કરવો વધુ સારો અને ખૂબ જ મહત્વપૂર્ણ છે.",
+        "અંતિમ સોલ્યુશન તૈયાર કર્યા પછી સ્પ્રેનું pH તપાસવું જોઈએ. તેને 6.5-7.0 pH/ અથવા ફૂગનાશક પેક પર સૂચવ્યા મુજબ ગોઠવવું જોઈએ. આ રાસાયણિક ઇજાઓને ટાળશે અને વધુ સારા પરિણામો આપશે.",
+        "બોર્ડેક્સ મિશ્રણ સિવાય સ્પ્રે સાથે હંમેશા સ્પ્રેડર સ્ટીકરનો ઉપયોગ કરો.",
+        "કોપર ફૂગનાશકો સિવાય કોઈપણ જંતુનાશકનો ઉપયોગ એક સિઝનમાં 2-3 વખતથી વધુ ન કરવો જોઈએ.",
+        "અવશેષ-મુક્ત ઉત્પાદન માટે પ્રી-હાર્વેસ્ટ અંતરાલ મુજબ સ્પ્રે રોટેશનમાં લઈ શકાય છે."
+      ],
+      "recommendations": [
+        "ચેપગ્રસ્ત પાંદડા દૂર કરો અને બાળી નાખો.",
+        "નિવારક રીતે ફૂગનાશકો લગાવો.",
+        "સારી હવાના પરિભ્રમણની ખાતરી કરો."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Fruit Rot": {
+      "diseaseName": "રોગ: એન્થ્રેકનોઝ/ફળનો સડો/કેલિક્સ રોટ",
+      "description": "અર્ધ-શુષ્ક પરિસ્થિતિઓમાં એન્થ્રેકનોઝ/ફળનો સડો એક મોટી સમસ્યા બની રહી છે. આ રોગ ઉષ્ણકટિબંધીય અને ઉપઉષ્ણકટિબંધીય પ્રદેશોમાં સામાન્ય છે.",
+      "causalOrganism": "કોલેટોટ્રિકમ એસપીપી.",
+      "symptoms": "કોલેટોટ્રિકમના લક્ષણો ફૂલો, ફળો, પાંદડા અથવા ડાળીઓ પર વિકસે છે, પરંતુ ફળો સૌથી વધુ સંવેદનશીલ હોય છે.\n• પાંદડા પર, પીળા પ્રભામંડળ સાથે નાના ગોળાકાર ડાઘ વિકસે છે; પાછળથી ચેપગ્રસ્ત પાંદડા પીળા થઈ જાય છે જેના કારણે અકાળે પાન ખરી જાય છે.\n• ફળો પર, પ્રથમ લક્ષણો કેલિક્સના છેડાથી ફળની છાલના રંગમાં ફેરફાર અથવા અસંખ્ય અલગ ડાઘ તરીકે જોવા મળે છે જે પાછળથી એકસાથે ભળીને ફળની સપાટી પર અનિયમિત ડાઘ બનાવે છે (કોલેટોટ્રિકમ એસપીપી.)\n• રંગીન વિસ્તારો લાલ/ઘેરા બદામીથી કાળા થઈ જાય છે. સડો છાલની બહાર એરિલ્સમાં વિસ્તરે છે, જે વિઘટિત થાય છે અને ઘેરા રાખોડી/બદામી-કાળા રંગના હોય છે પરંતુ પાણીવાળા નથી. અસરગ્રસ્ત ફળો પાછળથી ખરી શકે છે.\n• ફળો સેટિંગથી લઈને તમામ તબક્કે આ રોગ માટે સૌથી વધુ સંવેદનશીલ હોય છે.",
+      "predisposingFactors": "25 - 30°C તાપમાન અને ઉચ્ચ ભેજ (>60%) રોગના વિકાસ માટે અનુકૂળ છે. ઉનાળાના મહિનાઓમાં ઉચ્ચ ભેજ, વરસાદ અને ગરમ તાપમાન રોગની ગંભીરતામાં વધારો કરે છે.",
+      "chemicalManagementTitle": "કોલેટોટ્રિકમ સડાનું રાસાયણિક વ્યવસ્થાપન",
+      "chemicalManagementIntro": "હવામાનની પરિસ્થિતિઓના આધારે 7-10 દિવસના અંતરે નીચે જણાવેલ સ્પ્રે વૈકલ્પિક રીતે લો અને અંતે આપેલ મહત્વપૂર્ણ સૂચનાઓનું પાલન કરો.",
+      "sprays": [
+        "ઝિનેબ 68% + હેક્સાકોનાઝોલ 4% WP @ 2.5 ગ્રામ/લિટર",
+        "ટેબુકોનાઝોલ 50% + ટ્રાઇફ્લોક્સિસ્ટ્રોબિન 25% WG @ 0.5 ગ્રામ/લિટર",
+        "પ્રોપીનેબ 70% WP @ 3 ગ્રામ/લિટર",
+        "કોપર ઓક્સીક્લોરાઇડ 45% + કાસુગામાયસીન 5% WP @ 2.5 ગ્રામ/લિટર",
+        "એઝોક્સિસ્ટ્રોબિન 8.3% + મેન્કોઝેબ 66.7% WG @ 1.5 ગ્રામ/લિટર",
+        "ફ્લુઓપાયરમ 21.4% + ટ્રાઇફ્લોક્સિસ્ટ્રોબિન 21.4% SC @ 0.7 મિલી/લિટર",
+        "ફ્લુઓપીકોલાઇડ 5.56% + પ્રોપેમોકાર્બ હાઇડ્રોક્લોરાઇડ 55.6% SC @ 1.25 મિલી/લિટર"
+      ],
+      "importantInstructionsTitle": "મહત્વપૂર્ણ સૂચનાઓ",
+      "instructions": [
+        "ફૂલોના સમયે મેન્ડીપ્રોપેમિડ 23.4% @ 1 મિલી/લિટર (10-15 દિવસે 2-3 સ્પ્રે) નો સ્પ્રે ઘણા ફૂગના રોગો માટે નિવારક તરીકે કામ કરે છે. તેથી આ ફૂલોના સમયે લો.",
+        "જો તે દિવસે વરસાદની અપેક્ષા હોય તો સ્પ્રે ટાળો; વરસાદના થોડા કલાકો પછી સ્પ્રે કરવો વધુ સારો અને ખૂબ જ મહત્વપૂર્ણ છે.",
+        "અંતિમ સોલ્યુશન તૈયાર કર્યા પછી સ્પ્રેનું pH તપાસવું જોઈએ. તેને 6.5-7.0 pH/ અથવા ફૂગનાશક પેક પર સૂચવ્યા મુજબ ગોઠવવું જોઈએ. આ રાસાયણિક ઇજાઓને ટાળશે અને વધુ સારા પરિણામો આપશે.",
+        "બોર્ડેક્સ મિશ્રણ સિવાય સ્પ્રે સાથે હંમેશા સ્પ્રેડર સ્ટીકરનો ઉપયોગ કરો.",
+        "કોપર ફૂગનાશકો સિવાય કોઈપણ જંતુનાશકનો ઉપયોગ એક સિઝનમાં 2-3 વખતથી વધુ ન કરવો જોઈએ.",
+        "અવશેષ-મુક્ત ઉત્પાદન માટે પ્રી-હાર્વેસ્ટ અંતરાલ મુજબ સ્પ્રે રોટેશનમાં લઈ શકાય છે."
+      ],
+      "recommendations": [
+        "અસરગ્રસ્ત ફળો અને પાંદડા દૂર કરો અને નાશ કરો.",
+        "યોગ્ય ફૂગનાશક (દા.ત., ઝિનેબ, ટેબુકોનાઝોલ) લગાવો.",
+        "કાપણી દ્વારા હવાના પરિભ્રમણમાં સુધારો કરો."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Healthy": {
+      "description": "કોઈ ચોક્કસ વ્યવસ્થાપનની જરૂર નથી. તણાવ અથવા રોગના કોઈપણ સંકેતો માટે છોડનું નિરીક્ષણ કરવાનું ચાલુ રાખો અને સારી કૃષિ પદ્ધતિઓ જાળવો."
+    },
+    "Fungal Scab": {
+      "diseaseName": "રોગ: ફળનો સ્કેબ",
+      "description": "2016 થી, ભારતના શુષ્ક અને અર્ધ-શુષ્ક પ્રદેશોમાં દાડમના ઉત્પાદનમાં સ્કેબ એક મર્યાદિત પરિબળ બની ગયું છે. જે વિસ્તારોમાં આ રોગ પ્રચલિત છે, ત્યાં એવા બગીચાઓ શોધવા અસામાન્ય નથી જ્યાં 90-100% ફળો અસરગ્રસ્ત હોય.",
+      "causalOrganism": "સ્ફેસેલોમા (syn. એલ્સિનો) પુનિકા",
+      "symptoms": "રોગકારક જીવાણુ ફૂલોથી લઈને ફળની પરિપક્વતા સુધીના કોઈપણ તબક્કે હુમલો કરે છે. ફૂલોની કળીઓ અથવા નાના ફળોના ચેપથી વિકૃતિ અને પરિણામે ઉપજનું નુકસાન થાય છે. પાકેલા ફળોનો ચેપ ફળોના દેખાવ અને બાહ્ય ગુણવત્તાને અસર કરે છે. ડાઘ ફક્ત બાહ્ય છાલની સપાટીને અસર કરે છે, એરિલ અથવા રસની ગુણવત્તાને અસર કર્યા વિના.\n• ફળો પરના ડાઘ નાના કે મોટા, બદામી, ખરબચડા, ઉભા થયેલા, નાના વિસ્તારોથી લઈને આખા ફળની સપાટીને આવરી લેતા હોઈ શકે છે, જે છાલને રસેટ સ્કેબ જેવો દેખાવ આપે છે.\n• ડાઘ ક્યારેક મોટા થઈને હળવા કેન્દ્ર અને ઘાટા કિનારીવાળા મોટા ડાઘ બનાવે છે અને સ્પર્શમાં ખરબચડા હોય છે.\n• તે નાના ખરબચડા, ઉભા થયેલા ડાઘથી લઈને આખા ફળની સપાટીને આવરી લેતા મોટા બદામી ડાઘ સુધીના વિવિધ આકાર અને કદના ડાઘ ઉત્પન્ન કરે છે, જેમાં રસેટ જેવો દેખાવ હોય છે.",
+      "predisposingFactors": "22 - 28°C તાપમાન, વરસાદ અને પવન સાથે 45 - 65% ની આસપાસ ભેજ રોગના વિકાસ માટે અનુકૂળ છે.",
+      "chemicalManagementTitle": "ફળના સ્કેબનું રાસાયણિક વ્યવસ્થાપન",
+      "chemicalManagementIntro": "આ રોગ સામાન્ય રીતે વરસાદ પછી ફળો પર જોવા મળે છે. પાંદડા પર સામાન્ય રીતે ત્યારે જોવા મળે છે જ્યારે ફળો ન હોય. જો તમારી પાસે છેલ્લી સિઝનમાં પણ સ્કેબ હોય તો રોગના લક્ષણોની રાહ ન જુઓ, વરસાદ પછી નિવારક સ્પ્રે લો. હવામાનની પરિસ્થિતિઓના આધારે 7-10 દિવસના અંતરે નીચે જણાવેલ સ્પ્રે વૈકલ્પિક રીતે લો અને અંતે આપેલ મહત્વપૂર્ણ સૂચનાઓનું પાલન કરો,",
+      "sprays": [
+        "મેટિરામ 55% WG + પાયરાક્લોસ્ટ્રોબિન 5% @ 3 ગ્રામ/લિટર",
+        "ટેબુકોનાઝોલ 50% + ટ્રાઇફ્લોક્સિસ્ટ્રોબિન 25% WG @ 0.5 ગ્રામ/લિટર",
+        "એઝોક્સિસ્ટ્રોબિન 18.2% + ડાયફેનોકોનાઝોલ 11.4% SC @ 1 મિલી/લિટર",
+        "ઝિનેબ 68% + હેક્સાકોનાઝોલ 4% WP @ 2.5 ગ્રામ/લિટર",
+        "ફ્લુઓપીકોલાઇડ 5.56% + પ્રોપેમોકાર્બ હાઇડ્રોક્લોરાઇડ 55.6% SC @"
+      ],
+      "chemicalManagementNote": "નોંધ: વરસાદ પછી તરત જ આપવામાં આવે તો શ્રેષ્ઠ પરિણામો મળે છે.",
+      "importantInstructionsTitle": "મહત્વપૂર્ણ સૂચનાઓ",
+      "instructions": [
+        "ફૂલોના સમયે મેન્ડીપ્રોપેમિડ 23.4% @ 1 મિલી/લિટર (10-15 દિવસે 2-3 સ્પ્રે) નો સ્પ્રે સર્કોસ્પોરા ફ્રુટ અને લીફ સ્પોટ અને સ્કેબ સહિત ઘણા ફૂગના રોગો માટે નિવારક તરીકે કામ કરે છે. તેથી આ ફૂલોના સમયે લો.",
+        "સેટિંગ પર ચેપગ્રસ્ત વિકૃત ફળોને દૂર કરી શકાય છે અને નાશ કરી શકાય છે. ક્યાંય પણ ડમ્પ કરશો નહીં કે ફેંકશો નહીં.",
+        "જો તે દિવસે વરસાદની અપેક્ષા હોય તો સ્પ્રે ટાળો; સ્કેબના ચેપને ટાળવા માટે વરસાદના થોડા કલાકો પછી સ્પ્રે કરવો વધુ સારો અને ખૂબ જ મહત્વપૂર્ણ છે.",
+        "અંતિમ સોલ્યુશન તૈયાર કર્યા પછી સ્પ્રેનું pH તપાસવું જોઈએ. તેને 6.5-7.0 pH/ અથવા ફૂગનાશક પેક પર સૂચવ્યા મુજબ ગોઠવવું જોઈએ. આ રાસાયણિક ઇજાઓને ટાળશે અને વધુ સારા પરિણામો આપશે.",
+        "બોર્ડેક્સ મિશ્રણ સિવાય સ્પ્રે સાથે હંમેશા સ્પ્રેડર સ્ટીકરનો ઉપયોગ કરો.",
+        "કોપર ફૂગનાશકો સિવાય કોઈપણ જંતુનાશકનો ઉપયોગ એક સિઝનમાં 2-3 વખતથી વધુ ન કરવો જોઈએ.",
+        "અવશેષ-મુક્ત ઉત્પાદન માટે પ્રી-હાર્વેસ્ટ અંતરાલ મુજબ સ્પ્રે રોટેશનમાં લઈ શકાય છે."
+      ],
+      "recommendations": [
+        "ચેપગ્રસ્ત અથવા વિકૃત ફળોને દૂર કરો અને નાશ કરો.",
+        "વરસાદ પછી નિવારક સ્પ્રે (દા.ત., મેટિરામ, ટેબુકોનાઝોલ) લગાવો.",
+        "હવાના પરિભ્રમણમાં સુધારો કરવા માટે ઝાડની કાપણી કરો."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Bacterial": {
+      "diseaseName": "રોગ: બેક્ટેરિયલ લીફ સ્પોટ/ઓઇલી સ્પોટ",
+      "description": "બેક્ટેરિયલ બ્લાઇટ અનુકૂળ પરિસ્થિતિઓમાં દાડમમાં આર્થિક ઉપજનું નુકસાન (60-100%) કરે છે. તે જૂન-જુલાઈમાં વરસાદની મોસમ (મૃગ બહાર) દરમિયાન વધુ ગંભીર અને પ્રચલિત છે અને રવિ મોસમ (હસ્તા બહાર) માં ઓછું હોય છે.",
+      "causalOrganism": "ઝેન્થોમોનાસ એક્સોનોપોડિસ પીવી. પુનિકા (સમાનાર્થી: ઝેન્થોમોનાસ સિટ્રી પીવી. પુનિકા)",
+      "symptoms": "• રોગના લક્ષણો છોડના તમામ ભાગો જેવા કે પાંદડા, દાંડી, ફૂલો અને ફળો પર જોવા મળે છે.\n• શરૂઆતમાં, પાંદડા પર નાના અનિયમિત ભૂખરા-કાળા પાણીથી લથબથ ડાઘ જોવા મળે છે જે રોગની પ્રગતિ સાથે મોટા થાય છે. રોગગ્રસ્ત પાંદડા ધીમે ધીમે પીળા થઈ જાય છે અને ખરી પડે છે (પ્લેટ 1a).\n• વરસાદ/સ્પ્રે/ઝાકળ પછી બેક્ટેરિયલ સ્રાવ બહાર આવે છે, જે હાથને ચીકણું લાગે છે અને સુકાઈ ગયા પછી સપાટી પર સફેદ ચળકતી પોપડી બનાવે છે. (પ્લેટ 1c).",
+      "predisposingFactors": "તાપમાન (25 – 30° સે), સાપેક્ષ ભેજ (>50%), વરસાદ, ભલામણ કરતાં વધુ નાઇટ્રોજન ડોઝનો ઉપયોગ, સૂક્ષ્મ પોષકતત્વોની ઉણપ.",
+      "cropSeasonManagementTitle": "પાકની મોસમ દરમિયાન વ્યવસ્થાપન પદ્ધતિઓ",
+      "cropSeasonManagement": [
+        "લણણી પછી આરામના સમયગાળા દરમિયાન અને ફળ આવે ત્યાં સુધી નવો બગીચો વાવ્યા પછી પણ પ્રોફીલેક્ટિક સ્પ્રે લેવા જોઈએ.",
+        "બગીચા/પડોશી બગીચાઓમાં રોગની હાજરી અને હવામાનની પરિસ્થિતિઓના આધારે 15 - 20 દિવસના અંતરે બ્રોનોપોલ @ 0.5 ગ્રામ/લિટર સાથે કોપર ઓક્સીક્લોરાઇડ અથવા કોપર હાઇડ્રોક્સાઇડ @ 2 -2.5 ગ્રામ/લિટર જેવા કોપર આધારિત ફોર્મ્યુલેશન સાથે મિશ્રિત બોર્ડેક્સ મિશ્રણ (1%) નો સ્પ્રે કરો.",
+        "જો બગીચાઓ આરામના સમયગાળામાં હોય અને પાંદડા પર બ્લાઇટનો ચેપ હોય, તો બોર્ડેક્સ મિશ્રણ અને બ્રોનોપોલ સાથે ફેરફાર કરીને સ્ટ્રેપ્ટોસાયક્લિન @ 0.5 ગ્રામ/લિટરનો એક સ્પ્રે લઈ શકાય છે."
+      ],
+      "cropSeasonManagementNote": "નોંધ: જો તે બેક્ટેરિયલ બ્લાઇટ મુક્ત વિસ્તાર હોય તો સ્ટ્રેપ્ટોસાયક્લિન અથવા બ્રોનોપોલના સ્પ્રેની જરૂર નથી.",
+      "emergencySpraysTitle": "ઇમરજન્સી સ્પ્રે",
+      "emergencySpraysIntro": "પાંદડા પર 5-10% બ્લાઇટ ચેપ જોવા મળ્યા પછી તરત જ 4 દિવસના અંતરે 1-2 સ્પ્રે કરવાથી બ્લાઇટનો વધુ ફેલાવો અટકે છે.",
+      "emergencySprays": [
+        "સ્ટ્રેપ્ટોસાયક્લિન @ 0.5 ગ્રામ/લિટર + 2-બ્રોમો-નાઇટ્રોપ્રોપેન-1, 3-ડાયોલ (બ્રોનોપોલ 95%) @ 0.5 ગ્રામ/લિટર + કોપર હાઇડ્રોક્સાઇડ 53.8% WP @ 2.0 ગ્રામ/લિટર + સ્પ્રેડર સ્ટીકર @ 0.5 મિલી/લિટર સોલ્યુશન.",
+        "સ્ટ્રેપ્ટોસાયક્લિન @ 0.5 ગ્રામ/લિટર + 2-બ્રોમો-નાઇટ્રોપ્રોપેન-1, 3-ડાયોલ (બ્રોનોપોલ 95%) @ 0.5 ગ્રામ/લિટર + કાર્બેન્ડાઝીમ 50% WP @ 1.0 ગ્રામ/લિટર + સ્પ્રેડર સ્ટીકર @ 0.5 મિલી/લિટર સોલ્યુશન."
+      ],
+      "emergencySpraysNote": "નોંધ:\n• દરેક સ્પ્રે પહેલાં બ્લાઇટથી અસરગ્રસ્ત ફળોને દૂર કરો અને નાશ કરો. બગીચાની યોગ્ય સ્વચ્છતા જાળવો અને આરામના સમયગાળામાં નિવારક સ્પ્રે લો.",
+      "recommendations": [
+        "પાંદડા સૂકા રાખવા માટે ઓવરહેડ સિંચાઈ ટાળો.",
+        "નિવારક માપ તરીકે કોપર-આધારિત સ્પ્રે લગાવો.",
+        "ચેપગ્રસ્ત પાંદડા તરત જ દૂર કરો અને નાશ કરો."
+      ]
+    },
+    "Fungal": {
+      "diseaseName": "રોગ: ફૂગના પાંદડાના ડાઘ",
+      "description": "દાડમ ઘણા પાંદડાના ડાઘ પેદા કરતા રોગકારક જીવાણુઓ માટે સંવેદનશીલ છે જે ફળની ઉપજ અને ગુણવત્તા ઘટાડી શકે છે.",
+      "causalOrganism": "પાંદડાના ડાઘ ઘણા ફૂગના રોગકારક જીવાણુઓ જેવા કે અલ્ટરનેરિયા અલ્ટરનેટા, સર્કોસ્પોરા પુનિકા (સ્યુડોસર્કોસ્પોરા પુનિકા), કોલેટોટ્રિકમ એસપી, ડ્રેક્સક્લેરા રોસ્ટ્રાટા દ્વારા થાય છે. આ ઉપરાંત, પાંદડાના ડાઘ અન્ય ઘણી ફૂગની પ્રજાતિઓ જેવી કે બોટ્રીઓડિપ્લોડિયા થિયોબ્રોમી, કર્વુલેરિયા એસપી, પેસ્ટાલોટિઓપ્સિસ એસપી દ્વારા થતા હોવાનું નોંધાયું છે.",
+      "symptoms": "વિવિધ રોગકારક જીવાણુઓ ખાસ કરીને પાંદડા, દાંડી પર લાક્ષણિક ડાઘના લક્ષણો ઉત્પન્ન કરે છે. જેની ચોક્કસ ઓળખ ફક્ત માઇક્રોસ્કોપિક અને શુદ્ધ સંસ્કૃતિ અભ્યાસ દ્વારા જ કરી શકાય છે કારણ કે મોટાભાગે કુદરતી પરિસ્થિતિઓમાં ઓવરલેપિંગ રોગના લક્ષણો જોવા મળે છે. પાંદડા અને ફળના ડાઘમાં, સર્કોસ્પોરા ડાઘ દાડમ પર સૌથી વધુ સ્પષ્ટ હોય છે.",
+      "predisposingFactors": "20 - 30°C વચ્ચેનું તાપમાન અને લાંબા સમય સુધી 60% થી વધુ ભેજ રોગના વિકાસ માટે અનુકૂળ છે. વરસાદની મોસમમાં પાંદડા અને ફળના ડાઘ વધુ પ્રચલિત હોય છે.",
+      "chemicalManagementTitle": "ફૂગના પાંદડાના ડાઘનું રાસાયણિક વ્યવસ્થાપન",
+      "chemicalManagementIntro": "હવામાનની પરિસ્થિતિઓના આધારે 7-10 દિવસના અંતરે નીચે જણાવેલ સ્પ્રે વૈકલ્પિક રીતે લો અને અંતે આપેલ મહત્વપૂર્ણ સૂચનાઓનું પાલન કરો.",
+      "sprays": [
+        "ઝિનેબ 75% WP @ 2 ગ્રામ/લિટર",
+        "ઝિનેબ 68% + હેક્સાકોનાઝોલ 4% WP @ 2.5 ગ્રામ/લિટર",
+        "મેટિરામ 55% WG + પાયરાક્લોસ્ટ્રોબિન 5% @ 3 ગ્રામ/લિટર",
+        "ટેબુકોનાઝોલ 50% + ટ્રાઇફ્લોક્સિસ્ટ્રોબિન 25% WG @ 0.5 ગ્રામ/લિટર",
+        "પ્રોપીનેબ 70% WP @ 3 ગ્રામ/લિટર",
+        "ટ્રાઇસાયક્લાઝોલ 18% + મેન્કોઝેબ 62% WP 2.5 થી 3.0 ગ્રામ/લિટર",
+        "કોપર સલ્ફેટ 47.15% + મેન્કોઝેબ 30% WDG @ 2.5 ગ્રામ/લિટર",
+        "એઝોક્સિસ્ટ્રોબિન 8.3% + મેન્કોઝેબ 66.7% WG @ 1.5 ગ્રામ/લિટર"
+      ],
+      "importantInstructionsTitle": "મહત્વપૂર્ણ સૂચનાઓ",
+      "instructions": [
+        "ફૂલોના સમયે મેન્ડીપ્રોપેમિડ 23.4% @ 1 મિલી/લિટર (10-15 દિવસે 2-3 સ્પ્રે) નો સ્પ્રે સર્કોસ્પોરા ફ્રુટ અને લીફ સ્પોટ અને સ્કેબ સહિત ઘણા ફૂગના રોગો માટે નિવારક તરીકે કામ કરે છે. તેથી આ ફૂલોના સમયે લો.",
+        "જો તે દિવસે વરસાદની અપેક્ષા હોય તો સ્પ્રે ટાળો; વરસાદના થોડા કલાકો પછી સ્પ્રે કરવો વધુ સારો અને ખૂબ જ મહત્વપૂર્ણ છે.",
+        "અંતિમ સોલ્યુશન તૈયાર કર્યા પછી સ્પ્રેનું pH તપાસવું જોઈએ. તેને 6.5-7.0 pH/ અથવા ફૂગનાશક પેક પર સૂચવ્યા મુજબ ગોઠવવું જોઈએ. આ રાસાયણિક ઇજાઓને ટાળશે અને વધુ સારા પરિણામો આપશે.",
+        "બોર્ડેક્સ મિશ્રણ સિવાય સ્પ્રે સાથે હંમેશા સ્પ્રેડર સ્ટીકરનો ઉપયોગ કરો.",
+        "કોપર ફૂગનાશકો સિવાય કોઈપણ જંતુનાશકનો ઉપયોગ એક સિઝનમાં 2-3 વખતથી વધુ ન કરવો જોઈએ.",
+        "અવશેષ-મુક્ત ઉત્પાદન માટે પ્રી-હાર્વેસ્ટ અંતરાલ મુજબ સ્પ્રે રોટેશનમાં લઈ શકાય છે."
+      ],
+      "recommendations": [
+        "યોગ્ય ફૂગનાશકો લગાવો, વિવિધ રાસાયણિક જૂથો વચ્ચે ફેરબદલ કરો.",
+        "કાપણી દ્વારા હવાના પરિભ્રમણમાં સુધારો કરો.",
+        "પાંદડા સૂકા રાખવા માટે છોડના પાયામાં પાણી આપો."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    }
+  },
+  "mr": {
+    "Bacterial Blight": {
+      "diseaseName": "रोग: बॅक्टेरियल ब्लाइट",
+      "description": "अनुकूल परिस्थितीत डाळिंबामध्ये बॅक्टेरियल ब्लाइटमुळे आर्थिक उत्पन्नाचे नुकसान (60-100%) होते. जून-जुलैमध्ये पावसाळ्यात (मृग बहार) ते अधिक गंभीर आणि प्रचलित असते आणि रब्बी हंगामात (हस्ता बहार) कमी असते.",
+      "causalOrganism": "झँथोमोनास ऍक्सोनोपोडिस पीव्ही. प्युनिके (Syn: झँथोमोनास सिट्री पीव्ही. प्युनिके)",
+      "symptoms": "• रोगाची लक्षणे वनस्पतीच्या सर्व भागांवर म्हणजेच पाने, देठ, फुले आणि फळांवर दिसून येतात.\n• सुरुवातीला, पानांवर लहान अनियमित राखाडी-काळे पाण्याने भिजलेले व्रण दिसतात जे रोगाच्या प्रगतीनुसार मोठे होतात. रोगग्रस्त पाने हळूहळू पिवळी पडून गळून पडतात (प्लेट 1a).\n• फांद्या आणि देठांवर काळे व्रण प्रामुख्याने नोड्सवर दिसतात, ज्यामुळे दाबलेल्या वाढीसह कॅन्कर तयार होतो (प्लेट 1b).\n• विकसित फळांवर रोगाची लक्षणे ठळकपणे दिसतात. राखाडी-काळे व्रण मोठे होतात आणि एकत्र येतात, ज्यामुळे संपूर्ण फळाची पृष्ठभाग झाकली जाते. संक्रमित फळांमध्ये अनेकदा भेगा दिसतात. पाऊस/स्प्रे/दव यानंतर बॅक्टेरियाचा स्राव बाहेर येतो, जो हाताला चिकट लागतो आणि वाळल्यानंतर पृष्ठभागावर पांढरा चमकदार थर तयार करतो. (प्लेट 1c).",
+      "predisposingFactors": "तापमान (25 – 30° से), सापेक्ष आर्द्रता (>50%), पाऊस, शिफारस केलेल्या पेक्षा जास्त नायट्रोजन डोसचा वापर, सूक्ष्म अन्नद्रव्यांची कमतरता.",
+      "pruningManagementTitle": "छाटणी दरम्यान व्यवस्थापन पद्धती",
+      "pruningManagement": [
+        "जर देठाचा संसर्ग गंभीर असेल, तर काढणीनंतर लगेचच जोरदार छाटणी करा आणि ब्लाइट संसर्ग असलेले सर्व देठ काढून टाका. संक्रमित भागाच्या खाली सुमारे 2 - 3 इंच छाटणी करा.",
+        "छाटणीनंतर कापलेल्या टोकांना बोर्डो पेस्ट (10%) लावा. पावसाळ्यात पेस्टिंगसाठी तेल-आधारित पेस्ट [500 ग्रॅम सीओसी + 1 लिटर जवस तेल मिसळून तयार केलेला सीओसी पेंट] पसंत केला जातो किंवा 50 मिली/लिटर पेस्टमध्ये तेल मिसळा."
+      ],
+      "cropSeasonManagementTitle": "पीक हंगामात व्यवस्थापन पद्धती",
+      "cropSeasonManagement": [
+        "काढणीनंतर विश्रांतीच्या काळात आणि फळे येईपर्यंत नवीन बाग लावल्यानंतरही प्रतिबंधात्मक फवारण्या घ्याव्यात.",
+        "बागेत/शेजारील बागेत असलेल्या रोगावर आणि हवामानाच्या परिस्थितीनुसार 15 - 20 दिवसांच्या अंतराने ब्रोनोपोल @ 0.5 ग्रॅम/लिटरसह कॉपर ऑक्सिक्लोराइड किंवा कॉपर हायड्रॉक्साइड @ 2 -2.5 ग्रॅम/लिटर सारख्या तांबे-आधारित फॉर्म्युलेशनसह बदलून बोर्डो मिश्रण (1%) फवारा.",
+        "जर बागा विश्रांतीच्या काळात असतील आणि त्यांना पानांच्या ब्लाइटचा संसर्ग असेल, तर बोर्डो मिश्रण आणि ब्रोनोपोलसह बदलून स्ट्रेप्टोसायक्लिन @ 0.5 ग्रॅम/लिटरची एक फवारणी घेता येते."
+      ],
+      "cropSeasonManagementNote": "टीप: जर ते बॅक्टेरियल ब्लाइट मुक्त क्षेत्र असेल तर स्ट्रेप्टोसायक्लिन किंवा ब्रोनोपोलच्या फवारण्यांची आवश्यकता नाही.",
+      "emergencySpraysTitle": "आपत्कालीन फवारण्या",
+      "emergencySpraysIntro": "फळांवर 5-10% ब्लाइट संसर्ग दिसल्यानंतर लगेचच 4 दिवसांच्या अंतराने 1-2 फवारण्या केल्याने ब्लाइटचा पुढील प्रसार रोखला जातो.",
+      "emergencySprays": [
+        "स्ट्रेप्टोसायक्लिन @ 0.5 ग्रॅम/लिटर + 2-ब्रोमो-नायट्रोप्रोपेन-1, 3-डायोल (ब्रोनोपोल 95%) @ 0.5 ग्रॅम/लिटर + कॉपर हायड्रॉक्साइड 53.8% WP @ 2.0 ग्रॅम/लिटर + स्प्रेडर स्टिकर @ 0.5 मिली/लिटर द्रावण.",
+        "स्ट्रेप्टोसायक्लिन @ 0.5 ग्रॅम/लिटर + 2-ब्रोमो-नायट्रोप्रोपेन-1, 3-डायोल (ब्रोनोपोल 95%) @ 0.5 ग्रॅम/लिटर + कार्बेन्डाझिम 50% WP @ 1.0 ग्रॅम/लिटर + स्प्रेडर स्टिकर @ 0.5 मिली/लिटर द्रावण."
+      ],
+      "emergencySpraysNote": "टीप:\n• प्रत्येक फवारणीपूर्वी ब्लाइट-प्रभावित फळे काढून टाका आणि नष्ट करा. बागेची योग्य स्वच्छता राखा आणि विश्रांतीच्या काळात प्रतिबंधात्मक फवारण्या घ्या.",
+      "recommendations": [
+        "ब्लाइट संसर्ग असलेले सर्व देठ छाटून काढून टाका.",
+        "छाटणीनंतर कापलेल्या टोकांना बोर्डो पेस्ट लावा.",
+        "बोर्डो मिश्रण किंवा ब्रोनोपोल सारख्या प्रतिबंधात्मक फवारण्या वापरा.",
+        "प्रत्येक फवारणीपूर्वी ब्लाइट-प्रभावित फळे काढून टाका आणि नष्ट करा."
+      ]
+    },
+    "Calyx Rot": {
+      "diseaseName": "रोग: अँथ्रॅकनोज/फळ सड/कॅलिक्स रॉट",
+      "description": "अर्ध-शुष्क परिस्थितीत अँथ्रॅकनोज/फळ सड ही एक मोठी समस्या बनत आहे. हा रोग उष्णकटिबंधीय आणि उपोष्णकटिबंधीय प्रदेशात सामान्य आहे.",
+      "causalOrganism": "कोलेटोट्रायकम एसपीपी.",
+      "symptoms": "कोलेटोट्रायकमची लक्षणे फुले, फळे, पाने किंवा फांद्यांवर विकसित होतात, परंतु फळे सर्वात जास्त संवेदनशील असतात.\n• पानांवर, पिवळ्या प्रभामंडलासह लहान गोलाकार ठिपके विकसित होतात; नंतर संक्रमित पाने पिवळी पडतात ज्यामुळे अकाली पानगळ होते.\n• फळांवर, पहिली लक्षणे कॅलिक्सच्या टोकापासून फळाच्या सालीचा रंग बदलणे किंवा असंख्य वेगळे ठिपके म्हणून दिसून येतात जे नंतर एकत्र येऊन फळाच्या पृष्ठभागावर अनियमित डाग तयार करतात (कोलेटोट्रायकम एसपीपी.)\n• रंगहीन भाग लालसर/गडद तपकिरी ते काळे होतात. सड सालीच्या पलीकडे अरिल्समध्ये पसरते, जे विघटित होतात आणि गडद राखाडी/तपकिरी-काळे रंगाचे असतात परंतु पाणचट नसतात. प्रभावित फळे नंतरच्या टप्प्यात गळून पडू शकतात.\n• फळे सेट होण्यापासून ते सर्व टप्प्यांवर या रोगासाठी सर्वात असुरक्षित असतात.",
+      "predisposingFactors": "25 - 30°C तापमान आणि उच्च आर्द्रता (>60%) रोगाच्या विकासास अनुकूल आहे. उन्हाळ्याच्या महिन्यांत उच्च आर्द्रता, पाऊस आणि उबदार तापमान रोगाची तीव्रता वाढवते.",
+      "chemicalManagementTitle": "कोलेटोट्रायकम सडचे रासायनिक व्यवस्थापन",
+      "chemicalManagementIntro": "हवामानाच्या परिस्थितीनुसार 7-10 दिवसांच्या अंतराने खाली नमूद केलेल्या फवारण्या वैकल्पिकरित्या घ्या आणि शेवटी दिलेल्या महत्त्वाच्या सूचनांचे पालन करा.",
+      "sprays": [
+        "झिनेब 68% + हेक्साकोनाझोल 4% WP @ 2.5 ग्रॅम/लिटर",
+        "टेबुकोनाझोल 50% + ट्रायफ्लॉक्सीस्ट्रोबिन 25% WG @ 0.5 ग्रॅम/लिटर",
+        "प्रोपीनेब 70% WP @ 3 ग्रॅम/लिटर",
+        "कॉपर ऑक्सिक्लोराइड 45% + कासुगामायसिन 5% WP @ 2.5 ग्रॅम/लिटर",
+        "ऍझोक्सिस्ट्रोबिन 8.3% + मॅन्कोझेब 66.7% WG @ 1.5 ग्रॅम/लिटर",
+        "फ्लुओपायरम 21.4% + ट्रायफ्लॉक्सीस्ट्रोबिन 21.4% SC @ 0.7 मिली/लिटर",
+        "फ्लुओपिकोलाइड 5.56% + प्रोपामोकार्ब हायड्रोक्लोराइड 55.6% SC @ 1.25 मिली/लिटर"
+      ],
+      "importantInstructionsTitle": "महत्वाच्या सूचना",
+      "instructions": [
+        "फुलोऱ्याच्या वेळी मॅन्डिप्रोपॅमिड 23.4% @ 1 मिली/लिटर (10-15 दिवसांनी 2-3 फवारण्या) फवारल्याने अनेक बुरशीजन्य रोगांवर प्रतिबंधात्मक उपाय म्हणून काम करते. त्यामुळे हे फुलोऱ्याच्या वेळी घ्या.",
+        "त्या दिवशी पावसाची शक्यता असल्यास फवारणी टाळा; पावसानंतर काही तासांनी फवारणी करणे चांगले आणि खूप महत्त्वाचे आहे.",
+        "अंतिम द्रावण तयार केल्यानंतर फवारणीचा pH तपासावा. तो 6.5-7.0 pH/ किंवा बुरशीनाशक पॅकवर दिलेल्या निर्देशानुसार समायोजित करावा. यामुळे रासायनिक इजा टाळता येईल आणि चांगले परिणाम मिळतील.",
+        "बोर्डो मिश्रणाशिवाय फवारणीसोबत नेहमी स्प्रेडर स्टिकर वापरा.",
+        "तांबे बुरशीनाशकांशिवाय कोणत्याही कीटकनाशकाचा वापर एका हंगामात 2-3 पेक्षा जास्त वेळा करू नये.",
+        "अवशेषमुक्त उत्पादनासाठी काढणीपूर्व अंतरानुसार फवारण्या रोटेशनमध्ये घेता येतात."
+      ],
+      "recommendations": [
+        "प्रभावित फळे आणि पाने काढून टाका आणि नष्ट करा.",
+        "योग्य बुरशीनाशक (उदा., झिनेब, टेबुकोनाझोल) लावा.",
+        "छाटणीद्वारे हवेच्या अभिसरणात सुधारणा करा."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Fungal Cercospora": {
+      "diseaseName": "रोग: सर्कोस्पोरा फ्रूट स्पॉट",
+      "description": "डाळिंब बुरशीच्या फळांच्या ठिपक्यांसाठी संवेदनशील आहे, विशेषतः सर्कोस्पोरा प्युनिके (स्यूडोसेर्कोस्पोरा प्युनिके) रोगकारक जे फळांचे उत्पादन आणि गुणवत्ता कमी करू शकतात.",
+      "causalOrganism": "सर्कोस्पोरा प्युनिके (स्यूडोसेर्कोस्पोरा प्युनिके)",
+      "symptoms": "रोगकारक विशेषतः फळांवर वैशिष्ट्यपूर्ण ठिपक्यांची लक्षणे निर्माण करतो. लहान, अनियमित ठिपके जे सुरुवातीला गोलाकार असतात परंतु मोठे आणि गडद होतात.",
+      "predisposingFactors": "20 - 30°C तापमान आणि दीर्घ कालावधीसाठी 60% पेक्षा जास्त आर्द्रता रोगाच्या विकासास अनुकूल आहे. पावसाळ्यात पानांचे आणि फळांचे ठिपके अधिक प्रमाणात आढळतात.",
+      "chemicalManagementTitle": "बुरशीजन्य पानांच्या आणि फळांच्या ठिपक्यांचे रासायनिक व्यवस्थापन",
+      "chemicalManagementIntro": "हवामानाच्या परिस्थिती आणि रोगाच्या दाबावर अवलंबून 7-10 दिवसांच्या अंतराने खाली नमूद केलेल्या फवारण्या वैकल्पिकरित्या घ्या आणि शेवटी दिलेल्या महत्त्वाच्या सूचनांचे पालन करा.",
+      "sprays": [
+        "झिनेब 75% WP @ 2 ग्रॅम/लिटर",
+        "झिनेब 68% + हेक्साकोनाझोल 4% WP @ 2.5 ग्रॅम/लिटर",
+        "मेटिराम 55% WG + पायराक्लोस्ट्रोबिन 5% @ 3 ग्रॅम/लिटर",
+        "टेबुकोनाझोल 50% + ट्रायफ्लॉक्सीस्ट्रोबिन 25% WG @ 0.5 ग्रॅम/लिटर",
+        "प्रोपीनेब 70% WP @ 3 ग्रॅम/लिटर",
+        "ट्रायसायक्लाझोल 18% + मॅन्कोझेब 62% WP 2.5 ते 3.0 ग्रॅम/लिटर",
+        "कॉपर सल्फेट 47.15% + मॅन्कोझेब 30% WDG @ 2.5 ग्रॅम/लिटर",
+        "ऍझोक्सिस्ट्रोबिन 8.3% + मॅन्कोझेब 66.7% WG @ 1.5 ग्रॅम/लिटर"
+      ],
+      "importantInstructionsTitle": "महत्वाच्या सूचना",
+      "instructions": [
+        "फुलोऱ्याच्या वेळी मॅन्डिप्रोपॅमिड 23.4% @ 1 मिली/लिटर (10-15 दिवसांनी 2-3 फवारण्या) फवारल्याने सर्कोस्पोरा फ्रूट आणि लीफ स्पॉट आणि स्कॅबसह अनेक बुरशीजन्य रोगांवर प्रतिबंधात्मक उपाय म्हणून काम करते. त्यामुळे हे फुलोऱ्याच्या वेळी घ्या.",
+        "त्या दिवशी पावसाची शक्यता असल्यास फवारणी टाळा; पावसानंतर काही तासांनी फवारणी करणे चांगले आणि खूप महत्त्वाचे आहे.",
+        "अंतिम द्रावण तयार केल्यानंतर फवारणीचा pH तपासावा. तो 6.5-7.0 pH/ किंवा बुरशीनाशक पॅकवर दिलेल्या निर्देशानुसार समायोजित करावा. यामुळे रासायनिक इजा टाळता येईल आणि चांगले परिणाम मिळतील.",
+        "बोर्डो मिश्रणाशिवाय फवारणीसोबत नेहमी स्प्रेडर स्टिकर वापरा.",
+        "तांबे बुरशीनाशकांशिवाय कोणत्याही कीटकनाशकाचा वापर एका हंगामात 2-3 पेक्षा जास्त वेळा करू नये.",
+        "अवशेषमुक्त उत्पादनासाठी काढणीपूर्व अंतरानुसार फवारण्या रोटेशनमध्ये घेता येतात."
+      ],
+      "recommendations": [
+        "संक्रमित पाने काढून टाका आणि जाळून टाका.",
+        "प्रतिबंधात्मकपणे बुरशीनाशके लावा.",
+        "चांगल्या हवेच्या अभिसरणाची खात्री करा."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Fruit Rot": {
+      "diseaseName": "रोग: अँथ्रॅकनोज/फळ सड/कॅलिक्स रॉट",
+      "description": "अर्ध-शुष्क परिस्थितीत अँथ्रॅकनोज/फळ सड ही एक मोठी समस्या बनत आहे. हा रोग उष्णकटिबंधीय आणि उपोष्णकटिबंधीय प्रदेशात सामान्य आहे.",
+      "causalOrganism": "कोलेटोट्रायकम एसपीपी.",
+      "symptoms": "कोलेटोट्रायकमची लक्षणे फुले, फळे, पाने किंवा फांद्यांवर विकसित होतात, परंतु फळे सर्वात जास्त संवेदनशील असतात.\n• पानांवर, पिवळ्या प्रभामंडलासह लहान गोलाकार ठिपके विकसित होतात; नंतर संक्रमित पाने पिवळी पडतात ज्यामुळे अकाली पानगळ होते.\n• फळांवर, पहिली लक्षणे कॅलिक्सच्या टोकापासून फळाच्या सालीचा रंग बदलणे किंवा असंख्य वेगळे ठिपके म्हणून दिसून येतात जे नंतर एकत्र येऊन फळाच्या पृष्ठभागावर अनियमित डाग तयार करतात (कोलेटोट्रायकम एसपीपी.)\n• रंगहीन भाग लालसर/गडद तपकिरी ते काळे होतात. सड सालीच्या पलीकडे अरिल्समध्ये पसरते, जे विघटित होतात आणि गडद राखाडी/तपकिरी-काळे रंगाचे असतात परंतु पाणचट नसतात. प्रभावित फळे नंतरच्या टप्प्यात गळून पडू शकतात.\n• फळे सेट होण्यापासून ते सर्व टप्प्यांवर या रोगासाठी सर्वात असुरक्षित असतात.",
+      "predisposingFactors": "25 - 30°C तापमान आणि उच्च आर्द्रता (>60%) रोगाच्या विकासास अनुकूल आहे. उन्हाळ्याच्या महिन्यांत उच्च आर्द्रता, पाऊस आणि उबदार तापमान रोगाची तीव्रता वाढवते.",
+      "chemicalManagementTitle": "कोलेटोट्रायकम सडचे रासायनिक व्यवस्थापन",
+      "chemicalManagementIntro": "हवामानाच्या परिस्थितीनुसार 7-10 दिवसांच्या अंतराने खाली नमूद केलेल्या फवारण्या वैकल्पिकरित्या घ्या आणि शेवटी दिलेल्या महत्त्वाच्या सूचनांचे पालन करा.",
+      "sprays": [
+        "झिनेब 68% + हेक्साकोनाझोल 4% WP @ 2.5 ग्रॅम/लिटर",
+        "टेबुकोनाझोल 50% + ट्रायफ्लॉक्सीस्ट्रोबिन 25% WG @ 0.5 ग्रॅम/लिटर",
+        "प्रोपीनेब 70% WP @ 3 ग्रॅम/लिटर",
+        "कॉपर ऑक्सिक्लोराइड 45% + कासुगामायसिन 5% WP @ 2.5 ग्रॅम/लिटर",
+        "ऍझोक्सिस्ट्रोबिन 8.3% + मॅन्कोझेब 66.7% WG @ 1.5 ग्रॅม/लिटर",
+        "फ्लुओपायरम 21.4% + ट्रायफ्लॉक्सीस्ट्रोबिन 21.4% SC @ 0.7 मिली/लिटर",
+        "फ्लुओपिकोलाइड 5.56% + प्रोपामोकार्ब हायड्रोक्लोराइड 55.6% SC @ 1.25 मिली/लिटर"
+      ],
+      "importantInstructionsTitle": "महत्वाच्या सूचना",
+      "instructions": [
+        "फुलोऱ्याच्या वेळी मॅन्डिप्रोपॅमिड 23.4% @ 1 मिली/लिटर (10-15 दिवसांनी 2-3 फवारण्या) फवारल्याने अनेक बुरशीजन्य रोगांवर प्रतिबंधात्मक उपाय म्हणून काम करते. त्यामुळे हे फुलोऱ्याच्या वेळी घ्या.",
+        "त्या दिवशी पावसाची शक्यता असल्यास फवारणी टाळा; पावसानंतर काही तासांनी फवारणी करणे चांगले आणि खूप महत्त्वाचे आहे.",
+        "अंतिम द्रावण तयार केल्यानंतर फवारणीचा pH तपासावा. तो 6.5-7.0 pH/ किंवा बुरशीनाशक पॅकवर दिलेल्या निर्देशानुसार समायोजित करावा. यामुळे रासायनिक इजा टाळता येईल आणि चांगले परिणाम मिळतील.",
+        "बोर्डो मिश्रणाशिवाय फवारणीसोबत नेहमी स्प्रेडर स्टिकर वापरा.",
+        "तांबे बुरशीनाशकांशिवाय कोणत्याही कीटकनाशकाचा वापर एका हंगामात 2-3 पेक्षा जास्त वेळा करू नये.",
+        "अवशेषमुक्त उत्पादनासाठी काढणीपूर्व अंतरानुसार फवारण्या रोटेशनमध्ये घेता येतात."
+      ],
+      "recommendations": [
+        "प्रभावित फळे आणि पाने काढून टाका आणि नष्ट करा.",
+        "योग्य बुरशीनाशक (उदा., झिनेब, टेबुकोनाझोल) लावा.",
+        "छाटणीद्वारे हवेच्या अभिसरणात सुधारणा करा."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Healthy": {
+      "description": "कोणत्याही विशिष्ट व्यवस्थापनाची आवश्यकता नाही. तणाव किंवा रोगाच्या कोणत्याही चिन्हांसाठी वनस्पतीचे निरीक्षण करणे सुरू ठेवा आणि चांगल्या कृषी पद्धती राखा."
+    },
+    "Fungal Scab": {
+      "diseaseName": "रोग: फळ स्कॅब",
+      "description": "2016 पासून, भारतातील शुष्क आणि अर्ध-शुष्क प्रदेशात डाळिंब उत्पादनात स्कॅब हा एक मर्यादित घटक बनला आहे. ज्या भागात हा रोग प्रचलित आहे, तेथे 90-100% फळे प्रभावित असलेली बाग शोधणे असामान्य नाही.",
+      "causalOrganism": "स्फासेलोमा (syn. एल्सिनो) प्युनिके",
+      "symptoms": "रोगकारक फुलोऱ्यापासून ते फळ परिपक्व होईपर्यंत कोणत्याही टप्प्यावर हल्ला करतो. फुलांच्या कळ्या किंवा लहान फळांच्या संसर्गामुळे विकृती येते आणि परिणामी उत्पन्नाचे नुकसान होते. परिपक्व फळांचा संसर्ग फळांच्या स्वरूपावर आणि बाह्य गुणवत्तेवर परिणाम करतो. व्रण फक्त बाहेरील सालीच्या पृष्ठभागावर परिणाम करतात, अरिल किंवा रसाच्या गुणवत्तेवर परिणाम न करता.\n• फळांवरील व्रण लहान किंवा मोठे, तपकिरी, खडबडीत, उंचवटलेले, लहान भागांपासून ते संपूर्ण फळाच्या पृष्ठभागावर पसरलेले असू शकतात, ज्यामुळे सालीला रसेट स्कॅबसारखे स्वरूप येते.\n• ठिपके कधीकधी मोठे होऊन हलक्या केंद्रासह आणि गडद कडा असलेले मोठे ठिपके तयार करू शकतात आणि स्पर्शाला खडबडीत असतात.\n• हे लहान खडबडीत, उंचवटलेल्या ठिपक्यांपासून ते संपूर्ण फळाच्या पृष्ठभागावर पसरलेल्या मोठ्या तपकिरी ठिपक्यांपर्यंत विविध आकार आणि आकाराचे ठिपके तयार करते, ज्यात रसेटसारखे स्वरूप असते.",
+      "predisposingFactors": "22 - 28°C तापमान, पाऊस आणि वाऱ्यासह 45 - 65% आर्द्रता रोगाच्या विकासास अनुकूल आहे.",
+      "chemicalManagementTitle": "फळ स्कॅबचे रासायनिक व्यवस्थापन",
+      "chemicalManagementIntro": "हा रोग सामान्यतः पावसानंतर फळांवर दिसून येतो. पाने सामान्यतः फळे नसताना दिसून येतात. जर तुमच्याकडे गेल्या हंगामातही स्कॅब असेल तर रोगाच्या लक्षणांची वाट पाहू नका, पावसानंतर प्रतिबंधात्मक फवारण्या घ्या. हवामानाच्या परिस्थितीनुसार 7-10 दिवसांच्या अंतराने खाली नमूद केलेल्या फवारण्या वैकल्पिकरित्या घ्या आणि शेवटी दिलेल्या महत्त्वाच्या सूचनांचे पालन करा,",
+      "sprays": [
+        "मेटिराम 55% WG + पायराक्लोस्ट्रोबिन 5% @ 3 ग्रॅम/लिटर",
+        "टेबुकोनाझोल 50% + ट्रायफ्लॉक्सीस्ट्रोबिन 25% WG @ 0.5 ग्रॅम/लिटर",
+        "ऍझोक्सिस्ट्रोबिन 18.2% + डायफेनोकोनाझोल 11.4% SC @ 1 मिली/लिटर",
+        "झिनेब 68% + हेक्साकोनाझोल 4% WP @ 2.5 ग्रॅम/लिटर",
+        "फ्लुओपिकोलाइड 5.56% + प्रोपामोकार्ब हायड्रोक्लोराइड 55.6% SC @"
+      ],
+      "chemicalManagementNote": "टीप: पावसानंतर लगेच दिल्यास सर्वोत्तम परिणाम मिळतात.",
+      "importantInstructionsTitle": "महत्वाच्या सूचना",
+      "instructions": [
+        "फुलोऱ्याच्या वेळी मॅन्डिप्रोपॅमिड 23.4% @ 1 मिली/लिटर (10-15 दिवसांनी 2-3 फवारण्या) फवारल्याने सर्कोस्पोरा फ्रूट आणि लीफ स्पॉट आणि स्कॅबसह अनेक बुरशीजन्य रोगांवर प्रतिबंधात्मक उपाय म्हणून काम करते. त्यामुळे हे फुलोऱ्याच्या वेळी घ्या.",
+        "सेट करताना संक्रमित विकृत फळे काढून टाकता येतात आणि नष्ट करता येतात. कुठेही टाकू नका किंवा फेकू नका.",
+        "त्या दिवशी पावसाची शक्यता असल्यास फवारणी टाळा; स्कॅबचा संसर्ग टाळण्यासाठी पावसानंतर काही तासांनी फवारणी करणे चांगले आणि खूप महत्त्वाचे आहे.",
+        "अंतिम द्रावण तयार केल्यानंतर फवारणीचा pH तपासावा. तो 6.5-7.0 pH/ किंवा बुरशीनाशक पॅकवर दिलेल्या निर्देशानुसार समायोजित करावा. यामुळे रासायनिक इजा टाळता येईल आणि चांगले परिणाम मिळतील.",
+        "बोर्डो मिश्रणाशिवाय फवारणीसोबत नेहमी स्प्रेडर स्टिकर वापरा.",
+        "तांबे बुरशीनाशकांशिवाय कोणत्याही कीटकनाशकाचा वापर एका हंगामात 2-3 पेक्षा जास्त वेळा करू नये.",
+        "अवशेषमुक्त उत्पादनासाठी काढणीपूर्व अंतरानुसार फवारण्या रोटेशनमध्ये घेता येतात."
+      ],
+      "recommendations": [
+        "संक्रमित किंवा विकृत फळे काढून टाका आणि नष्ट करा.",
+        "पावसानंतर प्रतिबंधात्मक फवारण्या (उदा., मेटिराम, टेबुकोनाझोल) लावा.",
+        "हवेच्या अभिसरणात सुधारणा करण्यासाठी झाडांची छाटणी करा."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Bacterial": {
+      "diseaseName": "रोग: बॅक्टेरियल लीफ स्पॉट/ऑइली स्पॉट",
+      "description": "अनुकूल परिस्थितीत डाळिंबामध्ये बॅक्टेरियल ब्लाइटमुळे आर्थिक उत्पन्नाचे नुकसान (60-100%) होते. जून-जुलैमध्ये पावसाळ्यात (मृग बहार) ते अधिक गंभीर आणि प्रचलित असते आणि रब्बी हंगामात (हस्ता बहार) कमी असते.",
+      "causalOrganism": "झँथोमोनास ऍक्सोनोपोडिस पीव्ही. प्युनिके (Syn: झँथोमोनास सिट्री पीव्ही. प्युनिके)",
+      "symptoms": "• रोगाची लक्षणे वनस्पतीच्या सर्व भागांवर म्हणजेच पाने, देठ, फुले आणि फळांवर दिसून येतात.\n• सुरुवातीला, पानांवर लहान अनियमित राखाडी-काळे पाण्याने भिजलेले व्रण दिसतात जे रोगाच्या प्रगतीनुसार मोठे होतात. रोगग्रस्त पाने हळूहळू पिवळी पडून गळून पडतात (प्लेट 1a).\n• पाऊस/स्प्रे/दव यानंतर बॅक्टेरियाचा स्राव बाहेर येतो, जो हाताला चिकट लागतो आणि वाळल्यानंतर पृष्ठभागावर पांढरा चमकदार थर तयार करतो. (प्लेट 1c).",
+      "predisposingFactors": "तापमान (25 – 30° से), सापेक्ष आर्द्रता (>50%), पाऊस, शिफारस केलेल्या पेक्षा जास्त नायट्रोजन डोसचा वापर, सूक्ष्म अन्नद्रव्यांची कमतरता.",
+      "cropSeasonManagementTitle": "पीक हंगामात व्यवस्थापन पद्धती",
+      "cropSeasonManagement": [
+        "काढणीनंतर विश्रांतीच्या काळात आणि फळे येईपर्यंत नवीन बाग लावल्यानंतरही प्रतिबंधात्मक फवारण्या घ्याव्यात.",
+        "बागेत/शेजारील बागेत असलेल्या रोगावर आणि हवामानाच्या परिस्थितीनुसार 15 - 20 दिवसांच्या अंतराने ब्रोनोपोल @ 0.5 ग्रॅम/लिटरसह कॉपर ऑक्सिक्लोराइड किंवा कॉपर हायड्रॉक्साइड @ 2 -2.5 ग्रॅम/लिटर सारख्या तांबे-आधारित फॉर्म्युलेशनसह बदलून बोर्डो मिश्रण (1%) फवारा.",
+        "जर बागा विश्रांतीच्या काळात असतील आणि त्यांना पानांच्या ब्लाइटचा संसर्ग असेल, तर बोर्डो मिश्रण आणि ब्रोनोपोलसह बदलून स्ट्रेप्टोसायक्लिन @ 0.5 ग्रॅम/लिटरची एक फवारणी घेता येते."
+      ],
+      "cropSeasonManagementNote": "टीप: जर ते बॅक्टेरियल ब्लाइट मुक्त क्षेत्र असेल तर स्ट्रेप्टोसायक्लिन किंवा ब्रोनोपोलच्या फवारण्यांची आवश्यकता नाही.",
+      "emergencySpraysTitle": "आपत्कालीन फवारण्या",
+      "emergencySpraysIntro": "पानांवर 5-10% ब्लाइट संसर्ग दिसल्यानंतर लगेचच 4 दिवसांच्या अंतराने 1-2 फवारण्या केल्याने ब्लाइटचा पुढील प्रसार रोखला जातो.",
+      "emergencySprays": [
+        "स्ट्रेप्टोसायक्लिन @ 0.5 ग्रॅम/लिटर + 2-ब्रोमो-नायट्रोप्रोपेन-1, 3-डायोल (ब्रोनोपोल 95%) @ 0.5 ग्रॅम/लिटर + कॉपर हायड्रॉक्साइड 53.8% WP @ 2.0 ग्रॅम/लिटर + स्प्रेडर स्टिकर @ 0.5 मिली/लिटर द्रावण.",
+        "स्ट्रेप्टोसायक्लिन @ 0.5 ग्रॅम/लिटर + 2-ब्रोमो-नायट्रोप्रोपेन-1, 3-डायोल (ब्रोनोपोल 95%) @ 0.5 ग्रॅम/लिटर + कार्बेन्डाझिम 50% WP @ 1.0 ग्रॅम/लिटर + स्प्रेडर स्टिकर @ 0.5 मिली/लिटर द्रावण."
+      ],
+      "emergencySpraysNote": "टीप:\n• प्रत्येक फवारणीपूर्वी ब्लाइट-प्रभावित फळे काढून टाका आणि नष्ट करा. बागेची योग्य स्वच्छता राखा आणि विश्रांतीच्या काळात प्रतिबंधात्मक फवारण्या घ्या.",
+      "recommendations": [
+        "पाने कोरडी ठेवण्यासाठी ओव्हरहेड सिंचन टाळा.",
+        "प्रतिबंधात्मक उपाय म्हणून तांबे-आधारित फवारण्या लावा.",
+        "संक्रमित पाने त्वरित काढून टाका आणि नष्ट करा."
+      ]
+    },
+    "Fungal": {
+      "diseaseName": "रोग: बुरशीजन्य पानांचे ठिपके",
+      "description": "डाळिंब अनेक पानांच्या ठिपक्यांना कारणीभूत असलेल्या रोगकारकांसाठी संवेदनशील आहे जे फळांचे उत्पादन आणि गुणवत्ता कमी करू शकतात.",
+      "causalOrganism": "पानांचे ठिपके अनेक बुरशीजन्य रोगकारकांमुळे होतात जसे की अल्टरनेरिया अल्टरनेटा, सर्कोस्पोरा प्युनिके (स्यूडोसेर्कोस्पोरा प्युनिके), कोलेटोट्रायकम एसपी, ड्रेक्स्क्लेरा रोस्ट्रेटा. याशिवाय, पानांचे ठिपके इतर अनेक बुरशीजन्य प्रजातींमुळे होतात जसे की बोट्रिओडिप्लोडिया थिओब्रोमी, कर्व्हुलारिया एसपी, पेस्टालोटिओप्सिस एसपी.",
+      "symptoms": "विविध रोगकारक विशेषतः पाने, देठांवर वैशिष्ट्यपूर्ण ठिपक्यांची लक्षणे निर्माण करतात. ज्याची अचूक ओळख फक्त सूक्ष्म आणि शुद्ध संवर्धन अभ्यासाद्वारेच केली जाऊ शकते कारण बहुतेक वेळा नैसर्गिक परिस्थितीत ओव्हरलॅपिंग रोगाची लक्षणे दिसून येतात. पानांच्या आणि फळांच्या ठिपक्यांमध्ये, सर्कोस्पोरा ठिपके डाळिंबावर सर्वात ठळकपणे दिसतात.",
+      "predisposingFactors": "20 - 30°C तापमान आणि दीर्घ कालावधीसाठी 60% पेक्षा जास्त आर्द्रता रोगाच्या विकासास अनुकूल आहे. पावसाळ्यात पानांचे आणि फळांचे ठिपके अधिक प्रमाणात आढळतात.",
+      "chemicalManagementTitle": "बुरशीजन्य पानांच्या ठिपक्यांचे रासायनिक व्यवस्थापन",
+      "chemicalManagementIntro": "हवामानाच्या परिस्थितीनुसार 7-10 दिवसांच्या अंतराने खाली नमूद केलेल्या फवारण्या वैकल्पिकरित्या घ्या आणि शेवटी दिलेल्या महत्त्वाच्या सूचनांचे पालन करा.",
+      "sprays": [
+        "झिनेब 75% WP @ 2 ग्रॅम/लिटर",
+        "झिनेब 68% + हेक्साकोनाझोल 4% WP @ 2.5 ग्रॅम/लिटर",
+        "मेटिराम 55% WG + पायराक्लोस्ट्रोबिन 5% @ 3 ग्रॅम/लिटर",
+        "टेबुकोनाझोल 50% + ट्रायफ्लॉक्सीस्ट्रोबिन 25% WG @ 0.5 ग्रॅम/लिटर",
+        "प्रोपीनेब 70% WP @ 3 ग्रॅम/लिटर",
+        "ट्रायसायक्लाझोल 18% + मॅन्कोझेब 62% WP 2.5 ते 3.0 ग्रॅम/लिटर",
+        "कॉपर सल्फेट 47.15% + मॅन्कोझेब 30% WDG @ 2.5 ग्रॅम/लिटर",
+        "ऍझोक्सिस्ट्रोबिन 8.3% + मॅन्कोझेब 66.7% WG @ 1.5 ग्रॅम/लिटर"
+      ],
+      "importantInstructionsTitle": "महत्वाच्या सूचना",
+      "instructions": [
+        "फुलोऱ्याच्या वेळी मॅन्डिप्रोपॅमिड 23.4% @ 1 मिली/लिटर (10-15 दिवसांनी 2-3 फवारण्या) फवारल्याने सर्कोस्पोरा फ्रूट आणि लीफ स्पॉट आणि स्कॅबसह अनेक बुरशीजन्य रोगांवर प्रतिबंधात्मक उपाय म्हणून काम करते. त्यामुळे हे फुलोऱ्याच्या वेळी घ्या.",
+        "त्या दिवशी पावसाची शक्यता असल्यास फवारणी टाळा; पावसानंतर काही तासांनी फवारणी करणे चांगले आणि खूप महत्त्वाचे आहे.",
+        "अंतिम द्रावण तयार केल्यानंतर फवारणीचा pH तपासावा. तो 6.5-7.0 pH/ किंवा बुरशीनाशक पॅकवर दिलेल्या निर्देशानुसार समायोजित करावा. यामुळे रासायनिक इजा टाळता येईल आणि चांगले परिणाम मिळतील.",
+        "बोर्डो मिश्रणाशिवाय फवारणीसोबत नेहमी स्प्रेडर स्टिकर वापरा.",
+        "तांबे बुरशीनाशकांशिवाय कोणत्याही कीटकनाशकाचा वापर एका हंगामात 2-3 पेक्षा जास्त वेळा करू नये.",
+        "अवशेषमुक्त उत्पादनासाठी काढणीपूर्व अंतरानुसार फवारण्या रोटेशनमध्ये घेता येतात."
+      ],
+      "recommendations": [
+        "योग्य बुरशीनाशके लावा, वेगवेगळ्या रासायनिक गटांमध्ये फिरवत रहा.",
+        "छाटणीद्वारे हवेच्या अभिसरणात सुधारणा करा.",
+        "पाने कोरडी ठेवण्यासाठी वनस्पतीच्या पायथ्याशी पाणी द्या."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    }
+  },
+  "kn": {
+    "Bacterial Blight": {
+      "diseaseName": "ರೋಗ: ಬ್ಯಾಕ್ಟೀರಿಯಲ್ ಬ್ಲೈಟ್",
+      "description": "ಅನುಕೂಲಕರ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ ದಾಳಿಂಬೆಯಲ್ಲಿ ಬ್ಯಾಕ್ಟೀರಿಯಲ್ ಬ್ಲೈಟ್ ಆರ್ಥಿಕ ಇಳುವರಿ ನಷ್ಟವನ್ನು (60-100%) ಉಂಟುಮಾಡುತ್ತದೆ. ಇದು ಜೂನ್-ಜುಲೈನಲ್ಲಿ ಮಳೆಗಾಲದಲ್ಲಿ (ಮೃಗ ಬಹಾರ್) ಹೆಚ್ಚು ತೀವ್ರ ಮತ್ತು ಪ್ರಚಲಿತವಾಗಿದೆ ಮತ್ತು ರಬಿ ಋತುವಿನಲ್ಲಿ (ಹಸ್ತಾ ಬಹಾರ್) ಕಡಿಮೆಯಾಗಿದೆ.",
+      "causalOrganism": "ಕ್ಸಾಂಥೋಮೊನಾಸ್ ಆಕ್ಸೊನೊಪೊಡಿಸ್ ಪಿವಿ. ಪುನಿಕೇ (Syn: ಕ್ಸಾಂಥೋಮೊನಾಸ್ ಸಿಟ್ರಿ ಪಿವಿ. ಪುನಿಕೇ)",
+      "symptoms": "• ರೋಗದ ಲಕ್ಷಣಗಳು ಎಲೆಗಳು, ಕಾಂಡಗಳು, ಹೂವುಗಳು ಮತ್ತು ಹಣ್ಣುಗಳಂತಹ ಎಲ್ಲಾ ಸಸ್ಯ ಭಾಗಗಳಲ್ಲಿ ಕಂಡುಬರುತ್ತವೆ.\n• ಆರಂಭದಲ್ಲಿ, ಎಲೆಗಳ ಮೇಲೆ ಸಣ್ಣ ಅನಿಯಮಿತ ಬೂದು-ಕಪ್ಪು ನೀರಿನಿಂದ ಕೂಡಿದ ಗಾಯಗಳು ಕಂಡುಬರುತ್ತವೆ, ಅದು ರೋಗದ ಪ್ರಗತಿಯೊಂದಿಗೆ ದೊಡ್ಡದಾಗುತ್ತದೆ. ರೋಗಗ್ರಸ್ತ ಎಲೆಗಳು ಕ್ರಮೇಣ ಹಳದಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ ಬೀಳುತ್ತವೆ (ಪ್ಲೇಟ್ 1a).\n• ಕೊಂಬೆಗಳು ಮತ್ತು ಕಾಂಡಗಳ ಮೇಲೆ ಕಪ್ಪು ಗಾಯಗಳು ಮುಖ್ಯವಾಗಿ ನೋಡ್‌ಗಳಲ್ಲಿ ಕಂಡುಬರುತ್ತವೆ, ಇದು ಖಿನ್ನತೆಗೆ ಒಳಗಾದ ಬೆಳವಣಿಗೆಯೊಂದಿಗೆ ಕ್ಯಾಂಕರ್ ರಚನೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ (ಪ್ಲೇಟ್ 1b).\n• ಅಭಿವೃದ್ಧಿ ಹೊಂದಿದ ಹಣ್ಣುಗಳ ಮೇಲೆ ರೋಗದ ಲಕ್ಷಣಗಳು ಪ್ರಮುಖವಾಗಿವೆ. ಬೂದು-ಕಪ್ಪು ಗಾಯಗಳು ದೊಡ್ಡದಾಗಿ ಮತ್ತು ಒಗ್ಗೂಡಿ, ಸಂಪೂರ್ಣ ಹಣ್ಣಿನ ಮೇಲ್ಮೈಯನ್ನು ಆವರಿಸುತ್ತವೆ. ಸೋಂಕಿತ ಹಣ್ಣುಗಳು ಆಗಾಗ್ಗೆ ಬಿರುಕುಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತವೆ. ಮಳೆ/ಸಿಂಪಡಣೆ/ಇಬ್ಬನಿಯ ನಂತರ ಬ್ಯಾಕ್ಟೀರಿಯಾದ ಸ್ರವಿಸುವಿಕೆಯು ಹೊರಬರುತ್ತದೆ, ಇದು ಕೈಗಳಿಗೆ ಜಿಗುಟಾದಂತೆ ಭಾಸವಾಗುತ್ತದೆ ಮತ್ತು ಒಣಗಿದ ನಂತರ ಮೇಲ್ಮೈಯಲ್ಲಿ ಬಿಳಿ ಹೊಳೆಯುವ ಪದರವನ್ನು ನೀಡುತ್ತದೆ. (ಪ್ಲೇಟ್ 1c).",
+      "predisposingFactors": "ತಾಪಮಾನ (25 – 30° C), ಸಾಪೇಕ್ಷ ಆರ್ದ್ರತೆ (>50%), ಮಳೆ, ಶಿಫಾರಸು ಮಾಡಿದ್ದಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಸಾರಜನಕ ಪ್ರಮಾಣಗಳ ಅನ್ವಯ, ಸೂಕ್ಷ್ಮ ಪೋಷಕಾಂಶಗಳ ಕೊರತೆ.",
+      "pruningManagementTitle": "ಸಮರುವಿಕೆ ಸಮಯದಲ್ಲಿ ನಿರ್ವಹಣಾ ಅಭ್ಯಾಸಗಳು",
+      "pruningManagement": [
+        "ಕಾಂಡದ ಸೋಂಕುಗಳು ತೀವ್ರವಾಗಿದ್ದರೆ, ಸುಗ್ಗಿಯ ನಂತರ ತಕ್ಷಣವೇ ಭಾರೀ ಸಮರುವಿಕೆಯನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ ಮತ್ತು ಬ್ಲೈಟ್ ಸೋಂಕಿನೊಂದಿಗೆ ಎಲ್ಲಾ ಕಾಂಡಗಳನ್ನು ತೆಗೆದುಹಾಕಿ. ಸೋಂಕಿತ ಪ್ರದೇಶಕ್ಕಿಂತ ಸುಮಾರು 2 - 3 ಇಂಚು ಕೆಳಗೆ ಸಮರುವಿಕೆ ಮಾಡಿ.",
+        "ಸಮರುವಿಕೆ ನಂತರ ಕತ್ತರಿಸಿದ ತುದಿಗಳಿಗೆ ಬೋರ್ಡೆಕ್ಸ್ ಪೇಸ್ಟ್ (10%) ಅನ್ನು ಅನ್ವಯಿಸಿ. ಮಳೆಗಾಲದಲ್ಲಿ ಅಂಟಿಸಲು ತೈಲ ಆಧಾರಿತ ಪೇಸ್ಟ್‌ಗಳು [500 ಗ್ರಾಂ ಸಿಒಸಿ + 1 ಲೀಟರ್ ಲಿನ್ಸೆಡ್ ಎಣ್ಣೆಯನ್ನು ಬೆರೆಸಿ ಮಾಡಿದ ಸಿಒಸಿ ಪೇಂಟ್] ಆದ್ಯತೆ ನೀಡಲಾಗುತ್ತದೆ ಅಥವಾ 50 ಮಿಲಿ/ಲೀಟರ್ ಪೇಸ್ಟ್‌ಗೆ ಎಣ್ಣೆಯನ್ನು ಮಿಶ್ರಣ ಮಾಡಿ."
+      ],
+      "cropSeasonManagementTitle": "ಬೆಳೆ ಋತುವಿನಲ್ಲಿ ನಿರ್ವಹಣಾ ಅಭ್ಯಾಸಗಳು",
+      "cropSeasonManagement": [
+        "ಸುಗ್ಗಿಯ ನಂತರ ವಿಶ್ರಾಂತಿ ಅವಧಿಯಲ್ಲಿ ಮತ್ತು ಹಣ್ಣು ಬಿಡುವವರೆಗೆ ಹೊಸ ತೋಟವನ್ನು ನೆಟ್ಟ ನಂತರವೂ ರೋಗನಿರೋಧಕ ಸಿಂಪಡಣೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು.",
+        "ತೋಟ/ನೆರೆಯ ತೋಟಗಳಲ್ಲಿ ಇರುವ ರೋಗ ಮತ್ತು ಹವಾಮಾನ ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಅವಲಂಬಿಸಿ 15 - 20 ದಿನಗಳ ಮಧ್ಯಂತರದಲ್ಲಿ ಬ್ರೊನೊಪೋಲ್ @ 0.5 ಗ್ರಾಂ/ಲೀಟರ್ ನೊಂದಿಗೆ ತಾಮ್ರದ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ ಅಥವಾ ತಾಮ್ರದ ಹೈಡ್ರಾಕ್ಸೈಡ್ @ 2 -2.5 ಗ್ರಾಂ/ಲೀಟರ್ ನಂತಹ ತಾಮ್ರ ಆಧಾರಿತ ಸೂತ್ರೀಕರಣಗಳೊಂದಿಗೆ ಬದಲಾಯಿಸಲಾದ ಬೋರ್ಡೆಕ್ಸ್ ಮಿಶ್ರಣವನ್ನು (1%) ಸಿಂಪಡಿಸಿ.",
+        "ತೋಟಗಳು ವಿಶ್ರಾಂತಿ ಅವಧಿಯಲ್ಲಿದ್ದರೆ ಮತ್ತು ಎಲೆ ಬ್ಲೈಟ್ ಸೋಂಕನ್ನು ಹೊಂದಿದ್ದರೆ, ಬೋರ್ಡೆಕ್ಸ್ ಮಿಶ್ರಣ ಮತ್ತು ಬ್ರೊನೊಪೋಲ್‌ನೊಂದಿಗೆ ಪರ್ಯಾಯವಾಗಿ ಸ್ಟ್ರೆಪ್ಟೊಸೈಕ್ಲಿನ್ @ 0.5 ಗ್ರಾಂ/ಲೀಟರ್ ನ ಒಂದು ಸಿಂಪಡಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಬಹುದು."
+      ],
+      "cropSeasonManagementNote": "ಗಮನಿಸಿ: ಇದು ಬ್ಯಾಕ್ಟೀರಿಯಲ್ ಬ್ಲೈಟ್ ಮುಕ್ತ ಪ್ರದೇಶವಾಗಿದ್ದರೆ ಸ್ಟ್ರೆಪ್ಟೊಸೈಕ್ಲಿನ್ ಅಥವಾ ಬ್ರೊನೊಪೋಲ್ ಸಿಂಪಡಣೆಗಳ ಅಗತ್ಯವಿಲ್ಲ.",
+      "emergencySpraysTitle": "ತುರ್ತು ಸಿಂಪಡಣೆಗಳು",
+      "emergencySpraysIntro": "ಹಣ್ಣುಗಳ ಮೇಲೆ 5-10% ಬ್ಲೈಟ್ ಸೋಂಕು ಕಂಡುಬಂದ ತಕ್ಷಣ 4 ದಿನಗಳ ಮಧ್ಯಂತರದಲ್ಲಿ 1-2 ಸಿಂಪಡಣೆಗಳು ಮತ್ತಷ್ಟು ಬ್ಲೈಟ್ ಹರಡುವುದನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತವೆ.",
+      "emergencySprays": [
+        "ಸ್ಟ್ರೆಪ್ಟೊಸೈಕ್ಲಿನ್ @ 0.5 ಗ್ರಾಂ/ಲೀಟರ್ + 2-ಬ್ರೋಮೋ-ನೈಟ್ರೋಪ್ರೊಪೇನ್-1, 3-ಡಯೋಲ್ (ಬ್ರೊನೊಪೋಲ್ 95%) @ 0.5 ಗ್ರಾಂ/ಲೀಟರ್ + ತಾಮ್ರದ ಹೈಡ್ರಾಕ್ಸೈಡ್ 53.8% WP @ 2.0 ಗ್ರಾಂ/ಲೀಟರ್ + ಸ್ಪ್ರೆಡರ್ ಸ್ಟಿಕ್ಕರ್ @ 0.5 ಮಿಲಿ/ಲೀಟರ್ ದ್ರಾವಣ.",
+        "ಸ್ಟ್ರೆಪ್ಟೊಸೈಕ್ಲಿನ್ @ 0.5 ಗ್ರಾಂ/ಲೀಟರ್ + 2-ಬ್ರೋಮೋ-ನೈಟ್ರೋಪ್ರೊಪೇನ್-1, 3-ಡಯೋಲ್ (ಬ್ರೊನೊಪೋಲ್ 95%) @ 0.5 ಗ್ರಾಂ/ಲೀಟರ್ + ಕಾರ್ಬೆಂಡಜಿಮ್ 50% WP @ 1.0 ಗ್ರಾಂ/ಲೀಟರ್ + ಸ್ಪ್ರೆಡರ್ ಸ್ಟಿಕ್ಕರ್ @ 0.5 ಮಿಲಿ/ಲೀಟರ್ ದ್ರಾವಣ."
+      ],
+      "emergencySpraysNote": "ಗಮನಿಸಿ:\n• ಪ್ರತಿ ಸಿಂಪಡಣೆಯ ಮೊದಲು ಬ್ಲೈಟ್ ಪೀಡಿತ ಹಣ್ಣುಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ನಾಶಮಾಡಿ. ಸರಿಯಾದ ತೋಟದ ನೈರ್ಮಲ್ಯವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ ಮತ್ತು ವಿಶ್ರಾಂತಿ ಅವಧಿಯಲ್ಲಿ ತಡೆಗಟ್ಟುವ ಸಿಂಪಡಣೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.",
+      "recommendations": [
+        "ಬ್ಲೈಟ್ ಸೋಂಕಿನೊಂದಿಗೆ ಎಲ್ಲಾ ಕಾಂಡಗಳನ್ನು ಸಮರುವಿಕೆ ಮಾಡಿ ಮತ್ತು ತೆಗೆದುಹಾಕಿ.",
+        "ಸಮರುವಿಕೆ ನಂತರ ಕತ್ತರಿಸಿದ ತುದಿಗಳಿಗೆ ಬೋರ್ಡೆಕ್ಸ್ ಪೇಸ್ಟ್ ಅನ್ನು ಅನ್ವಯಿಸಿ.",
+        "ಬೋರ್ಡೆಕ್ಸ್ ಮಿಶ್ರಣ ಅಥವಾ ಬ್ರೊನೊಪೋಲ್ ನಂತಹ ರೋಗನಿರೋಧಕ ಸಿಂಪಡಣೆಗಳನ್ನು ಬಳಸಿ.",
+        "ಪ್ರತಿ ಸಿಂಪಡಣೆಯ ಮೊದಲು ಬ್ಲೈಟ್ ಪೀಡಿತ ಹಣ್ಣುಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ನಾಶಮಾಡಿ."
+      ]
+    },
+    "Calyx Rot": {
+      "diseaseName": "ರೋಗ: ಆಂಥ್ರಾಕ್ನೋಸ್/ಹಣ್ಣಿನ ಕೊಳೆತ/ಕ್ಯಾಲಿಕ್ಸ್ ಕೊಳೆತ",
+      "description": "ಅರೆ-ಶುಷ್ಕ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ ಆಂಥ್ರಾಕ್ನೋಸ್/ಹಣ್ಣಿನ ಕೊಳೆತವು ಒಂದು ಪ್ರಮುಖ ಸಮಸ್ಯೆಯಾಗುತ್ತಿದೆ. ಈ ರೋಗವು ಉಷ್ಣವಲಯ ಮತ್ತು ಉಪೋಷ್ಣವಲಯದ ಪ್ರದೇಶಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿದೆ.",
+      "causalOrganism": "ಕೊಲೆಟೊಟ್ರಿಕಮ್ ಎಸ್ಪಿಪಿ.",
+      "symptoms": "ಕೊಲೆಟೊಟ್ರಿಕಮ್ ಲಕ್ಷಣಗಳು ಹೂವುಗಳು, ಹಣ್ಣುಗಳು, ಎಲೆಗಳು ಅಥವಾ ಕೊಂಬೆಗಳ ಮೇಲೆ ಬೆಳೆಯುತ್ತವೆ, ಆದರೆ ಹಣ್ಣುಗಳು ಹೆಚ್ಚು ಒಳಗಾಗುತ್ತವೆ.\n• ಎಲೆಗಳ ಮೇಲೆ, ಹಳದಿ ಪ್ರಭಾವಲಯಗಳೊಂದಿಗೆ ಸಣ್ಣ ವೃತ್ತಾಕಾರದ ಕಲೆಗಳು ಬೆಳೆಯುತ್ತವೆ; ನಂತರ ಸೋಂಕಿತ ಎಲೆಗಳು ಹಳದಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತವೆ, ಇದು ಅಕಾಲಿಕ ಎಲೆ ಉದುರುವಿಕೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ.\n• ಹಣ್ಣುಗಳ ಮೇಲೆ, ಮೊದಲ ಲಕ್ಷಣಗಳು ಕ್ಯಾಲಿಕ್ಸ್ ತುದಿಯಿಂದ ಹಣ್ಣಿನ ಸಿಪ್ಪೆಯ ಬಣ್ಣಬಣ್ಣ ಅಥವಾ ಹಲವಾರು ಪ್ರತ್ಯೇಕ ಕಲೆಗಳಾಗಿ ಕಂಡುಬರುತ್ತವೆ, ಅದು ನಂತರ ಒಟ್ಟಿಗೆ ಸೇರಿ ಹಣ್ಣಿನ ಮೇಲ್ಮೈಯಲ್ಲಿ ಅನಿಯಮಿತ ಕಲೆಗಳನ್ನು ರೂಪಿಸುತ್ತದೆ (ಕೊಲೆಟೊಟ್ರಿಕಮ್ ಎಸ್ಪಿಪಿ.)\n• ಬಣ್ಣಬಣ್ಣದ ಪ್ರದೇಶಗಳು ಕೆಂಪು/ಗಾಢ ಕಂದು ಬಣ್ಣದಿಂದ ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತವೆ. ಕೊಳೆತವು ಸಿಪ್ಪೆಯನ್ನು ಮೀರಿ ಅರಿಲ್‌ಗಳಿಗೆ ವಿಸ್ತರಿಸುತ್ತದೆ, ಅದು ವಿಘಟನೆಯಾಗುತ್ತದೆ ಮತ್ತು ಗಾಢ ಬೂದು/ಕಂದು-ಕಪ್ಪು ಬಣ್ಣದ್ದಾಗಿರುತ್ತದೆ ಆದರೆ ನೀರಿಲ್ಲ. ಪೀಡಿತ ಹಣ್ಣುಗಳು ನಂತರದ ಹಂತದಲ್ಲಿ ಬೀಳಬಹುದು.\n• ಹಣ್ಣುಗಳು ಸೆಟ್ಟಿಂಗ್‌ನಿಂದ ಎಲ್ಲಾ ಹಂತಗಳಲ್ಲಿ ಈ ರೋಗಕ್ಕೆ ಹೆಚ್ಚು ಗುರಿಯಾಗುತ್ತವೆ.",
+      "predisposingFactors": "25 - 30°C ತಾಪಮಾನ ಮತ್ತು ಹೆಚ್ಚಿನ ಆರ್ದ್ರತೆ (>60%) ರೋಗದ ಬೆಳವಣಿಗೆಗೆ ಅನುಕೂಲಕರವಾಗಿದೆ. ಬೇಸಿಗೆಯ ತಿಂಗಳುಗಳಲ್ಲಿ ಹೆಚ್ಚಿನ ಆರ್ದ್ರತೆ, ಮಳೆ ಮತ್ತು ಬೆಚ್ಚಗಿನ ತಾಪಮಾನವು ರೋಗದ ತೀವ್ರತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+      "chemicalManagementTitle": "ಕೊಲೆಟೊಟ್ರಿಕಮ್ ಕೊಳೆತಗಳ ರಾಸಾಯನಿಕ ನಿರ್ವಹಣೆ",
+      "chemicalManagementIntro": "ಹವಾಮಾನ ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಅವಲಂಬಿಸಿ 7-10 ದಿನಗಳ ಮಧ್ಯಂತರದಲ್ಲಿ ಕೆಳಗೆ ತಿಳಿಸಲಾದ ಸಿಂಪಡಣೆಗಳನ್ನು ಪರ್ಯಾಯವಾಗಿ ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಕೊನೆಯಲ್ಲಿ ನೀಡಲಾದ ಪ್ರಮುಖ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ.",
+      "sprays": [
+        "ಜಿನೆಬ್ 68% + ಹೆಕ್ಸಾಕೊನಜೋಲ್ 4% WP @ 2.5 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಟೆಬುಕೊನಜೋಲ್ 50% + ಟ್ರೈಫ್ಲಾಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ 25% WG @ 0.5 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಪ್ರೊಪಿನೆಬ್ 70% WP @ 3 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ತಾಮ್ರದ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ 45% + ಕಸುಗಾಮೈಸಿನ್ 5% WP @ 2.5 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಅಜೋಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ 8.3% + ಮ್ಯಾಂಕೋಜೆಬ್ 66.7% WG @ 1.5 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಫ್ಲೋಪಿರಮ್ 21.4% + ಟ್ರೈಫ್ಲಾಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ 21.4% SC @ 0.7 ಮಿಲಿ/ಲೀಟರ್",
+        "ಫ್ಲೋಪಿಕೊಲೈಡ್ 5.56% + ಪ್ರೊಪಮೊಕಾರ್ಬ್ ಹೈಡ್ರೋಕ್ಲೋರೈಡ್ 55.6% SC @ 1.25 ಮಿಲಿ/ಲೀಟರ್"
+      ],
+      "importantInstructionsTitle": "ಪ್ರಮುಖ ಸೂಚನೆಗಳು",
+      "instructions": [
+        "ಹೂಬಿಡುವ ಸಮಯದಲ್ಲಿ ಮ್ಯಾಂಡಿಪ್ರೊಪಮಿಡ್ 23.4% @ 1 ಮಿಲಿ/ಲೀಟರ್ (10-15 ದಿನಗಳಲ್ಲಿ 2-3 ಸಿಂಪಡಣೆಗಳು) ಸಿಂಪಡಿಸುವುದರಿಂದ ಅನೇಕ ಶಿಲೀಂಧ್ರ ರೋಗಗಳಿಗೆ ತಡೆಗಟ್ಟುವಿಕೆಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ ಇದನ್ನು ಹೂಬಿಡುವ ಸಮಯದಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಿ.",
+        "ಆ ದಿನ ಮಳೆಯ ನಿರೀಕ್ಷೆಯಿದ್ದರೆ ಸಿಂಪಡಣೆಯನ್ನು ತಪ್ಪಿಸಿ; ಮಳೆಯ ಕೆಲವು ಗಂಟೆಗಳ ನಂತರ ಸಿಂಪಡಿಸುವುದು ಉತ್ತಮ ಮತ್ತು ಬಹಳ ಮುಖ್ಯ.",
+        "ಅಂತಿಮ ದ್ರಾವಣವನ್ನು ತಯಾರಿಸಿದ ನಂತರ ಸಿಂಪಡಣೆಯ pH ಅನ್ನು ಪರಿಶೀಲಿಸಬೇಕು. ಅದನ್ನು 6.5-7.0 pH/ ಅಥವಾ ಶಿಲೀಂಧ್ರನಾಶಕ ಪ್ಯಾಕ್‌ನಲ್ಲಿ ಸೂಚಿಸಿದಂತೆ ಸರಿಹೊಂದಿಸಬೇಕು. ಇದು ರಾಸಾಯನಿಕ ಗಾಯಗಳನ್ನು ತಪ್ಪಿಸುತ್ತದೆ ಮತ್ತು ಉತ್ತಮ ಫಲಿತಾಂಶಗಳನ್ನು ನೀಡುತ್ತದೆ.",
+        "ಬೋರ್ಡೆಕ್ಸ್ ಮಿಶ್ರಣವನ್ನು ಹೊರತುಪಡಿಸಿ ಸಿಂಪಡಣೆಗಳೊಂದಿಗೆ ಯಾವಾಗಲೂ ಸ್ಪ್ರೆಡರ್ ಸ್ಟಿಕ್ಕರ್ ಬಳಸಿ.",
+        "ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ಯಾವುದೇ ಕೀಟನಾಶಕವನ್ನು ಒಂದು ಋತುವಿನಲ್ಲಿ 2-3 ಬಾರಿಗಿಂತ ಹೆಚ್ಚು ಬಳಸಬಾರದು.",
+        "ಅವಶೇಷ-ಮುಕ್ತ ಉತ್ಪಾದನೆಗಾಗಿ ಪೂರ್ವ-ಸುಗ್ಗಿಯ ಮಧ್ಯಂತರದ ಪ್ರಕಾರ ಸಿಂಪಡಣೆಗಳನ್ನು ತಿರುಗುವಿಕೆಯಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಬಹುದು."
+      ],
+      "recommendations": [
+        "ಪೀಡಿತ ಹಣ್ಣು ಮತ್ತು ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ನಾಶಮಾಡಿ.",
+        "ಸೂಕ್ತವಾದ ಶಿಲೀಂಧ್ರನಾಶಕವನ್ನು (ಉದಾ., ಜಿನೆಬ್, ಟೆಬುಕೊನಜೋಲ್) ಅನ್ವಯಿಸಿ.",
+        "ಸಮರುವಿಕೆ ಮೂಲಕ ಗಾಳಿಯ ಪ್ರಸರಣವನ್ನು ಸುಧಾರಿಸಿ."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Fungal Cercospora": {
+      "diseaseName": "ರೋಗ: ಸೆರ್ಕೊಸ್ಪೊರಾ ಹಣ್ಣಿನ ಚುಕ್ಕೆ",
+      "description": "ದಾಳಿಂಬೆಯು ಶಿಲೀಂಧ್ರಗಳ ಹಣ್ಣಿನ ಚುಕ್ಕೆಗೆ ಒಳಗಾಗುತ್ತದೆ, ವಿಶೇಷವಾಗಿ ಸೆರ್ಕೊಸ್ಪೊರಾ ಪುನಿಕೇ (ಸ್ಯುಡೋಸೆರ್ಕೊಸ್ಪೊರಾ ಪುನಿಕೇ) ರೋಗಕಾರಕಗಳು ಹಣ್ಣಿನ ಇಳುವರಿ ಮತ್ತು ಗುಣಮಟ್ಟವನ್ನು ಕಡಿಮೆ ಮಾಡಬಹುದು.",
+      "causalOrganism": "ಸೆರ್ಕೊಸ್ಪೊರಾ ಪುನಿಕೇ (ಸ್ಯುಡೋಸೆರ್ಕೊಸ್ಪೊರಾ ಪುನಿಕೇ)",
+      "symptoms": "ರೋಗಕಾರಕವು ವಿಶೇಷವಾಗಿ ಹಣ್ಣುಗಳ ಮೇಲೆ ವಿಶಿಷ್ಟವಾದ ಚುಕ್ಕೆ ಲಕ್ಷಣಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಸಣ್ಣ, ಅನಿಯಮಿತ ಚುಕ್ಕೆಗಳು ಆರಂಭದಲ್ಲಿ ವೃತ್ತಾಕಾರವಾಗಿದ್ದು, ನಂತರ ದೊಡ್ಡದಾಗಿ ಮತ್ತು ಗಾಢವಾಗುತ್ತವೆ.",
+      "predisposingFactors": "20 - 30°C ನಡುವಿನ ತಾಪಮಾನ ಮತ್ತು ದೀರ್ಘಕಾಲದವರೆಗೆ 60% ಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಆರ್ದ್ರತೆಯು ರೋಗದ ಬೆಳವಣಿಗೆಗೆ ಅನುಕೂಲಕರವಾಗಿದೆ. ಮಳೆಗಾಲದಲ್ಲಿ ಎಲೆ ಮತ್ತು ಹಣ್ಣಿನ ಚುಕ್ಕೆಗಳು ಹೆಚ್ಚಾಗಿ ಕಂಡುಬರುತ್ತವೆ.",
+      "chemicalManagementTitle": "ಶಿಲೀಂಧ್ರ ಎಲೆ ಮತ್ತು ಹಣ್ಣಿನ ಚುಕ್ಕೆಗಳ ರಾಸಾಯನಿಕ ನಿರ್ವಹಣೆ",
+      "chemicalManagementIntro": "ಹವಾಮಾನ ಪರಿಸ್ಥಿತಿಗಳು ಮತ್ತು ರೋಗದ ಒತ್ತಡವನ್ನು ಅವಲಂಬಿಸಿ 7-10 ದಿನಗಳ ಮಧ್ಯಂತರದಲ್ಲಿ ಕೆಳಗೆ ತಿಳಿಸಲಾದ ಸಿಂಪಡಣೆಗಳನ್ನು ಪರ್ಯಾಯವಾಗಿ ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಕೊನೆಯಲ್ಲಿ ನೀಡಲಾದ ಪ್ರಮುಖ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ.",
+      "sprays": [
+        "ಜಿನೆಬ್ 75% WP @ 2 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಜಿನೆಬ್ 68% + ಹೆಕ್ಸಾಕೊನಜೋಲ್ 4% WP @ 2.5 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಮೆಟಿರಾಮ್ 55% WG + ಪೈರಾಕ್ಲೋಸ್ಟ್ರೋಬಿನ್ 5% @ 3 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಟೆಬುಕೊನಜೋಲ್ 50% + ಟ್ರೈಫ್ಲಾಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ 25% WG @ 0.5 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಪ್ರೊಪಿನೆಬ್ 70% WP @ 3 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಟ್ರೈಸೈಕ್ಲಾಜೋಲ್ 18% + ಮ್ಯಾಂಕೋಜೆಬ್ 62% WP 2.5 ರಿಂದ 3.0 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ತಾಮ್ರದ ಸಲ್ಫೇಟ್ 47.15% + ಮ್ಯಾಂಕೋಜೆಬ್ 30% WDG @ 2.5 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಅಜೋಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ 8.3% + ಮ್ಯಾಂಕೋಜೆಬ್ 66.7% WG @ 1.5 ಗ್ರಾಂ/ಲೀಟರ್"
+      ],
+      "importantInstructionsTitle": "ಪ್ರಮುಖ ಸೂಚನೆಗಳು",
+      "instructions": [
+        "ಹೂಬಿಡುವ ಸಮಯದಲ್ಲಿ ಮ್ಯಾಂಡಿಪ್ರೊಪಮಿಡ್ 23.4% @ 1 ಮಿಲಿ/ಲೀಟರ್ (10-15 ದಿನಗಳಲ್ಲಿ 2-3 ಸಿಂಪಡಣೆಗಳು) ಸಿಂಪಡಿಸುವುದರಿಂದ ಸೆರ್ಕೊಸ್ಪೊರಾ ಹಣ್ಣು ಮತ್ತು ಎಲೆ ಚುಕ್ಕೆ ಮತ್ತು ಸ್ಕ್ಯಾಬ್ ಸೇರಿದಂತೆ ಅನೇಕ ಶಿಲೀಂಧ್ರ ರೋಗಗಳಿಗೆ ತಡೆಗಟ್ಟುವಿಕೆಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ ಇದನ್ನು ಹೂಬಿಡುವ ಸಮಯದಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಿ.",
+        "ಆ ದಿನ ಮಳೆಯ ನಿರೀಕ್ಷೆಯಿದ್ದರೆ ಸಿಂಪಡಣೆಯನ್ನು ತಪ್ಪಿಸಿ; ಮಳೆಯ ಕೆಲವು ಗಂಟೆಗಳ ನಂತರ ಸಿಂಪಡಿಸುವುದು ಉತ್ತಮ ಮತ್ತು ಬಹಳ ಮುಖ್ಯ.",
+        "ಅಂತಿಮ ದ್ರಾವಣವನ್ನು ತಯಾರಿಸಿದ ನಂತರ ಸಿಂಪಡಣೆಯ pH ಅನ್ನು ಪರಿಶೀಲಿಸಬೇಕು. ಅದನ್ನು 6.5-7.0 pH/ ಅಥವಾ ಶಿಲೀಂಧ್ರನಾಶಕ ಪ್ಯಾಕ್‌ನಲ್ಲಿ ಸೂಚಿಸಿದಂತೆ ಸರಿಹೊಂದಿಸಬೇಕು. ಇದು ರಾಸಾಯನಿಕ ಗಾಯಗಳನ್ನು ತಪ್ಪಿಸುತ್ತದೆ ಮತ್ತು ಉತ್ತಮ ಫಲಿತಾಂಶಗಳನ್ನು ನೀಡುತ್ತದೆ.",
+        "ಬೋರ್ಡೆಕ್ಸ್ ಮಿಶ್ರಣವನ್ನು ಹೊರತುಪಡಿಸಿ ಸಿಂಪಡಣೆಗಳೊಂದಿಗೆ ಯಾವಾಗಲೂ ಸ್ಪ್ರೆಡರ್ ಸ್ಟಿಕ್ಕರ್ ಬಳಸಿ.",
+        "ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ಯಾವುದೇ ಕೀಟನಾಶಕವನ್ನು ಒಂದು ಋತುವಿನಲ್ಲಿ 2-3 ಬಾರಿಗಿಂತ ಹೆಚ್ಚು ಬಳಸಬಾರದು.",
+        "ಅವಶೇಷ-ಮುಕ್ತ ಉತ್ಪಾದನೆಗಾಗಿ ಪೂರ್ವ-ಸುಗ್ಗಿಯ ಮಧ್ಯಂತರದ ಪ್ರಕಾರ ಸಿಂಪಡಣೆಗಳನ್ನು ತಿರುಗುವಿಕೆಯಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಬಹುದು."
+      ],
+      "recommendations": [
+        "ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ಸುಟ್ಟುಹಾಕಿ.",
+        "ತಡೆಗಟ್ಟುವ ಕ್ರಮವಾಗಿ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಅನ್ವಯಿಸಿ.",
+        "ಉತ್ತಮ ಗಾಳಿಯ ಪ್ರಸರಣವನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Fruit Rot": {
+      "diseaseName": "ರೋಗ: ಆಂಥ್ರಾಕ್ನೋಸ್/ಹಣ್ಣಿನ ಕೊಳೆತ/ಕ್ಯಾಲಿಕ್ಸ್ ಕೊಳೆತ",
+      "description": "ಅರೆ-ಶುಷ್ಕ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ ಆಂಥ್ರಾಕ್ನೋಸ್/ಹಣ್ಣಿನ ಕೊಳೆತವು ಒಂದು ಪ್ರಮುಖ ಸಮಸ್ಯೆಯಾಗುತ್ತಿದೆ. ಈ ರೋಗವು ಉಷ್ಣವಲಯ ಮತ್ತು ಉಪೋಷ್ಣವಲಯದ ಪ್ರದೇಶಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿದೆ.",
+      "causalOrganism": "ಕೊಲೆಟೊಟ್ರಿಕಮ್ ಎಸ್ಪಿಪಿ.",
+      "symptoms": "ಕೊಲೆಟೊಟ್ರಿಕಮ್ ಲಕ್ಷಣಗಳು ಹೂವುಗಳು, ಹಣ್ಣುಗಳು, ಎಲೆಗಳು ಅಥವಾ ಕೊಂಬೆಗಳ ಮೇಲೆ ಬೆಳೆಯುತ್ತವೆ, ಆದರೆ ಹಣ್ಣುಗಳು ಹೆಚ್ಚು ಒಳಗಾಗುತ್ತವೆ.\n• ಎಲೆಗಳ ಮೇಲೆ, ಹಳದಿ ಪ್ರಭಾವಲಯಗಳೊಂದಿಗೆ ಸಣ್ಣ ವೃತ್ತಾಕಾರದ ಕಲೆಗಳು ಬೆಳೆಯುತ್ತವೆ; ನಂತರ ಸೋಂಕಿತ ಎಲೆಗಳು ಹಳದಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತವೆ, ಇದು ಅಕಾಲಿಕ ಎಲೆ ಉದುರುವಿಕೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ.\n• ಹಣ್ಣುಗಳ ಮೇಲೆ, ಮೊದಲ ಲಕ್ಷಣಗಳು ಕ್ಯಾಲಿಕ್ಸ್ ತುದಿಯಿಂದ ಹಣ್ಣಿನ ಸಿಪ್ಪೆಯ ಬಣ್ಣಬಣ್ಣ ಅಥವಾ ಹಲವಾರು ಪ್ರತ್ಯೇಕ ಕಲೆಗಳಾಗಿ ಕಂಡುಬರುತ್ತವೆ, ಅದು ನಂತರ ಒಟ್ಟಿಗೆ ಸೇರಿ ಹಣ್ಣಿನ ಮೇಲ್ಮೈಯಲ್ಲಿ ಅನಿಯಮಿತ ಕಲೆಗಳನ್ನು ರೂಪಿಸುತ್ತದೆ (ಕೊಲೆಟೊಟ್ರಿಕಮ್ ಎಸ್ಪಿಪಿ.)\n• ಬಣ್ಣಬಣ್ಣದ ಪ್ರದೇಶಗಳು ಕೆಂಪು/ಗಾಢ ಕಂದು ಬಣ್ಣದಿಂದ ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತವೆ. ಕೊಳೆತವು ಸಿಪ್ಪೆಯನ್ನು ಮೀರಿ ಅರಿಲ್‌ಗಳಿಗೆ ವಿಸ್ತರಿಸುತ್ತದೆ, ಅದು ವಿಘಟನೆಯಾಗುತ್ತದೆ ಮತ್ತು ಗಾಢ ಬೂದು/ಕಂದು-ಕಪ್ಪು ಬಣ್ಣದ್ದಾಗಿರುತ್ತದೆ ಆದರೆ ನೀರಿಲ್ಲ. ಪೀಡಿತ ಹಣ್ಣುಗಳು ನಂತರದ ಹಂತದಲ್ಲಿ ಬೀಳಬಹುದು.\n• ಹಣ್ಣುಗಳು ಸೆಟ್ಟಿಂಗ್‌ನಿಂದ ಎಲ್ಲಾ ಹಂತಗಳಲ್ಲಿ ಈ ರೋಗಕ್ಕೆ ಹೆಚ್ಚು ಗುರಿಯಾಗುತ್ತವೆ.",
+      "predisposingFactors": "25 - 30°C ತಾಪಮಾನ ಮತ್ತು ಹೆಚ್ಚಿನ ಆರ್ದ್ರತೆ (>60%) ರೋಗದ ಬೆಳವಣಿಗೆಗೆ ಅನುಕೂಲಕರವಾಗಿದೆ. ಬೇಸಿಗೆಯ ತಿಂಗಳುಗಳಲ್ಲಿ ಹೆಚ್ಚಿನ ಆರ್ದ್ರತೆ, ಮಳೆ ಮತ್ತು ಬೆಚ್ಚಗಿನ ತಾಪಮಾನವು ರೋಗದ ತೀವ್ರತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+      "chemicalManagementTitle": "ಕೊಲೆಟೊಟ್ರಿಕಮ್ ಕೊಳೆತಗಳ ರಾಸಾಯನಿಕ ನಿರ್ವಹಣೆ",
+      "chemicalManagementIntro": "ಹವಾಮಾನ ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಅವಲಂಬಿಸಿ 7-10 ದಿನಗಳ ಮಧ್ಯಂತರದಲ್ಲಿ ಕೆಳಗೆ ತಿಳಿಸಲಾದ ಸಿಂಪಡಣೆಗಳನ್ನು ಪರ್ಯಾಯವಾಗಿ ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಕೊನೆಯಲ್ಲಿ ನೀಡಲಾದ ಪ್ರಮುಖ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ.",
+      "sprays": [
+        "ಜಿನೆಬ್ 68% + ಹೆಕ್ಸಾಕೊನಜೋಲ್ 4% WP @ 2.5 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಟೆಬುಕೊನಜೋಲ್ 50% + ಟ್ರೈಫ್ಲಾಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ 25% WG @ 0.5 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಪ್ರೊಪಿನೆಬ್ 70% WP @ 3 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ತಾಮ್ರದ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ 45% + ಕಸುಗಾಮೈಸಿನ್ 5% WP @ 2.5 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಅಜೋಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ 8.3% + ಮ್ಯಾಂಕೋಜೆಬ್ 66.7% WG @ 1.5 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಫ್ಲೋಪಿರಮ್ 21.4% + ಟ್ರೈಫ್ಲಾಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ 21.4% SC @ 0.7 ಮಿಲಿ/ಲೀಟರ್",
+        "ಫ್ಲೋಪಿಕೊಲೈಡ್ 5.56% + ಪ್ರೊಪಮೊಕಾರ್ಬ್ ಹೈಡ್ರೋಕ್ಲೋರೈಡ್ 55.6% SC @ 1.25 ಮಿಲಿ/ಲೀಟರ್"
+      ],
+      "importantInstructionsTitle": "ಪ್ರಮುಖ ಸೂಚನೆಗಳು",
+      "instructions": [
+        "ಹೂಬಿಡುವ ಸಮಯದಲ್ಲಿ ಮ್ಯಾಂಡಿಪ್ರೊಪಮಿಡ್ 23.4% @ 1 ಮಿಲಿ/ಲೀಟರ್ (10-15 ದಿನಗಳಲ್ಲಿ 2-3 ಸಿಂಪಡಣೆಗಳು) ಸಿಂಪಡಿಸುವುದರಿಂದ ಅನೇಕ ಶಿಲೀಂಧ್ರ ರೋಗಗಳಿಗೆ ತಡೆಗಟ್ಟುವಿಕೆಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ ಇದನ್ನು ಹೂಬಿಡುವ ಸಮಯದಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಿ.",
+        "ಆ ದಿನ ಮಳೆಯ ನಿರೀಕ್ಷೆಯಿದ್ದರೆ ಸಿಂಪಡಣೆಯನ್ನು ತಪ್ಪಿಸಿ; ಮಳೆಯ ಕೆಲವು ಗಂಟೆಗಳ ನಂತರ ಸಿಂಪಡಿಸುವುದು ಉತ್ತಮ ಮತ್ತು ಬಹಳ ಮುಖ್ಯ.",
+        "ಅಂತಿಮ ದ್ರಾವಣವನ್ನು ತಯಾರಿಸಿದ ನಂತರ ಸಿಂಪಡಣೆಯ pH ಅನ್ನು ಪರಿಶೀಲಿಸಬೇಕು. ಅದನ್ನು 6.5-7.0 pH/ ಅಥವಾ ಶಿಲೀಂಧ್ರನಾಶಕ ಪ್ಯಾಕ್‌ನಲ್ಲಿ ಸೂಚಿಸಿದಂತೆ ಸರಿಹೊಂದಿಸಬೇಕು. ಇದು ರಾಸಾಯನಿಕ ಗಾಯಗಳನ್ನು ತಪ್ಪಿಸುತ್ತದೆ ಮತ್ತು ಉತ್ತಮ ಫಲಿತಾಂಶಗಳನ್ನು ನೀಡುತ್ತದೆ.",
+        "ಬೋರ್ಡೆಕ್ಸ್ ಮಿಶ್ರಣವನ್ನು ಹೊರತುಪಡಿಸಿ ಸಿಂಪಡಣೆಗಳೊಂದಿಗೆ ಯಾವಾಗಲೂ ಸ್ಪ್ರೆಡರ್ ಸ್ಟಿಕ್ಕರ್ ಬಳಸಿ.",
+        "ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ಯಾವುದೇ ಕೀಟನಾಶಕವನ್ನು ಒಂದು ಋತುವಿನಲ್ಲಿ 2-3 ಬಾರಿಗಿಂತ ಹೆಚ್ಚು ಬಳಸಬಾರದು.",
+        "ಅವಶೇಷ-ಮುಕ್ತ ಉತ್ಪಾದನೆಗಾಗಿ ಪೂರ್ವ-ಸುಗ್ಗಿಯ ಮಧ್ಯಂತರದ ಪ್ರಕಾರ ಸಿಂಪಡಣೆಗಳನ್ನು ತಿರುಗುವಿಕೆಯಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಬಹುದು."
+      ],
+      "recommendations": [
+        "ಪೀಡಿತ ಹಣ್ಣು ಮತ್ತು ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ನಾಶಮಾಡಿ.",
+        "ಸೂಕ್ತವಾದ ಶಿಲೀಂಧ್ರನಾಶಕವನ್ನು (ಉದಾ., ಜಿನೆಬ್, ಟೆಬುಕೊನಜೋಲ್) ಅನ್ವಯಿಸಿ.",
+        "ಸಮರುವಿಕೆ ಮೂಲಕ ಗಾಳಿಯ ಪ್ರಸರಣವನ್ನು ಸುಧಾರಿಸಿ."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Healthy": {
+      "description": "ಯಾವುದೇ ನಿರ್ದಿಷ್ಟ ನಿರ್ವಹಣೆ ಅಗತ್ಯವಿಲ್ಲ. ಒತ್ತಡ ಅಥವಾ ರೋಗದ ಯಾವುದೇ ಚಿಹ್ನೆಗಳಿಗಾಗಿ ಸಸ್ಯವನ್ನು ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡುವುದನ್ನು ಮುಂದುವರಿಸಿ ಮತ್ತು ಉತ್ತಮ ಕೃಷಿ ಪದ್ಧತಿಗಳನ್ನು ನಿರ್ವಹಿಸಿ."
+    },
+    "Fungal Scab": {
+      "diseaseName": "ರೋಗ: ಹಣ್ಣಿನ ಸ್ಕ್ಯಾಬ್",
+      "description": "2016 ರಿಂದ, ಭಾರತದ ಶುಷ್ಕ ಮತ್ತು ಅರೆ-ಶುಷ್ಕ ಪ್ರದೇಶಗಳಲ್ಲಿ ದಾಳಿಂಬೆ ಉತ್ಪಾದನೆಯಲ್ಲಿ ಸ್ಕ್ಯಾಬ್ ಒಂದು ಸೀಮಿತಗೊಳಿಸುವ ಅಂಶವಾಗಿದೆ. ರೋಗವು ಪ್ರಚಲಿತದಲ್ಲಿರುವ ಪ್ರದೇಶಗಳಲ್ಲಿ, 90-100% ಹಣ್ಣುಗಳು ಪೀಡಿತವಾಗಿರುವ ತೋಟಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ಅಸಾಮಾನ್ಯವೇನಲ್ಲ.",
+      "causalOrganism": "ಸ್ಫಾಸೆಲೋಮಾ (syn. ಎಲ್ಸಿನೋ) ಪುನಿಕೇ",
+      "symptoms": "ರೋಗಕಾರಕವು ಹೂಬಿಡುವಿಕೆಯಿಂದ ಹಣ್ಣಿನ ಪಕ್ವತೆಯವರೆಗೆ ಯಾವುದೇ ಹಂತದಲ್ಲಿ ದಾಳಿ ಮಾಡುತ್ತದೆ. ಹೂವಿನ ಮೊಗ್ಗುಗಳು ಅಥವಾ ಸಣ್ಣ ಹಣ್ಣುಗಳ ಸೋಂಕುಗಳು ವಿರೂಪಕ್ಕೆ ಮತ್ತು ಪರಿಣಾಮವಾಗಿ ಇಳುವರಿ ನಷ್ಟಕ್ಕೆ ಕಾರಣವಾಗುತ್ತವೆ. ಪ್ರೌಢ ಹಣ್ಣುಗಳ ಸೋಂಕು ಹಣ್ಣುಗಳ ನೋಟ ಮತ್ತು ಬಾಹ್ಯ ಗುಣಮಟ್ಟದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ. ಗಾಯಗಳು ಹೊರಗಿನ ಸಿಪ್ಪೆಯ ಮೇಲ್ಮೈಗೆ ಮಾತ್ರ ಪರಿಣಾಮ ಬೀರುತ್ತವೆ, ಅರಿಲ್ ಅಥವಾ ರಸದ ಗುಣಮಟ್ಟದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ.\n• ಹಣ್ಣುಗಳ ಮೇಲಿನ ಗಾಯಗಳು ಸಣ್ಣ ಅಥವಾ ದೊಡ್ಡದಾಗಿರಬಹುದು, ಕಂದು, ಒರಟು, ಎತ್ತರವಾಗಿ, ಸಣ್ಣ ಪ್ರದೇಶಗಳಿಂದ ಹಿಡಿದು ಸಂಪೂರ್ಣ ಹಣ್ಣಿನ ಮೇಲ್ಮೈಯನ್ನು ಆವರಿಸಿ, ಸಿಪ್ಪೆಗೆ ರಸೆಟ್ ಸ್ಕ್ಯಾಬ್ ನೋಟವನ್ನು ನೀಡುತ್ತದೆ.\n• ಚುಕ್ಕೆಗಳು ಕೆಲವೊಮ್ಮೆ ದೊಡ್ಡದಾಗಿ, ತಿಳಿ ಕೇಂದ್ರ ಮತ್ತು ಗಾಢ ಅಂಚುಗಳೊಂದಿಗೆ ದೊಡ್ಡ ಚುಕ್ಕೆಗಳನ್ನು ರೂಪಿಸುತ್ತವೆ ಮತ್ತು ಸ್ಪರ್ಶಕ್ಕೆ ಒರಟಾಗಿರುತ್ತವೆ.\n• ಇದು ಸಣ್ಣ ಒರಟು, ಎತ್ತರದ ಚುಕ್ಕೆಗಳಿಂದ ಹಿಡಿದು ಸಂಪೂರ್ಣ ಹಣ್ಣಿನ ಮೇಲ್ಮೈಯನ್ನು ಆವರಿಸುವ ದೊಡ್ಡ ಕಂದು ಚುಕ್ಕೆಗಳವರೆಗೆ ವಿವಿಧ ಆಕಾರ ಮತ್ತು ಗಾತ್ರದ ಚುಕ್ಕೆಗಳನ್ನು ಉತ್ಪಾದಿಸುತ್ತದೆ, ರಸೆಟ್ ನೋಟವನ್ನು ಹೊಂದಿರುತ್ತದೆ.",
+      "predisposingFactors": "22 - 28°C ತಾಪಮಾನ, ಮಳೆ ಮತ್ತು ಗಾಳಿಯೊಂದಿಗೆ 45 - 65% ಆರ್ದ್ರತೆಯು ರೋಗದ ಬೆಳವಣಿಗೆಗೆ ಅನುಕೂಲಕರವಾಗಿದೆ.",
+      "chemicalManagementTitle": "ಹಣ್ಣಿನ ಸ್ಕ್ಯಾಬ್‌ನ ರಾಸಾಯನಿಕ ನಿರ್ವಹಣೆ",
+      "chemicalManagementIntro": "ಈ ರೋಗವು ಸಾಮಾನ್ಯವಾಗಿ ಮಳೆಯ ನಂತರ ಹಣ್ಣುಗಳ ಮೇಲೆ ಕಂಡುಬರುತ್ತದೆ. ಹಣ್ಣುಗಳು ಇಲ್ಲದಿದ್ದಾಗ ಎಲೆಗಳ ಮೇಲೆ ಸಾಮಾನ್ಯವಾಗಿ ಕಂಡುಬರುತ್ತದೆ. ಕಳೆದ ಋತುವಿನಲ್ಲಿಯೂ ನಿಮಗೆ ಸ್ಕ್ಯಾಬ್ ಇದ್ದರೆ ರೋಗದ ಲಕ್ಷಣಗಳಿಗಾಗಿ ಕಾಯಬೇಡಿ, ಮಳೆಯ ನಂತರ ತಡೆಗಟ್ಟುವ ಸಿಂಪಡಣೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಹವಾಮಾನ ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಅವಲಂಬಿಸಿ 7-10 ದಿನಗಳ ಮಧ್ಯಂತರದಲ್ಲಿ ಕೆಳಗೆ ತಿಳಿಸಲಾದ ಸಿಂಪಡಣೆಗಳನ್ನು ಪರ್ಯಾಯವಾಗಿ ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಕೊನೆಯಲ್ಲಿ ನೀಡಲಾದ ಪ್ರಮುಖ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ,",
+      "sprays": [
+        "ಮೆಟಿರಾಮ್ 55% WG + ಪೈರಾಕ್ಲೋಸ್ಟ್ರೋಬಿನ್ 5% @ 3 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಟೆಬುಕೊನಜೋಲ್ 50% + ಟ್ರೈಫ್ಲಾಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ 25% WG @ 0.5 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಅಜೋಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ 18.2% + ಡೈಫೆನೊಕೊನಜೋಲ್ 11.4% SC @ 1 ಮಿಲಿ/ಲೀಟರ್",
+        "ಜಿನೆಬ್ 68% + ಹೆಕ್ಸಾಕೊನಜೋಲ್ 4% WP @ 2.5 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಫ್ಲೋಪಿಕೊಲೈಡ್ 5.56% + ಪ್ರೊಪಮೊಕಾರ್ಬ್ ಹೈಡ್ರೋಕ್ಲೋರೈಡ್ 55.6% SC @"
+      ],
+      "chemicalManagementNote": "ಗಮನಿಸಿ: ಮಳೆಯ ನಂತರ ಶೀಘ್ರದಲ್ಲೇ ನೀಡಿದರೆ ಉತ್ತಮ ಫಲಿತಾಂಶಗಳು.",
+      "importantInstructionsTitle": "ಪ್ರಮುಖ ಸೂಚನೆಗಳು",
+      "instructions": [
+        "ಹೂಬಿಡುವ ಸಮಯದಲ್ಲಿ ಮ್ಯಾಂಡಿಪ್ರೊಪಮಿಡ್ 23.4% @ 1 ಮಿಲಿ/ಲೀಟರ್ (10-15 ದಿನಗಳಲ್ಲಿ 2-3 ಸಿಂಪಡಣೆಗಳು) ಸಿಂಪಡಿಸುವುದರಿಂದ ಸೆರ್ಕೊಸ್ಪೊರಾ ಹಣ್ಣು ಮತ್ತು ಎಲೆ ಚುಕ್ಕೆ ಮತ್ತು ಸ್ಕ್ಯಾಬ್ ಸೇರಿದಂತೆ ಅನೇಕ ಶಿಲೀಂಧ್ರ ರೋಗಗಳಿಗೆ ತಡೆಗಟ್ಟುವಿಕೆಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ ಇದನ್ನು ಹೂಬಿಡುವ ಸಮಯದಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಿ.",
+        "ಸೆಟ್ಟಿಂಗ್‌ನಲ್ಲಿ ಸೋಂಕಿತ ವಿರೂಪಗೊಂಡ ಹಣ್ಣುಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ನಾಶಪಡಿಸಬಹುದು. ಎಲ್ಲಿಯೂ ಡಂಪ್ ಮಾಡಬೇಡಿ ಅಥವಾ ಎಸೆಯಬೇಡಿ.",
+        "ಆ ದಿನ ಮಳೆಯ ನಿರೀಕ್ಷೆಯಿದ್ದರೆ ಸಿಂಪಡಣೆಯನ್ನು ತಪ್ಪಿಸಿ; ಸ್ಕ್ಯಾಬ್ ಸೋಂಕನ್ನು ತಪ್ಪಿಸಲು ಮಳೆಯ ಕೆಲವು ಗಂಟೆಗಳ ನಂತರ ಸಿಂಪಡಿಸುವುದು ಉತ್ತಮ ಮತ್ತು ಬಹಳ ಮುಖ್ಯ.",
+        "ಅಂತಿಮ ದ್ರಾವಣವನ್ನು ತಯಾರಿಸಿದ ನಂತರ ಸಿಂಪಡಣೆಯ pH ಅನ್ನು ಪರಿಶೀಲಿಸಬೇಕು. ಅದನ್ನು 6.5-7.0 pH/ ಅಥವಾ ಶಿಲೀಂಧ್ರನಾಶಕ ಪ್ಯಾಕ್‌ನಲ್ಲಿ ಸೂಚಿಸಿದಂತೆ ಸರಿಹೊಂದಿಸಬೇಕು. ಇದು ರಾಸಾಯನಿಕ ಗಾಯಗಳನ್ನು ತಪ್ಪಿಸುತ್ತದೆ ಮತ್ತು ಉತ್ತಮ ಫಲಿತಾಂಶಗಳನ್ನು ನೀಡುತ್ತದೆ.",
+        "ಬೋರ್ಡೆಕ್ಸ್ ಮಿಶ್ರಣವನ್ನು ಹೊರತುಪಡಿಸಿ ಸಿಂಪಡಣೆಗಳೊಂದಿಗೆ ಯಾವಾಗಲೂ ಸ್ಪ್ರೆಡರ್ ಸ್ಟಿಕ್ಕರ್ ಬಳಸಿ.",
+        "ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ಯಾವುದೇ ಕೀಟನಾಶಕವನ್ನು ಒಂದು ಋತುವಿನಲ್ಲಿ 2-3 ಬಾರಿಗಿಂತ ಹೆಚ್ಚು ಬಳಸಬಾರದು.",
+        "ಅವಶೇಷ-ಮುಕ್ತ ಉತ್ಪಾದನೆಗಾಗಿ ಪೂರ್ವ-ಸುಗ್ಗಿಯ ಮಧ್ಯಂತರದ ಪ್ರಕಾರ ಸಿಂಪಡಣೆಗಳನ್ನು ತಿರುಗುವಿಕೆಯಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಬಹುದು."
+      ],
+      "recommendations": [
+        "ಸೋಂಕಿತ ಅಥವಾ ವಿರೂಪಗೊಂಡ ಹಣ್ಣುಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ನಾಶಮಾಡಿ.",
+        "ಮಳೆಯ ನಂತರ ತಡೆಗಟ್ಟುವ ಸಿಂಪಡಣೆಗಳನ್ನು (ಉದಾ., ಮೆಟಿರಾಮ್, ಟೆಬುಕೊನಜೋಲ್) ಅನ್ವಯಿಸಿ.",
+        "ಗಾಳಿಯ ಪ್ರಸರಣವನ್ನು ಸುಧಾರಿಸಲು ಮರಗಳನ್ನು ಸಮರುವಿಕೆ ಮಾಡಿ."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Bacterial": {
+      "diseaseName": "ರೋಗ: ಬ್ಯಾಕ್ಟೀರಿಯಲ್ ಎಲೆ ಚುಕ್ಕೆ/ಎಣ್ಣೆಯುಕ್ತ ಚುಕ್ಕೆ",
+      "description": "ಅನುಕೂಲಕರ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ ದಾಳಿಂಬೆಯಲ್ಲಿ ಬ್ಯಾಕ್ಟೀರಿಯಲ್ ಬ್ಲೈಟ್ ಆರ್ಥಿಕ ಇಳುವರಿ ನಷ್ಟವನ್ನು (60-100%) ಉಂಟುಮಾಡುತ್ತದೆ. ಇದು ಜೂನ್-ಜುಲೈನಲ್ಲಿ ಮಳೆಗಾಲದಲ್ಲಿ (ಮೃಗ ಬಹಾರ್) ಹೆಚ್ಚು ತೀವ್ರ ಮತ್ತು ಪ್ರಚಲಿತವಾಗಿದೆ ಮತ್ತು ರಬಿ ಋತುವಿನಲ್ಲಿ (ಹಸ್ತಾ ಬಹಾರ್) ಕಡಿಮೆಯಾಗಿದೆ.",
+      "causalOrganism": "ಕ್ಸಾಂಥೋಮೊನಾಸ್ ಆಕ್ಸೊನೊಪೊಡಿಸ್ ಪಿವಿ. ಪುನಿಕೇ (Syn: ಕ್ಸಾಂಥೋಮೊನಾಸ್ ಸಿಟ್ರಿ ಪಿವಿ. ಪುನಿಕೇ)",
+      "symptoms": "• ರೋಗದ ಲಕ್ಷಣಗಳು ಎಲೆಗಳು, ಕಾಂಡಗಳು, ಹೂವುಗಳು ಮತ್ತು ಹಣ್ಣುಗಳಂತಹ ಎಲ್ಲಾ ಸಸ್ಯ ಭಾಗಗಳಲ್ಲಿ ಕಂಡುಬರುತ್ತವೆ.\n• ಆರಂಭದಲ್ಲಿ, ಎಲೆಗಳ ಮೇಲೆ ಸಣ್ಣ ಅನಿಯಮಿತ ಬೂದು-ಕಪ್ಪು ನೀರಿನಿಂದ ಕೂಡಿದ ಗಾಯಗಳು ಕಂಡುಬರುತ್ತವೆ, ಅದು ರೋಗದ ಪ್ರಗತಿಯೊಂದಿಗೆ ದೊಡ್ಡದಾಗುತ್ತದೆ. ರೋಗಗ್ರಸ್ತ ಎಲೆಗಳು ಕ್ರಮೇಣ ಹಳದಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ ಬೀಳುತ್ತವೆ (ಪ್ಲೇಟ್ 1a).\n• ಮಳೆ/ಸಿಂಪಡಣೆ/ಇಬ್ಬನಿಯ ನಂತರ ಬ್ಯಾಕ್ಟೀರಿಯಾದ ಸ್ರವಿಸುವಿಕೆಯು ಹೊರಬರುತ್ತದೆ, ಇದು ಕೈಗಳಿಗೆ ಜಿಗುಟಾದಂತೆ ಭಾಸವಾಗುತ್ತದೆ ಮತ್ತು ಒಣಗಿದ ನಂತರ ಮೇಲ್ಮೈಯಲ್ಲಿ ಬಿಳಿ ಹೊಳೆಯುವ ಪದರವನ್ನು ನೀಡುತ್ತದೆ. (ಪ್ಲೇಟ್ 1c).",
+      "predisposingFactors": "ತಾಪಮಾನ (25 – 30° C), ಸಾಪೇಕ್ಷ ಆರ್ದ್ರತೆ (>50%), ಮಳೆ, ಶಿಫಾರಸು ಮಾಡಿದ್ದಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಸಾರಜನಕ ಪ್ರಮಾಣಗಳ ಅನ್ವಯ, ಸೂಕ್ಷ್ಮ ಪೋಷಕಾಂಶಗಳ ಕೊರತೆ.",
+      "cropSeasonManagementTitle": "ಬೆಳೆ ಋತುವಿನಲ್ಲಿ ನಿರ್ವಹಣಾ ಅಭ್ಯಾಸಗಳು",
+      "cropSeasonManagement": [
+        "ಸುಗ್ಗಿಯ ನಂತರ ವಿಶ್ರಾಂತಿ ಅವಧಿಯಲ್ಲಿ ಮತ್ತು ಹಣ್ಣು ಬಿಡುವವರೆಗೆ ಹೊಸ ತೋಟವನ್ನು ನೆಟ್ಟ ನಂತರವೂ ರೋಗನಿರೋಧಕ ಸಿಂಪಡಣೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು.",
+        "ತೋಟ/ನೆರೆಯ ತೋಟಗಳಲ್ಲಿ ಇರುವ ರೋಗ ಮತ್ತು ಹವಾಮಾನ ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಅವಲಂಬಿಸಿ 15 - 20 ದಿನಗಳ ಮಧ್ಯಂತರದಲ್ಲಿ ಬ್ರೊನೊಪೋಲ್ @ 0.5 ಗ್ರಾಂ/ಲೀಟರ್ ನೊಂದಿಗೆ ತಾಮ್ರದ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ ಅಥವಾ ತಾಮ್ರದ ಹೈಡ್ರಾಕ್ಸೈಡ್ @ 2 -2.5 ಗ್ರಾಂ/ಲೀಟರ್ ನಂತಹ ತಾಮ್ರ ಆಧಾರಿತ ಸೂತ್ರೀಕರಣಗಳೊಂದಿಗೆ ಬದಲಾಯಿಸಲಾದ ಬೋರ್ಡೆಕ್ಸ್ ಮಿಶ್ರಣವನ್ನು (1%) ಸಿಂಪಡಿಸಿ.",
+        "ತೋಟಗಳು ವಿಶ್ರಾಂತಿ ಅವಧಿಯಲ್ಲಿದ್ದರೆ ಮತ್ತು ಎಲೆ ಬ್ಲೈಟ್ ಸೋಂಕನ್ನು ಹೊಂದಿದ್ದರೆ, ಬೋರ್ಡೆಕ್ಸ್ ಮಿಶ್ರಣ ಮತ್ತು ಬ್ರೊನೊಪೋಲ್‌ನೊಂದಿಗೆ ಪರ್ಯಾಯವಾಗಿ ಸ್ಟ್ರೆಪ್ಟೊಸೈಕ್ಲಿನ್ @ 0.5 ಗ್ರಾಂ/ಲೀಟರ್ ನ ಒಂದು ಸಿಂಪಡಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಬಹುದು."
+      ],
+      "cropSeasonManagementNote": "ಗಮನಿಸಿ: ಇದು ಬ್ಯಾಕ್ಟೀರಿಯಲ್ ಬ್ಲೈಟ್ ಮುಕ್ತ ಪ್ರದೇಶವಾಗಿದ್ದರೆ ಸ್ಟ್ರೆಪ್ಟೊಸೈಕ್ಲಿನ್ ಅಥವಾ ಬ್ರೊನೊಪೋಲ್ ಸಿಂಪಡಣೆಗಳ ಅಗತ್ಯವಿಲ್ಲ.",
+      "emergencySpraysTitle": "ತುರ್ತು ಸಿಂಪಡಣೆಗಳು",
+      "emergencySpraysIntro": "ಎಲೆಗಳ ಮೇಲೆ 5-10% ಬ್ಲೈಟ್ ಸೋಂಕು ಕಂಡುಬಂದ ತಕ್ಷಣ 4 ದಿನಗಳ ಮಧ್ಯಂತರದಲ್ಲಿ 1-2 ಸಿಂಪಡಣೆಗಳು ಮತ್ತಷ್ಟು ಬ್ಲೈಟ್ ಹರಡುವುದನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತವೆ.",
+      "emergencySprays": [
+        "ಸ್ಟ್ರೆಪ್ಟೊಸೈಕ್ಲಿನ್ @ 0.5 ಗ್ರಾಂ/ಲೀಟರ್ + 2-ಬ್ರೋಮೋ-ನೈಟ್ರೋಪ್ರೊಪೇನ್-1, 3-ಡಯೋಲ್ (ಬ್ರೊನೊಪೋಲ್ 95%) @ 0.5 ಗ್ರಾಂ/ಲೀಟರ್ + ತಾಮ್ರದ ಹೈಡ್ರಾಕ್ಸೈಡ್ 53.8% WP @ 2.0 ಗ್ರಾಂ/ಲೀಟರ್ + ಸ್ಪ್ರೆಡರ್ ಸ್ಟಿಕ್ಕರ್ @ 0.5 ಮಿಲಿ/ಲೀಟರ್ ದ್ರಾವಣ.",
+        "ಸ್ಟ್ರೆಪ್ಟೊಸೈಕ್ಲಿನ್ @ 0.5 ಗ್ರಾಂ/ಲೀಟರ್ + 2-ಬ್ರೋಮೋ-ನೈಟ್ರೋಪ್ರೊಪೇನ್-1, 3-ಡಯೋಲ್ (ಬ್ರೊನೊಪೋಲ್ 95%) @ 0.5 ಗ್ರಾಂ/ಲೀಟರ್ + ಕಾರ್ಬೆಂಡಜಿಮ್ 50% WP @ 1.0 ಗ್ರಾಂ/ಲೀಟರ್ + ಸ್ಪ್ರೆಡರ್ ಸ್ಟಿಕ್ಕರ್ @ 0.5 ಮಿಲಿ/ಲೀಟರ್ ದ್ರಾವಣ."
+      ],
+      "emergencySpraysNote": "ಗಮನಿಸಿ:\n• ಪ್ರತಿ ಸಿಂಪಡಣೆಯ ಮೊದಲು ಬ್ಲೈಟ್ ಪೀಡಿತ ಹಣ್ಣುಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ನಾಶಮಾಡಿ. ಸರಿಯಾದ ತೋಟದ ನೈರ್ಮಲ್ಯವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ ಮತ್ತು ವಿಶ್ರಾಂತಿ ಅವಧಿಯಲ್ಲಿ ತಡೆಗಟ್ಟುವ ಸಿಂಪಡಣೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.",
+      "recommendations": [
+        "ಎಲೆಗಳನ್ನು ಒಣಗಿಸಲು ಓವರ್ಹೆಡ್ ನೀರಾವರಿಯನ್ನು ತಪ್ಪಿಸಿ.",
+        "ತಡೆಗಟ್ಟುವ ಕ್ರಮವಾಗಿ ತಾಮ್ರ-ಆಧಾರಿತ ಸಿಂಪಡಣೆಗಳನ್ನು ಅನ್ವಯಿಸಿ.",
+        "ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತಕ್ಷಣವೇ ತೆಗೆದುಹಾಕಿ ಮತ್ತು ನಾಶಮಾಡಿ."
+      ]
+    },
+    "Fungal": {
+      "diseaseName": "ರೋಗ: ಶಿಲೀಂಧ್ರ ಎಲೆ ಚುಕ್ಕೆಗಳು",
+      "description": "ದಾಳಿಂಬೆಯು ಹಲವಾರು ಎಲೆ ಚುಕ್ಕೆಗಳನ್ನು ಉಂಟುಮಾಡುವ ರೋಗಕಾರಕಗಳಿಗೆ ಒಳಗಾಗುತ್ತದೆ, ಇದು ಹಣ್ಣಿನ ಇಳುವರಿ ಮತ್ತು ಗುಣಮಟ್ಟವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+      "causalOrganism": "ಎಲೆ ಚುಕ್ಕೆಗಳು ಆಲ್ಟರ್ನೇರಿಯಾ ಆಲ್ಟರ್ನೇಟಾ, ಸೆರ್ಕೊಸ್ಪೊರಾ ಪುನಿಕೇ (ಸ್ಯುಡೋಸೆರ್ಕೊಸ್ಪೊರಾ ಪುನಿಕೇ), ಕೊಲೆಟೊಟ್ರಿಕಮ್ ಎಸ್ಪಿ, ಡ್ರೆಕ್ಸ್ಕ್ಲೆರಾ ರೋಸ್ಟ್ರಾಟಾ ಮುಂತಾದ ಅನೇಕ ಶಿಲೀಂಧ್ರ ರೋಗಕಾರಕಗಳಿಂದ ಉಂಟಾಗುತ್ತವೆ. ಇದಲ್ಲದೆ, ಬೊಟ್ರಿಯೊಡಿಪ್ಲೋಡಿಯಾ ಥಿಯೋಬ್ರೊಮೇ, ಕರ್ವುಲೇರಿಯಾ ಎಸ್ಪಿ, ಪೆಸ್ಟಲೋಟಿಯೋಪ್ಸಿಸ್ ಎಸ್ಪಿ ಮುಂತಾದ ಅನೇಕ ಇತರ ಶಿಲೀಂಧ್ರ ಪ್ರಭೇದಗಳಿಂದ ಎಲೆ ಚುಕ್ಕೆಗಳು ಉಂಟಾಗುತ್ತವೆ ಎಂದು ವರದಿಯಾಗಿದೆ.",
+      "symptoms": "ವಿವಿಧ ರೋಗಕಾರಕಗಳು ವಿಶೇಷವಾಗಿ ಎಲೆಗಳು, ಕಾಂಡಗಳ ಮೇಲೆ ವಿಶಿಷ್ಟವಾದ ಚುಕ್ಕೆ ಲಕ್ಷಣಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಇದರ ನಿಖರವಾದ ಗುರುತನ್ನು ಸೂಕ್ಷ್ಮದರ್ಶಕ ಮತ್ತು ಶುದ್ಧ ಸಂಸ್ಕೃತಿ ಅಧ್ಯಯನಗಳ ಮೂಲಕ ಮಾತ್ರ ಮಾಡಬಹುದು, ಏಕೆಂದರೆ ಹೆಚ್ಚಿನ ಸಮಯ ನೈಸರ್ಗಿಕ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ ಅತಿಕ್ರಮಿಸುವ ರೋಗ ಲಕ್ಷಣಗಳು ಕಂಡುಬರುತ್ತವೆ. ಎಲೆ ಮತ್ತು ಹಣ್ಣಿನ ಚುಕ್ಕೆಗಳಲ್ಲಿ, ಸೆರ್ಕೊಸ್ಪೊರಾ ಚುಕ್ಕೆಗಳು ದಾಳಿಂಬೆಯ ಮೇಲೆ ಹೆಚ್ಚು ಪ್ರಮುಖವಾಗಿವೆ.",
+      "predisposingFactors": "20 - 30°C ನಡುವಿನ ತಾಪಮಾನ ಮತ್ತು ದೀರ್ಘಕಾಲದವರೆಗೆ 60% ಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಆರ್ದ್ರತೆಯು ರೋಗದ ಬೆಳವಣಿಗೆಗೆ ಅನುಕೂಲಕರವಾಗಿದೆ. ಮಳೆಗಾಲದಲ್ಲಿ ಎಲೆ ಮತ್ತು ಹಣ್ಣಿನ ಚುಕ್ಕೆಗಳು ಹೆಚ್ಚಾಗಿ ಕಂಡುಬರುತ್ತವೆ.",
+      "chemicalManagementTitle": "ಶಿಲೀಂಧ್ರ ಎಲೆ ಚುಕ್ಕೆಗಳ ರಾಸಾಯನಿಕ ನಿರ್ವಹಣೆ",
+      "chemicalManagementIntro": "ಹವಾಮಾನ ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಅವಲಂಬಿಸಿ 7-10 ದಿನಗಳ ಮಧ್ಯಂತರದಲ್ಲಿ ಕೆಳಗೆ ತಿಳಿಸಲಾದ ಸಿಂಪಡಣೆಗಳನ್ನು ಪರ್ಯಾಯವಾಗಿ ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ಕೊನೆಯಲ್ಲಿ ನೀಡಲಾದ ಪ್ರಮುಖ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ.",
+      "sprays": [
+        "ಜಿನೆಬ್ 75% WP @ 2 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಜಿನೆಬ್ 68% + ಹೆಕ್ಸಾಕೊನಜೋಲ್ 4% WP @ 2.5 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಮೆಟಿರಾಮ್ 55% WG + ಪೈರಾಕ್ಲೋಸ್ಟ್ರೋಬಿನ್ 5% @ 3 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಟೆಬುಕೊನಜೋಲ್ 50% + ಟ್ರೈಫ್ಲಾಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ 25% WG @ 0.5 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಪ್ರೊಪಿನೆಬ್ 70% WP @ 3 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಟ್ರೈಸೈಕ್ಲಾಜೋಲ್ 18% + ಮ್ಯಾಂಕೋಜೆಬ್ 62% WP 2.5 ರಿಂದ 3.0 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ತಾಮ್ರದ ಸಲ್ಫೇಟ್ 47.15% + ಮ್ಯಾಂಕೋಜೆಬ್ 30% WDG @ 2.5 ಗ್ರಾಂ/ಲೀಟರ್",
+        "ಅಜೋಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ 8.3% + ಮ್ಯಾಂಕೋಜೆಬ್ 66.7% WG @ 1.5 ಗ್ರಾಂ/ಲೀಟರ್"
+      ],
+      "importantInstructionsTitle": "ಪ್ರಮುಖ ಸೂಚನೆಗಳು",
+      "instructions": [
+        "ಹೂಬಿಡುವ ಸಮಯದಲ್ಲಿ ಮ್ಯಾಂಡಿಪ್ರೊಪಮಿಡ್ 23.4% @ 1 ಮಿಲಿ/ಲೀಟರ್ (10-15 ದಿನಗಳಲ್ಲಿ 2-3 ಸಿಂಪಡಣೆಗಳು) ಸಿಂಪಡಿಸುವುದರಿಂದ ಸೆರ್ಕೊಸ್ಪೊರಾ ಹಣ್ಣು ಮತ್ತು ಎಲೆ ಚುಕ್ಕೆ ಮತ್ತು ಸ್ಕ್ಯಾಬ್ ಸೇರಿದಂತೆ ಅನೇಕ ಶಿಲೀಂಧ್ರ ರೋಗಗಳಿಗೆ ತಡೆಗಟ್ಟುವಿಕೆಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ ಇದನ್ನು ಹೂಬಿಡುವ ಸಮಯದಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಿ.",
+        "ಆ ದಿನ ಮಳೆಯ ನಿರೀಕ್ಷೆಯಿದ್ದರೆ ಸಿಂಪಡಣೆಯನ್ನು ತಪ್ಪಿಸಿ; ಮಳೆಯ ಕೆಲವು ಗಂಟೆಗಳ ನಂತರ ಸಿಂಪಡಿಸುವುದು ಉತ್ತಮ ಮತ್ತು ಬಹಳ ಮುಖ್ಯ.",
+        "ಅಂತಿಮ ದ್ರಾವಣವನ್ನು ತಯಾರಿಸಿದ ನಂತರ ಸಿಂಪಡಣೆಯ pH ಅನ್ನು ಪರಿಶೀಲಿಸಬೇಕು. ಅದನ್ನು 6.5-7.0 pH/ ಅಥವಾ ಶಿಲೀಂಧ್ರನಾಶಕ ಪ್ಯಾಕ್‌ನಲ್ಲಿ ಸೂಚಿಸಿದಂತೆ ಸರಿಹೊಂದಿಸಬೇಕು. ಇದು ರಾಸಾಯನಿಕ ಗಾಯಗಳನ್ನು ತಪ್ಪಿಸುತ್ತದೆ ಮತ್ತು ಉತ್ತಮ ಫಲಿತಾಂಶಗಳನ್ನು ನೀಡುತ್ತದೆ.",
+        "ಬೋರ್ಡೆಕ್ಸ್ ಮಿಶ್ರಣವನ್ನು ಹೊರತುಪಡಿಸಿ ಸಿಂಪಡಣೆಗಳೊಂದಿಗೆ ಯಾವಾಗಲೂ ಸ್ಪ್ರೆಡರ್ ಸ್ಟಿಕ್ಕರ್ ಬಳಸಿ.",
+        "ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ಯಾವುದೇ ಕೀಟನಾಶಕವನ್ನು ಒಂದು ಋತುವಿನಲ್ಲಿ 2-3 ಬಾರಿಗಿಂತ ಹೆಚ್ಚು ಬಳಸಬಾರದು.",
+        "ಅವಶೇಷ-ಮುಕ್ತ ಉತ್ಪಾದನೆಗಾಗಿ ಪೂರ್ವ-ಸುಗ್ಗಿಯ ಮಧ್ಯಂತರದ ಪ್ರಕಾರ ಸಿಂಪಡಣೆಗಳನ್ನು ತಿರುಗುವಿಕೆಯಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳಬಹುದು."
+      ],
+      "recommendations": [
+        "ಸೂಕ್ತವಾದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಅನ್ವಯಿಸಿ, ವಿವಿಧ ರಾಸಾಯನಿಕ ಗುಂಪುಗಳ ನಡುವೆ ತಿರುಗಿಸಿ.",
+        "ಸಮರುವಿಕೆ ಮೂಲಕ ಗಾಳಿಯ ಪ್ರಸರಣವನ್ನು ಸುಧಾರಿಸಿ.",
+        "ಎಲೆಗಳನ್ನು ಒಣಗಿಸಲು ಸಸ್ಯದ ಬುಡದಲ್ಲಿ ನೀರು ಹಾಕಿ."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    }
+  },
+  "te": {
+    "Bacterial Blight": {
+      "diseaseName": "వ్యాధి: బాక్టీరియల్ బ్లైట్",
+      "description": "అనుకూల పరిస్థితులలో దానిమ్మలో బాక్టీరియల్ బ్లైట్ ఆర్థిక దిగుబడి నష్టాలను (60-100%) కలిగిస్తుంది. ఇది జూన్-జూలైలో వర్షాకాలంలో (మృగ్ బహార్) మరింత తీవ్రంగా మరియు ప్రబలంగా ఉంటుంది మరియు రబీ సీజన్‌లో (హస్తా బహార్) తక్కువగా ఉంటుంది.",
+      "causalOrganism": "క్సాంతోమోనాస్ ఆక్సోనోపోడిస్ పివి. పునికే (Syn: క్సాంతోమోనాస్ సిట్రి పివి. పునికే)",
+      "symptoms": "• వ్యాధి లక్షణాలు ఆకులు, కాండం, పువ్వులు మరియు పండ్ల వంటి అన్ని మొక్కల భాగాలపై గమనించబడతాయి.\n• ప్రారంభంలో, ఆకులపై చిన్న неправильные బూడిద-నలుపు నీటితో తడిసిన గాయాలు గమనించబడతాయి, ఇవి వ్యాధి పురోగతితో పెద్దవిగా మారతాయి. వ్యాధి సోకిన ఆకులు క్రమంగా పసుపు రంగులోకి మారి రాలిపోతాయి (ప్లేట్ 1a).\n• కొమ్మలు మరియు కాండంపై నల్లటి గాయాలు ప్రధానంగా నోడ్ల వద్ద గమనించబడతాయి, దీని ఫలితంగా అణచివేయబడిన పెరుగుదలతో క్యాంకర్ ఏర్పడుతుంది (ప్లేట్ 1b).\n• అభివృద్ధి చెందిన పండ్లపై వ్యాధి లక్షణాలు ప్రముఖంగా ఉంటాయి. బూడిద-నలుపు గాయాలు పెద్దవిగా మరియు కలిసిపోయి, మొత్తం పండు ఉపరితలాన్ని కప్పివేస్తాయి. సోకిన పండ్లు తరచుగా పగుళ్లను వెల్లడిస్తాయి. వర్షం/స్ప్రే/మంచు తర్వాత బాక్టీరియల్ ఊజ్ బయటకు వస్తుంది, ఇది చేతులకు అంటుకునేలా అనిపిస్తుంది మరియు ఎండిన తర్వాత ఉపరితలంపై తెల్లటి మెరిసే పొరను ఇస్తుంది. (ప్లేట్ 1c).",
+      "predisposingFactors": "ఉష్ణోగ్రత (25 – 30° C), సాపేక్ష ఆర్ద్రత (>50%), వర్షపాతం, సిఫార్సు చేసిన దానికంటే ఎక్కువ నత్రజని మోతాదుల వాడకం, సూక్ష్మపోషకాల లోపాలు.",
+      "pruningManagementTitle": "కత్తిరింపు సమయంలో నిర్వహణ పద్ధతులు",
+      "pruningManagement": [
+        "కాండం ఇన్ఫెక్షన్లు తీవ్రంగా ఉంటే, కోత తర్వాత వెంటనే భారీ కత్తిరింపును పాటించండి మరియు బ్లైట్ ఇన్ఫెక్షన్‌తో ఉన్న అన్ని కాండాలను తొలగించండి. సోకిన ప్రాంతానికి సుమారు 2 - 3 అంగుళాల దిగువన కత్తిరించండి.",
+        "కత్తిరింపు తర్వాత కత్తిరించిన చివరలకు బోర్డియక్స్ పేస్ట్ (10%) ను పూయండి. వర్షాకాలంలో అతికించడానికి నూనె ఆధారిత పేస్ట్‌లు [500 గ్రాముల సిఓసి + 1 లీటరు అవిసె నూనెను కలిపి తయారు చేసిన సిఓసి పెయింట్] ప్రాధాన్యత ఇవ్వబడతాయి లేదా 50 మి.లీ/లీటరు పేస్ట్‌కు నూనెను కలపండి."
+      ],
+      "cropSeasonManagementTitle": "పంట కాలంలో నిర్వహణ పద్ధతులు",
+      "cropSeasonManagement": [
+        "కోత తర్వాత విశ్రాంతి కాలంలో మరియు పండు వచ్చే వరకు కొత్త తోటను నాటిన తర్వాత కూడా రోగనిరోధక స్ప్రేలను తీసుకోవాలి.",
+        "తోట/పొరుగు తోటలలో ఉన్న వ్యాధి మరియు వాతావరణ పరిస్థితులను బట్టి 15 - 20 రోజుల వ్యవధిలో బ్రోనోపోల్ @ 0.5 గ్రా/లీ తో కాపర్ ఆక్సిక్లోరైడ్ లేదా కాపర్ హైడ్రాక్సైడ్ @ 2 -2.5 గ్రా/లీ వంటి రాగి ఆధారిత సూత్రీకరణలతో మార్చబడిన బోర్డియక్స్ మిశ్రమాన్ని (1%) స్ప్రే చేయండి.",
+        "తోటలు విశ్రాంతి కాలంలో ఉండి, ఆకు బ్లైట్ ఇన్ఫెక్షన్ కలిగి ఉంటే, బోర్డియక్స్ మిశ్రమం మరియు బ్రోనోపోల్‌తో ప్రత్యామ్నాయంగా స్ట్రెప్టోసైక్లిన్ @ 0.5 గ్రా/లీ యొక్క ఒక స్ప్రేను తీసుకోవచ్చు."
+      ],
+      "cropSeasonManagementNote": "గమనిక: ఇది బాక్టీరియల్ బ్లైట్ లేని ప్రాంతం అయితే స్ట్రెప్టోసైక్లిన్ లేదా బ్రోనోపోల్ స్ప్రేలు అవసరం లేదు.",
+      "emergencySpraysTitle": "అత్యవసర స్ప్రేలు",
+      "emergencySpraysIntro": "పండ్లపై 5-10% బ్లైట్ ఇన్ఫెక్షన్ గమనించిన వెంటనే 4 రోజుల వ్యవధిలో 1-2 స్ప్రేలు మరింత బ్లైట్ వ్యాప్తిని నిరోధిస్తాయి.",
+      "emergencySprays": [
+        "స్ట్రెప్టోసైక్లిన్ @ 0.5 గ్రా/లీ + 2-బ్రోమో-నైట్రోప్రొపేన్-1, 3-డయోల్ (బ్రోనోపోల్ 95%) @ 0.5 గ్రా/లీ + కాపర్ హైడ్రాక్సైడ్ 53.8% WP @ 2.0 గ్రా/లీ + స్ప్రెడర్ స్టిక్కర్ @ 0.5 మి.లీ/లీ ద్రావణం.",
+        "స్ట్రెప్టోసైక్లిన్ @ 0.5 గ్రా/లీ + 2-బ్రోమో-నైట్రోప్రొపేన్-1, 3-డయోల్ (బ్రోనోపోల్ 95%) @ 0.5 గ్రా/లీ + కార్బెండజిమ్ 50% WP @ 1.0 గ్రా/లీ + స్ప్రెడర్ స్టిక్కర్ @ 0.5 మి.లీ/లీ ద్రావణం."
+      ],
+      "emergencySpraysNote": "గమనిక:\n• ప్రతి స్ప్రేకు ముందు బ్లైట్ సోకిన పండ్లను తొలగించి నాశనం చేయండి. సరైన తోట పరిశుభ్రతను పాటించండి మరియు విశ్రాంతి కాలంలో నివారణ స్ప్రేలను తీసుకోండి.",
+      "recommendations": [
+        "బ్లైట్ ఇన్ఫెక్షన్‌తో ఉన్న అన్ని కాండాలను కత్తిరించి తొలగించండి.",
+        "కత్తిరింపు తర్వాత కత్తిరించిన చివరలకు బోర్డియక్స్ పేస్ట్ ను పూయండి.",
+        "బోర్డియక్స్ మిశ్రమం లేదా బ్రోనోపోల్ వంటి రోగనిరోధక స్ప్రేలను ఉపయోగించండి.",
+        "ప్రతి స్ప్రేకు ముందు బ్లైట్ సోకిన పండ్లను తొలగించి నాశనం చేయండి."
+      ]
+    },
+    "Calyx Rot": {
+      "diseaseName": "వ్యాధి: ఆంత్రాక్నోస్/పండు కుళ్ళు/కాలిక్స్ కుళ్ళు",
+      "description": "అర్ధ-శుష్క పరిస్థితులలో ఆంత్రాక్నోస్/పండు కుళ్ళు ఒక ప్రధాన సమస్యగా మారుతోంది. ఈ వ్యాధి ఉష్ణమండల మరియు ఉపఉష్ణమండల ప్రాంతాలలో సాధారణం.",
+      "causalOrganism": "కొల్లెటోట్రికమ్ ఎస్పిపి.",
+      "symptoms": "కొల్లెటోట్రికమ్ లక్షణాలు పువ్వులు, పండ్లు, ఆకులు లేదా కొమ్మలపై అభివృద్ధి చెందుతాయి, కానీ పండ్లు అత్యంత సున్నితంగా ఉంటాయి.\n• ఆకులపై, పసుపు प्रभामंडलతో చిన్న వృత్తాకార మచ్చలు అభివృద్ధి చెందుతాయి; తరువాత సోకిన ఆకులు పసుపు రంగులోకి మారి అకాల ఆకు రాలడానికి దారితీస్తాయి.\n• పండ్లపై, మొదటి లక్షణాలు కాలిక్స్ చివర నుండి పండు తొక్క రంగు మారడం లేదా అనేక వివిక్త మచ్చలుగా గమనించబడతాయి, ఇవి తరువాత కలిసిపోయి పండు ఉపరితలంపై неправильные మచ్చలను ఏర్పరుస్తాయి (కొల్లెటోట్రికమ్ ఎస్పిపి.)\n• రంగు మారిన ప్రాంతాలు ఎరుపు/ముదురు గోధుమ రంగు నుండి నలుపు రంగులోకి మారతాయి. కుళ్ళు తొక్కను దాటి అరిల్స్‌లోకి విస్తరిస్తుంది, ఇవి విచ్ఛిన్నమై ముదురు బూడిద/గోధుమ-నలుపు రంగులో ఉంటాయి కానీ నీరుగా ఉండవు. సోకిన పండ్లు తరువాతి దశలో రాలిపోవచ్చు.\n• పండ్లు సెట్టింగ్ నుండి అన్ని దశలలో ఈ వ్యాధికి అత్యంత హాని కలిగి ఉంటాయి.",
+      "predisposingFactors": "25 - 30°C ఉష్ణోగ్రత మరియు అధిక ఆర్ద్రత (>60%) వ్యాధి అభివృద్ధికి అనుకూలంగా ఉంటాయి. వేసవి నెలలలో అధిక ఆర్ద్రత, వర్షపాతం మరియు వెచ్చని ఉష్ణోగ్రతలు వ్యాధి తీవ్రతను పెంచుతాయి.",
+      "chemicalManagementTitle": "కొల్లెటోట్రికమ్ కుళ్ళుల రసాయన నిర్వహణ",
+      "chemicalManagementIntro": "వాతావరణ పరిస్థితులను బట్టి 7-10 రోజుల వ్యవధిలో క్రింద పేర్కొన్న స్ప్రేలను ప్రత్యామ్నాయంగా తీసుకోండి మరియు చివరలో ఇచ్చిన ముఖ్యమైన సూచనలను అనుసరించండి.",
+      "sprays": [
+        "జినెబ్ 68% + హెక్సాకోనజోల్ 4% WP @ 2.5 గ్రా/లీ",
+        "టెబుకోనజోల్ 50% + ట్రైఫ్లోక్సిస్ట్రోబిన్ 25% WG @ 0.5 గ్రా/లీ",
+        "ప్రొపినెబ్ 70% WP @ 3 గ్రా/లీ",
+        "కాపర్ ఆక్సిక్లోరైడ్ 45% + కసుగామైసిన్ 5% WP @ 2.5 గ్రా/లీ",
+        "అజోక్సిస్ట్రోబిన్ 8.3% + మాంకోజెబ్ 66.7% WG @ 1.5 గ్రా/లీ",
+        "ఫ్లోపైరమ్ 21.4% + ట్రైఫ్లోక్సిస్ట్రోబిన్ 21.4% SC @ 0.7 మి.లీ/లీ",
+        "ఫ్లోపికోలైడ్ 5.56% + ప్రొపమోకార్బ్ హైడ్రోక్లోరైడ్ 55.6% SC @ 1.25 మి.లీ/లీ"
+      ],
+      "importantInstructionsTitle": "ముఖ్యమైన సూచనలు",
+      "instructions": [
+        "పుష్పించే సమయంలో మాండిప్రోపమిడ్ 23.4% @ 1 మి.లీ/లీ (10-15 రోజులకు 2-3 స్ప్రేలు) స్ప్రే చేయడం అనేక శిలీంధ్ర వ్యాధులకు నివారణగా పనిచేస్తుంది. కాబట్టి దీనిని పుష్పించే సమయంలో తీసుకోండి.",
+        "ఆ రోజు వర్షం వచ్చే అవకాశం ఉంటే స్ప్రేను నివారించండి; వర్షం పడిన కొన్ని గంటల తర్వాత స్ప్రే చేయడం మంచిది మరియు చాలా ముఖ్యం.",
+        "తుది ద్రావణాన్ని తయారు చేసిన తర్వాత స్ప్రే యొక్క pH ను తనిఖీ చేయాలి. దానిని 6.5-7.0 pH/ లేదా శిలీంధ్రనాశక ప్యాక్‌పై సూచించిన విధంగా సర్దుబాటు చేయాలి. ఇది రసాయన గాయాలను నివారిస్తుంది మరియు మంచి ఫలితాలను ఇస్తుంది.",
+        "బోర్డియక్స్ మిశ్రమం తప్ప స్ప్రేలతో ఎల్లప్పుడూ స్ప్రెడర్ స్టిక్కర్‌ను ఉపయోగించండి.",
+        "రాగి శిలీంధ్రనాశకాలను మినహాయించి ఏ పురుగుమందును ఒక సీజన్‌లో 2-3 సార్లు కంటే ఎక్కువ ఉపయోగించకూడదు.",
+        "అవశేషాలు లేని ఉత్పత్తి కోసం ప్రీ-హార్వెస్ట్ విరామం ప్రకారం స్ప్రేలను రొటేషన్‌లో తీసుకోవచ్చు."
+      ],
+      "recommendations": [
+        "సోకిన పండు మరియు ఆకులను తొలగించి నాశనం చేయండి.",
+        "తగిన శిలీంధ్రనాశకాన్ని (ఉదా., జినెబ్, టెబుకోనజోల్) వర్తించండి.",
+        "కత్తిరింపు ద్వారా గాలి ప్రసరణను మెరుగుపరచండి."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Fungal Cercospora": {
+      "diseaseName": "వ్యాధి: సెర్కోస్పోరా ఫ్రూట్ స్పాట్",
+      "description": "దానిమ్మ శిలీంధ్రాల పండు మచ్చకు గురవుతుంది, ముఖ్యంగా సెర్కోస్పోరా పునికే (ಸ್ಯುಡೋಸೆರ್ಕೊಸ್ಪೊರಾ పునికే) వ్యాధికారకాలు పండు దిగుబడి మరియు నాణ్యతను తగ్గిస్తాయి.",
+      "causalOrganism": "సెర్కోస్పోరా పునికే (ಸ್ಯುಡೋಸೆರ್ಕೊಸ್ಪೊರಾ పునికే)",
+      "symptoms": "వ్యాధికారకం ముఖ్యంగా పండ్లపై లక్షణమైన మచ్చ లక్షణాలను ఉత్పత్తి చేస్తుంది. చిన్న, неправильные మచ్చలు ప్రారంభంలో వృత్తాకారంగా ఉంటాయి కానీ పెద్దవిగా మరియు ముదురు రంగులోకి మారతాయి.",
+      "predisposingFactors": "20 - 30°C మధ్య ఉష్ణోగ్రత మరియు దీర్ఘకాలం పాటు 60% కంటే ఎక్కువ ఆర్ద్రత వ్యాధి అభివృద్ధికి అనుకూలంగా ఉంటాయి. వర్షాకాలంలో ఆకు మరియు పండు మచ్చలు తరచుగా ప్రబలంగా ఉంటాయి.",
+      "chemicalManagementTitle": "శిలీంధ్ర ఆకు మరియు పండు మచ్చల రసాయన నిర్వహణ",
+      "chemicalManagementIntro": "వాతావరణ పరిస్థితులు మరియు వ్యాధి ఒత్తిడిని బట్టి 7-10 రోజుల వ్యవధిలో క్రింద పేర్కొన్న స్ప్రేలను ప్రత్యామ్నాయంగా తీసుకోండి మరియు చివరలో ఇచ్చిన ముఖ్యమైన సూచనలను అనుసరించండి.",
+      "sprays": [
+        "జినెబ్ 75% WP @ 2 గ్రా/లీ",
+        "జినెబ్ 68% + హెక్సాకోనజోల్ 4% WP @ 2.5 గ్రా/లీ",
+        "మెటిరామ్ 55% WG + పైరాక్లోస్ట్రోబిన్ 5% @ 3 గ్రా/లీ",
+        "టెబుకోనజోల్ 50% + ట్రైఫ్లోక్సిస్ట్రోబిన్ 25% WG @ 0.5 గ్రా/లీ",
+        "ప్రొపినెబ్ 70% WP @ 3 గ్రా/లీ",
+        "ట్రైసైక్లాజోల్ 18% + మాంకోజెబ్ 62% WP 2.5 నుండి 3.0 గ్రా/లీ",
+        "కాపర్ సల్ఫేట్ 47.15% + మాంకోజెబ్ 30% WDG @ 2.5 గ్రా/లీ",
+        "అజోక్సిస్ట్రోబిన్ 8.3% + మాంకోజెబ్ 66.7% WG @ 1.5 గ్రా/లీ"
+      ],
+      "importantInstructionsTitle": "ముఖ్యమైన సూచనలు",
+      "instructions": [
+        "పుష్పించే సమయంలో మాండిప్రోపమిడ్ 23.4% @ 1 మి.లీ/లీ (10-15 రోజులకు 2-3 స్ప్రేలు) స్ప్రే చేయడం సెర్కోస్పోరా ఫ్రూట్ మరియు లీఫ్ స్పాట్ మరియు స్కాబ్ వంటి అనేక శిలీంధ్ర వ్యాధులకు నివారణగా పనిచేస్తుంది. కాబట్టి దీనిని పుష్పించే సమయంలో తీసుకోండి.",
+        "ఆ రోజు వర్షం వచ్చే అవకాశం ఉంటే స్ప్రేను నివారించండి; వర్షం పడిన కొన్ని గంటల తర్వాత స్ప్రే చేయడం మంచిది మరియు చాలా ముఖ్యం.",
+        "తుది ద్రావణాన్ని తయారు చేసిన తర్వాత స్ప్రే యొక్క pH ను తనిఖీ చేయాలి. దానిని 6.5-7.0 pH/ లేదా శిలీంధ్రనాశక ప్యాక్‌పై సూచించిన విధంగా సర్దుబాటు చేయాలి. ఇది రసాయన గాయాలను నివారిస్తుంది మరియు మంచి ఫలితాలను ఇస్తుంది.",
+        "బోర్డియక్స్ మిశ్రమం తప్ప స్ప్రేలతో ఎల్లప్పుడూ స్ప్రెడర్ స్టిక్కర్‌ను ఉపయోగించండి.",
+        "రాగి శిలీంధ్రనాశకాలను మినహాయించి ఏ పురుగుమందును ఒక సీజన్‌లో 2-3 సార్లు కంటే ఎక్కువ ఉపయోగించకూడదు.",
+        "అవశేషాలు లేని ఉత్పత్తి కోసం ప్రీ-హార్వెస్ట్ విరామం ప్రకారం స్ప్రేలను రొటేషన్‌లో తీసుకోవచ్చు."
+      ],
+      "recommendations": [
+        "సోకిన ఆకులను తొలగించి కాల్చివేయండి.",
+        "నివారణగా శిలీంధ్రనాశకాలను వర్తించండి.",
+        "మంచి గాలి ప్రసరణను నిర్ధారించుకోండి."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Fruit Rot": {
+      "diseaseName": "వ్యాధి: ఆంత్రాక్నోస్/పండు కుళ్ళు/కాలిక్స్ కుళ్ళు",
+      "description": "అర్ధ-శుష్క పరిస్థితులలో ఆంత్రాక్నోస్/పండు కుళ్ళు ఒక ప్రధాన సమస్యగా మారుతోంది. ఈ వ్యాధి ఉష్ణమండల మరియు ఉపఉష్ణమండల ప్రాంతాలలో సాధారణం.",
+      "causalOrganism": "కొల్లెటోట్రికమ్ ఎస్పిపి.",
+      "symptoms": "కొల్లెటోట్రికమ్ లక్షణాలు పువ్వులు, పండ్లు, ఆకులు లేదా కొమ్మలపై అభివృద్ధి చెందుతాయి, కానీ పండ్లు అత్యంత సున్నితంగా ఉంటాయి.\n• ఆకులపై, పసుపు प्रभामंडलతో చిన్న వృత్తాకార మచ్చలు అభివృద్ధి చెందుతాయి; తరువాత సోకిన ఆకులు పసుపు రంగులోకి మారి అకాల ఆకు రాలడానికి దారితీస్తాయి.\n• పండ్లపై, మొదటి లక్షణాలు కాలిక్స్ చివర నుండి పండు తొక్క రంగు మారడం లేదా అనేక వివిక్త మచ్చలుగా గమనించబడతాయి, ఇవి తరువాత కలిసిపోయి పండు ఉపరితలంపై неправильные మచ్చలను ఏర్పరుస్తాయి (కొల్లెటోట్రికమ్ ఎస్పిపి.)\n• రంగు మారిన ప్రాంతాలు ఎరుపు/ముదురు గోధుమ రంగు నుండి నలుపు రంగులోకి మారతాయి. కుళ్ళు తొక్కను దాటి అరిల్స్‌లోకి విస్తరిస్తుంది, ఇవి విచ్ఛిన్నమై ముదురు బూడిద/గోధుమ-నలుపు రంగులో ఉంటాయి కానీ నీరుగా ఉండవు. సోకిన పండ్లు తరువాతి దశలో రాలిపోవచ్చు.\n• పండ్లు సెట్టింగ్ నుండి అన్ని దశలలో ఈ వ్యాధికి అత్యంత హాని కలిగి ఉంటాయి.",
+      "predisposingFactors": "25 - 30°C ఉష్ణోగ్రత మరియు అధిక ఆర్ద్రత (>60%) వ్యాధి అభివృద్ధికి అనుకూలంగా ఉంటాయి. వేసవి నెలలలో అధిక ఆర్ద్రత, వర్షపాతం మరియు వెచ్చని ఉష్ణోగ్రతలు వ్యాధి తీవ్రతను పెంచుతాయి.",
+      "chemicalManagementTitle": "కొల్లెటోట్రికమ్ కుళ్ళుల రసాయన నిర్వహణ",
+      "chemicalManagementIntro": "వాతావరణ పరిస్థితులను బట్టి 7-10 రోజుల వ్యవధిలో క్రింద పేర్కొన్న స్ప్రేలను ప్రత్యామ్నాయంగా తీసుకోండి మరియు చివరలో ఇచ్చిన ముఖ్యమైన సూచనలను అనుసరించండి.",
+      "sprays": [
+        "జినెబ్ 68% + హెక్సాకోనజోల్ 4% WP @ 2.5 గ్రా/లీ",
+        "టెబుకోనజోల్ 50% + ట్రైఫ్లోక్సిస్ట్రోబిన్ 25% WG @ 0.5 గ్రా/లీ",
+        "ప్రొపినెబ్ 70% WP @ 3 గ్రా/లీ",
+        "కాపర్ ఆక్సిక్లోరైడ్ 45% + కసుగామైసిన్ 5% WP @ 2.5 గ్రా/లీ",
+        "అజోక్సిస్ట్రోబిన్ 8.3% + మాంకోజెబ్ 66.7% WG @ 1.5 గ్రా/లీ",
+        "ఫ్లోపైరమ్ 21.4% + ట్రైఫ్లోక్సిస్ట్రోబిన్ 21.4% SC @ 0.7 మి.లీ/లీ",
+        "ఫ్లోపికోలైడ్ 5.56% + ప్రొపమోకార్బ్ హైడ్రోక్లోరైడ్ 55.6% SC @ 1.25 మి.లీ/లీ"
+      ],
+      "importantInstructionsTitle": "ముఖ్యమైన సూచనలు",
+      "instructions": [
+        "పుష్పించే సమయంలో మాండిప్రోపమిడ్ 23.4% @ 1 మి.లీ/లీ (10-15 రోజులకు 2-3 స్ప్రేలు) స్ప్రే చేయడం అనేక శిలీంధ్ర వ్యాధులకు నివారణగా పనిచేస్తుంది. కాబట్టి దీనిని పుష్పించే సమయంలో తీసుకోండి.",
+        "ఆ రోజు వర్షం వచ్చే అవకాశం ఉంటే స్ప్రేను నివారించండి; వర్షం పడిన కొన్ని గంటల తర్వాత స్ప్రే చేయడం మంచిది మరియు చాలా ముఖ్యం.",
+        "తుది ద్రావణాన్ని తయారు చేసిన తర్వాత స్ప్రే యొక్క pH ను తనిఖీ చేయాలి. దానిని 6.5-7.0 pH/ లేదా శిలీంధ్రనాశక ప్యాక్‌పై సూచించిన విధంగా సర్దుబాటు చేయాలి. ఇది రసాయన గాయాలను నివారిస్తుంది మరియు మంచి ఫలితాలను ఇస్తుంది.",
+        "బోర్డియక్స్ మిశ్రమం తప్ప స్ప్రేలతో ఎల్లప్పుడూ స్ప్రెడర్ స్టిక్కర్‌ను ఉపయోగించండి.",
+        "రాగి శిలీంధ్రనాశకాలను మినహాయించి ఏ పురుగుమందును ఒక సీజన్‌లో 2-3 సార్లు కంటే ఎక్కువ ఉపయోగించకూడదు.",
+        "అవశేషాలు లేని ఉత్పత్తి కోసం ప్రీ-హార్వెస్ట్ విరామం ప్రకారం స్ప్రేలను రొటేషన్‌లో తీసుకోవచ్చు."
+      ],
+      "recommendations": [
+        "సోకిన పండు మరియు ఆకులను తొలగించి నాశనం చేయండి.",
+        "తగిన శిలీంధ్రనాశకాన్ని (ఉదా., జినెబ్, టెబుకోనజోల్) వర్తించండి.",
+        "కత్తిరింపు ద్వారా గాలి ప్రసరణను మెరుగుపరచండి."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Healthy": {
+      "description": "ప్రత్యేక నిర్వహణ అవసరం లేదు. ఒత్తిడి లేదా వ్యాధి యొక్క ఏవైనా సంకేతాల కోసం మొక్కను పర్యవేక్షించడం కొనసాగించండి మరియు మంచి వ్యవసాయ పద్ధతులను పాటించండి."
+    },
+    "Fungal Scab": {
+      "diseaseName": "వ్యాధి: పండు స్కాబ్",
+      "description": "2016 నుండి, భారతదేశంలోని శుష్క మరియు అర్ధ-శుష్క ప్రాంతాలలో దానిమ్మ ఉత్పత్తిలో స్కాబ్ ఒక పరిమిత కారకంగా మారింది. వ్యాధి ప్రబలంగా ఉన్న ప్రాంతాలలో, 90-100% పండ్లు సోకిన తోటలను కనుగొనడం అసాధారణం కాదు.",
+      "causalOrganism": "స్ఫాసెలోమా (syn. ఎల్సినో) పునికే",
+      "symptoms": "వ్యాధికారకం పుష్పించే నుండి పండు పక్వత వరకు ఏ దశలోనైనా దాడి చేస్తుంది. పూల మొగ్గలు లేదా చిన్న పండ్ల ఇన్ఫెక్షన్లు వికృతీకరణకు మరియు తత్ఫలితంగా దిగుబడి నష్టాలకు దారితీస్తాయి. పరిపక్వ పండ్ల ఇన్ఫెక్షన్ పండ్ల రూపాన్ని మరియు బాహ్య నాణ్యతను ప్రభావితం చేస్తుంది. గాయాలు బయటి తొక్క ఉపరితలాన్ని మాత్రమే ప్రభావితం చేస్తాయి, అరిల్ లేదా రసం నాణ్యతను ప్రభావితం చేయవు.\n• పండ్లపై గాయాలు చిన్నవిగా లేదా పెద్దవిగా, గోధుమ రంగులో, గరుకుగా, ఉబ్బెత్తుగా, చిన్న ప్రాంతాల నుండి మొత్తం పండు ఉపరితలాన్ని కప్పి, తొక్కకు రస్సెట్ స్కాబ్ రూపాన్ని ఇస్తాయి.\n• మచ్చలు కొన్నిసార్లు పెద్దవిగా, లేత కేంద్రం మరియు ముదురు అంచుతో పెద్ద మచ్చలను ఏర్పరుస్తాయి మరియు స్పర్శకు గరుకుగా ఉంటాయి.\n• ఇది చిన్న గరుకు, ఉబ్బెత్తు మచ్చల నుండి మొత్తం పండు ఉపరితలాన్ని కప్పే పెద్ద గోధుమ మచ్చల వరకు వివిధ ఆకారం మరియు పరిమాణంలో మచ్చలను ఉత్పత్తి చేస్తుంది, రస్సెట్ రూపాన్ని కలిగి ఉంటుంది.",
+      "predisposingFactors": "22 - 28°C ఉష్ణోగ్రత, వర్షం మరియు గాలితో 45 - 65% ఆర్ద్రత వ్యాధి అభివృద్ధికి అనుకూలంగా ఉంటుంది.",
+      "chemicalManagementTitle": "పండు స్కాబ్ యొక్క రసాయన నిర్వహణ",
+      "chemicalManagementIntro": "ఈ వ్యాధి సాధారణంగా వర్షం తర్వాత పండ్లపై గమనించబడుతుంది. పండ్లు లేనప్పుడు ఆకులపై సాధారణంగా గమనించబడుతుంది. గత సీజన్‌లో కూడా మీకు స్కాబ్ ఉంటే వ్యాధి లక్షణాల కోసం వేచి ఉండకండి, వర్షం తర్వాత నివారణ స్ప్రేలను తీసుకోండి. వాతావరణ పరిస్థితులను బట్టి 7-10 రోజుల వ్యవధిలో క్రింద పేర్కొన్న స్ప్రేలను ప్రత్యామ్నాయంగా తీసుకోండి మరియు చివరలో ఇచ్చిన ముఖ్యమైన సూచనలను అనుసరించండి,",
+      "sprays": [
+        "మెటిరామ్ 55% WG + పైరాక్లోస్ట్రోబిన్ 5% @ 3 గ్రా/లీ",
+        "టెబుకోనజోల్ 50% + ట్రైఫ్లోక్సిస్ట్రోబిన్ 25% WG @ 0.5 గ్రా/లీ",
+        "అజోక్సిస్ట్రోబిన్ 18.2% + డైఫెనోకోనజోల్ 11.4% SC @ 1 మి.లీ/లీ",
+        "జినెబ్ 68% + హెక్సాకోనజోల్ 4% WP @ 2.5 గ్రా/లీ",
+        "ఫ్లోపికోలైడ్ 5.56% + ప్రొపమోకార్బ్ హైడ్రోక్లోరైడ్ 55.6% SC @"
+      ],
+      "chemicalManagementNote": "గమనిక: వర్షం తర్వాత వెంటనే ఇస్తే ఉత్తమ ఫలితాలు.",
+      "importantInstructionsTitle": "ముఖ్యమైన సూచనలు",
+      "instructions": [
+        "పుష్పించే సమయంలో మాండిప్రోపమిడ్ 23.4% @ 1 మి.లీ/లీ (10-15 రోజులకు 2-3 స్ప్రేలు) స్ప్రే చేయడం సెర్కోస్పోరా ఫ్రూట్ మరియు లీఫ్ స్పాట్ మరియు స్కాబ్ వంటి అనేక శిలీంధ్ర వ్యాధులకు నివారణగా పనిచేస్తుంది. కాబట్టి దీనిని పుష్పించే సమయంలో తీసుకోండి.",
+        "సెట్టింగ్‌లో సోకిన వికృత పండ్లను తొలగించి నాశనం చేయవచ్చు. ఎక్కడా డంప్ చేయవద్దు లేదా విసిరేయవద్దు.",
+        "ఆ రోజు వర్షం వచ్చే అవకాశం ఉంటే స్ప్రేను నివారించండి; స్కాబ్ ఇన్ఫెక్షన్‌ను నివారించడానికి వర్షం పడిన కొన్ని గంటల తర్వాత స్ప్రే చేయడం మంచిది మరియు చాలా ముఖ్యం.",
+        "తుది ద్రావణాన్ని తయారు చేసిన తర్వాత స్ప్రే యొక్క pH ను తనిఖీ చేయాలి. దానిని 6.5-7.0 pH/ లేదా శిలీంధ్రనాశక ప్యాక్‌పై సూచించిన విధంగా సర్దుబాటు చేయాలి. ఇది రసాయన గాయాలను నివారిస్తుంది మరియు మంచి ఫలితాలను ఇస్తుంది.",
+        "బోర్డియక్స్ మిశ్రమం తప్ప స్ప్రేలతో ఎల్లప్పుడూ స్ప్రెడర్ స్టిక్కర్‌ను ఉపయోగించండి.",
+        "రాగి శిలీంధ్రనాశకాలను మినహాయించి ఏ పురుగుమందును ఒక సీజన్‌లో 2-3 సార్లు కంటే ఎక్కువ ఉపయోగించకూడదు.",
+        "అవశేషాలు లేని ఉత్పత్తి కోసం ప్రీ-హార్వెస్ట్ విరామం ప్రకారం స్ప్రేలను రొటేషన్‌లో తీసుకోవచ్చు."
+      ],
+      "recommendations": [
+        "సోకిన లేదా వికృత పండ్లను తొలగించి నాశనం చేయండి.",
+        "వర్షం తర్వాత నివారణ స్ప్రేలను (ఉదా., మెటిరామ్, టెబుకోనజోల్) వర్తించండి.",
+        "గాలి ప్రసరణను మెరుగుపరచడానికి చెట్లను కత్తిరించండి."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    },
+    "Bacterial": {
+      "diseaseName": "వ్యాధి: బాక్టీరియల్ ఆకు మచ్చ/నూనె మచ్చ",
+      "description": "అనుకూల పరిస్థితులలో దానిమ్మలో బాక్టీరియల్ బ్లైట్ ఆర్థిక దిగుబడి నష్టాలను (60-100%) కలిగిస్తుంది. ఇది జూన్-జూలైలో వర్షాకాలంలో (మృగ్ బహార్) మరింత తీవ్రంగా మరియు ప్రబలంగా ఉంటుంది మరియు రబీ సీజన్‌లో (హస్తా బహార్) తక్కువగా ఉంటుంది.",
+      "causalOrganism": "క్సాంతోమోనాస్ ఆక్సోనోపోడిస్ పివి. పునికే (Syn: క్సాంతోమోనాస్ సిట్రి పివి. పునికే)",
+      "symptoms": "• వ్యాధి లక్షణాలు ఆకులు, కాండం, పువ్వులు మరియు పండ్ల వంటి అన్ని మొక్కల భాగాలపై గమనించబడతాయి.\n• ప్రారంభంలో, ఆకులపై చిన్న неправильные బూడిద-నలుపు నీటితో తడిసిన గాయాలు గమనించబడతాయి, ఇవి వ్యాధి పురోగతితో పెద్దవిగా మారతాయి. వ్యాధి సోకిన ఆకులు క్రమంగా పసుపు రంగులోకి మారి రాలిపోతాయి (ప్లేట్ 1a).\n• వర్షం/స్ప్రే/మంచు తర్వాత బాక్టీరియల్ ఊజ్ బయటకు వస్తుంది, ఇది చేతులకు అంటుకునేలా అనిపిస్తుంది మరియు ఎండిన తర్వాత ఉపరితలంపై తెల్లటి మెరిసే పొరను ఇస్తుంది. (ప్లేట్ 1c).",
+      "predisposingFactors": "ఉష్ణోగ్రత (25 – 30° C), సాపేక్ష ఆర్ద్రత (>50%), వర్షపాతం, సిఫార్సు చేసిన దానికంటే ఎక్కువ నత్రజని మోతాదుల వాడకం, సూక్ష్మపోషకాల లోపాలు.",
+      "cropSeasonManagementTitle": "పంట కాలంలో నిర్వహణ పద్ధతులు",
+      "cropSeasonManagement": [
+        "కోత తర్వాత విశ్రాంతి కాలంలో మరియు పండు వచ్చే వరకు కొత్త తోటను నాటిన తర్వాత కూడా రోగనిరోధక స్ప్రేలను తీసుకోవాలి.",
+        "తోట/పొరుగు తోటలలో ఉన్న వ్యాధి మరియు వాతావరణ పరిస్థితులను బట్టి 15 - 20 రోజుల వ్యవధిలో బ్రోనోపోల్ @ 0.5 గ్రా/లీ తో కాపర్ ఆక్సిక్లోరైడ్ లేదా కాపర్ హైడ్రాక్సైడ్ @ 2 -2.5 గ్రా/లీ వంటి రాగి ఆధారిత సూత్రీకరణలతో మార్చబడిన బోర్డియక్స్ మిశ్రమాన్ని (1%) స్ప్రే చేయండి.",
+        "తోటలు విశ్రాంతి కాలంలో ఉండి, ఆకు బ్లైట్ ఇన్ఫెక్షన్ కలిగి ఉంటే, బోర్డియక్స్ మిశ్రమం మరియు బ్రోనోపోల్‌తో ప్రత్యామ్నాయంగా స్ట్రెప్టోసైక్లిన్ @ 0.5 గ్రా/లీ యొక్క ఒక స్ప్రేను తీసుకోవచ్చు."
+      ],
+      "cropSeasonManagementNote": "గమనిక: ఇది బాక్టీరియల్ బ్లైట్ లేని ప్రాంతం అయితే స్ట్రెప్టోసైక్లిన్ లేదా బ్రోనోపోల్ స్ప్రేలు అవసరం లేదు.",
+      "emergencySpraysTitle": "అత్యవసర స్ప్రేలు",
+      "emergencySpraysIntro": "ఆకులపై 5-10% బ్లైట్ ఇన్ఫెక్షన్ గమనించిన వెంటనే 4 రోజుల వ్యవధిలో 1-2 స్ప్రేలు మరింత బ్లైట్ వ్యాప్తిని నిరోధిస్తాయి.",
+      "emergencySprays": [
+        "స్ట్రెప్టోసైక్లిన్ @ 0.5 గ్రా/లీ + 2-బ్రోమో-నైట్రోప్రొపేన్-1, 3-డయోల్ (బ్రోనోపోల్ 95%) @ 0.5 గ్రా/లీ + కాపర్ హైడ్రాక్సైడ్ 53.8% WP @ 2.0 గ్రా/లీ + స్ప్రెడర్ స్టిక్కర్ @ 0.5 మి.లీ/లీ ద్రావణం.",
+        "స్ట్రెప్టోసైక్లిన్ @ 0.5 గ్రా/లీ + 2-బ్రోమో-నైట్రోప్రొపేన్-1, 3-డయోల్ (బ్రోనోపోల్ 95%) @ 0.5 గ్రా/లీ + కార్బెండజిమ్ 50% WP @ 1.0 గ్రా/లీ + స్ప్రెడర్ స్టిక్కర్ @ 0.5 మి.లీ/లీ ద్రావణం."
+      ],
+      "emergencySpraysNote": "గమనిక:\n• ప్రతి స్ప్రేకు ముందు బ్లైట్ సోకిన పండ్లను తొలగించి నాశనం చేయండి. సరైన తోట పరిశుభ్రతను పాటించండి మరియు విశ్రాంతి కాలంలో నివారణ స్ప్రేలను తీసుకోండి.",
+      "recommendations": [
+        "ఆకులను పొడిగా ఉంచడానికి ఓవర్ హెడ్ నీటిపారుదలని నివారించండి.",
+        "నివారణ చర్యగా రాగి ఆధారిత స్ప్రేలను వర్తించండి.",
+        "సోకిన ఆకులను వెంటనే తొలగించి నాశనం చేయండి."
+      ]
+    },
+    "Fungal": {
+      "diseaseName": "వ్యాధి: శిలీంధ్ర ఆకు మచ్చలు",
+      "description": "దానిమ్మ అనేక ఆకు మచ్చలను కలిగించే వ్యాధికారకాలకు గురవుతుంది, ఇవి పండు దిగుబడి మరియు నాణ్యతను తగ్గిస్తాయి.",
+      "causalOrganism": "ఆకు మచ్చలు ఆల్టర్నేరియా ఆల్టర్నేటా, సెర్కోస్పోరా పునికే (ಸ್ಯುಡೋಸೆರ್ಕೊಸ್ಪೊರಾ పునికే), కొల్లెటోట్రికమ్ ఎస్పి, డ్రెక్స్క్లెరా రోస్ట్రాటా వంటి అనేక శిలీంధ్ర వ్యాధికారకాల వల్ల కలుగుతాయి. అంతేకాకుండా, బోట్రియోడిప్లోడియా థియోబ్రోమే, కర్వులేరియా ఎస్పి, పెస్టలోటియోప్సిస్ ఎస్పి వంటి అనేక ఇతర శిలీంధ్ర జాతుల వల్ల ఆకు మచ్చలు కలుగుతాయని నివేదించబడింది.",
+      "symptoms": "వివిధ వ్యాధికారకాలు ముఖ్యంగా ఆకులు, కాండంపై లక్షణమైన మచ్చ లక్షణాలను ఉత్పత్తి చేస్తాయి. దీని ఖచ్చితమైన గుర్తింపును సూక్ష్మదర్శిని మరియు స్వచ్ఛమైన సంస్కృతి అధ్యయనాల ద్వారా మాత్రమే చేయవచ్చు, ఎందుకంటే చాలా సార్లు సహజ పరిస్థితులలో అతివ్యాప్తి చెందే వ్యాధి లక్షణాలు గమనించబడతాయి. ఆకు మరియు పండు మచ్చలలో, సెర్కోస్పోరా మచ్చలు దానిమ్మపై అత్యంత ప్రముఖంగా ఉంటాయి.",
+      "predisposingFactors": "20 - 30°C మధ్య ఉష్ణోగ్రత మరియు దీర్ఘకాలం పాటు 60% కంటే ఎక్కువ ఆర్ద్రత వ్యాధి అభివృద్ధికి అనుకూలంగా ఉంటాయి. వర్షాకాలంలో ఆకు మరియు పండు మచ్చలు తరచుగా ప్రబలంగా ఉంటాయి.",
+      "chemicalManagementTitle": "శిలీంధ్ర ఆకు మచ్చల రసాయన నిర్వహణ",
+      "chemicalManagementIntro": "వాతావరణ పరిస్థితులను బట్టి 7-10 రోజుల వ్యవధిలో క్రింద పేర్కొన్న స్ప్రేలను ప్రత్యామ్నాయంగా తీసుకోండి మరియు చివరలో ఇచ్చిన ముఖ్యమైన సూచనలను అనుసరించండి.",
+      "sprays": [
+        "జినెబ్ 75% WP @ 2 గ్రా/లీ",
+        "జినెబ్ 68% + హెక్సాకోనజోల్ 4% WP @ 2.5 గ్రా/లీ",
+        "మెటిరామ్ 55% WG + పైరాక్లోస్ట్రోబిన్ 5% @ 3 గ్రా/లీ",
+        "టెబుకోనజోల్ 50% + ట్రైఫ్లోక్సిస్ట్రోబిన్ 25% WG @ 0.5 గ్రా/లీ",
+        "ప్రొపినెబ్ 70% WP @ 3 గ్రా/లీ",
+        "ట్రైసైక్లాజోల్ 18% + మాంకోజెబ్ 62% WP 2.5 నుండి 3.0 గ్రా/లీ",
+        "కాపర్ సల్ఫేట్ 47.15% + మాంకోజెబ్ 30% WDG @ 2.5 గ్రా/లీ",
+        "అజోక్సిస్ట్రోబిన్ 8.3% + మాంకోజెబ్ 66.7% WG @ 1.5 గ్రా/లీ"
+      ],
+      "importantInstructionsTitle": "ముఖ్యమైన సూచనలు",
+      "instructions": [
+        "పుష్పించే సమయంలో మాండిప్రోపమిడ్ 23.4% @ 1 మి.లీ/లీ (10-15 రోజులకు 2-3 స్ప్రేలు) స్ప్రే చేయడం సెర్కోస్పోరా ఫ్రూట్ మరియు లీఫ్ స్పాట్ మరియు స్కాబ్ వంటి అనేక శిలీంధ్ర వ్యాధులకు నివారణగా పనిచేస్తుంది. కాబట్టి దీనిని పుష్పించే సమయంలో తీసుకోండి.",
+        "ఆ రోజు వర్షం వచ్చే అవకాశం ఉంటే స్ప్రేను నివారించండి; వర్షం పడిన కొన్ని గంటల తర్వాత స్ప్రే చేయడం మంచిది మరియు చాలా ముఖ్యం.",
+        "తుది ద్రావణాన్ని తయారు చేసిన తర్వాత స్ప్రే యొక్క pH ను తనిఖీ చేయాలి. దానిని 6.5-7.0 pH/ లేదా శిలీంధ్రనాశక ప్యాక్‌పై సూచించిన విధంగా సర్దుబాటు చేయాలి. ఇది రసాయన గాయాలను నివారిస్తుంది మరియు మంచి ఫలితాలను ఇస్తుంది.",
+        "బోర్డియక్స్ మిశ్రమం తప్ప స్ప్రేలతో ఎల్లప్పుడూ స్ప్రెడర్ స్టిక్కర్‌ను ఉపయోగించండి.",
+        "రాగి శిలీంధ్రనాశకాలను మినహాయించి ఏ పురుగుమందును ఒక సీజన్‌లో 2-3 సార్లు కంటే ఎక్కువ ఉపయోగించకూడదు.",
+        "అవశేషాలు లేని ఉత్పత్తి కోసం ప్రీ-హార్వెస్ట్ విరామం ప్రకారం స్ప్రేలను రొటేషన్‌లో తీసుకోవచ్చు."
+      ],
+      "recommendations": [
+        "తగిన శిలీంధ్రనాశకాలను వర్తించండి, వివిధ రసాయన సమూహాల మధ్య తిప్పండి.",
+        "కత్తిరింపు ద్వారా గాలి ప్రసరణను మెరుగుపరచండి.",
+        "ఆకులను పొడిగా ఉంచడానికి మొక్క యొక్క ఆధారం వద్ద నీరు పోయండి."
+      ],
+      "sourceUrl": "https://nrcpomegranate.icar.gov.in/files/Advisory"
+    }
+  }
+}

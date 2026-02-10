@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'home_page.dart';
+import 'splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,30 +13,30 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  ThemeMode _themeMode = ThemeMode.system;
+  String _languageCode = 'en';
 
-  void _toggleTheme(bool isDark) {
+  void _changeLanguage(String languageCode) {
     setState(() {
-      _themeMode = isDark ? ThemeMode.dark : ThemeMode.light;
+      _languageCode = languageCode;
+
     });
   }
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Pomo AI (ONNX - Leaf & Fruit)',
+      title: 'Anar Rakshak (ONNX - Leaf & Fruit)',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-        brightness: Brightness.light,
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.green, brightness: Brightness.light),
       ),
       darkTheme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple, brightness: Brightness.dark),
-        brightness: Brightness.dark,
+        colorScheme: ColorScheme.fromSeed(
+            seedColor: Colors.green, brightness: Brightness.dark),
       ),
-      themeMode: _themeMode,
-      home: MyHomePage(
-        onThemeToggle: _toggleTheme,
-        isDarkMode: _themeMode == ThemeMode.dark,
+      themeMode: ThemeMode.dark,
+      home: SplashScreen(
+        languageCode: _languageCode,
+        onLanguageChanged: _changeLanguage,
       ),
     );
   }
